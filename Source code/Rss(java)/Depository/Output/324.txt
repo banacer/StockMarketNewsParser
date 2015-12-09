@@ -1,0 +1,494 @@
+IN RE eBAY, INC., DERIVATIVE LITIGATION - September 2, 2011.
+
+{"parsetags": "explicit"}
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+� IN RE eBAY,...  
+
+
+
+ 
+
+
+&nbsp;&nbsp;View&nbsp;Case  
+
+
+
+Cited&nbsp;Cases
+  
+
+
+Citing&nbsp;Cases  
+
+()
+   
+
+ | Follow Leagle on Twitter   | 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+IN RE eBAY, INC., DERIVATIVE LITIGATION
+
+
+
+
+
+
+IN RE: EBAY, INC., DERIVATIVE LITIGATION.
+
+This Document Relates to: ALL ACTIONS.
+
+
+
+
+
+
+Civ. No. 10-470-LPS.
+
+
+
+
+
+United States District Court, D. Delaware.
+
+
+
+
+
+
+
+September 2, 2011.
+
+
+
+
+
+John V. Work, LAW OFFICES OF JOHN V. WORK P.A., Wilmington, DE; Kenneth
+J. Vianale, VIANALE & VIANALE LLP, Boca Raton, FL; Ronen Sarraf, Joseph
+Gentile, SARRAF GENTILE LLP, New York, NY, Attorneys for Plaintiff;
+
+William M. Lafferty, Ryan D. Stottmann, Pauletta J. Brown, MORRIS,
+NICHOLS, ARSHT & TUNNELL LLP, Wilmington, DE, Attorneys for Individual
+Defendants and nominal Defendant eBay;
+
+Edward D. Hassi, New York, NY; Thomas P. Brown, San Francisco, CA,
+O'MELVENY & MYERS LLP, Attorneys for nominal Defendant eBay.
+
+
+
+
+===========================================================================
+
+
+Â 
+
+Â 
+
+
+
+
+
+MEMORANDUM OPINION
+
+
+
+
+LEONARD P. STARK, District Judge.
+
+This shareholder securities lawsuit presents issues regarding federal
+antitrust laws and demand futility. Pending before the Court is the
+individual defendants' motion to dismiss the complaint for failure to
+state a claim on which relief may be granted. (D.I. 11; see also C. A.
+No. 10-471-LPS D.I. 8) For the reasons that follow, the Court will grant
+the motion.
+
+
+
+I.Â BACKGROUND1
+
+
+
+Plaintiff Robert F. Booth Trust ("Plaintiff"), a shareholder of eBay,
+Inc. ("eBay" or "the Company") at all relevant times, initiated the
+instant lawsuit on May 28, 2010.2 (D.I. 1 at 4) In the complaint,
+Plaintiff names the individual members of eBay's board of directors as
+defendants.3 (D.I. 1 at 4-11) The complaint is styled as a derivative
+action on behalf of the Company and also lists eBay as a nominal
+defendant. (D.I. 1 at 4) The complaint alleges that by renominating Dawn
+Lepore, a long-time eBay board member, to serve another term on the
+Company's board of directors, in Ml knowledge that Lepore was serving
+simultaneously on the board of directors of the New York Times Company
+("NY Times"), eBay's board of directors violated Â§ 8 of the Clayton
+Act, which prohibits directors of one company from serving on the board
+of a competing company. See 5 U.S.C. Â§ 19 (2006).
+
+
+
+A.Â The Businesses
+
+
+
+eBay, a Delaware corporation with its headquarters in California, was
+founded by Pierre Omidyar â also a named defendant â in 1995 as
+a place to "sell virtually everything under the sun." (D.I. 12 at 4)
+Since 1995, eBay has expanded to become "the world's largest online
+marketplace, where practically anyone can buy and sell practically
+anything." (D.I. 1 at 2; id. at 6) eBay divides its business model into
+two primary segments: Marketplaces and Payments.4 (D.I. 12 Ex. A at 1)
+The Marketplaces component includes eBay's main website, ebay.com, along
+with several other websites, including the Company's "online classifieds
+businesses." (Id.) According to eBay, its classifieds websites are
+available in over 1,000 cities worldwide and generate revenue primarily
+through advertising. (D.I. 1 at 12)
+
+
+===========================================================================
+
+
+Â <<PrevÂ  Â 1Â Â  Â 2Â Â  Â 3Â Â  Â 4Â Â 
+Â 5Â Â  Â 6Â Â  Â 7Â Â  Â 8Â Â  Â 9Â Â 
+Â 10Â Â  Â Next&gt;&gt;Â 
+
+
+
+
+===========================================================================
+
+
+Footnotes
+
+
+===========================================================================
+
+
+1. On a motion to dismiss, the Court must accept all factual allegations
+contained in the complaint as true and makes all inferences in the light
+most favorable to the non-moving party. See Oshiver v. Levin, Fishbein,
+Sedran & Berman,Â 38 F.3d 1380, 1384 (3d Cir. 1994).
+
+Back to Reference
+
+2. On the same day, a separate lawsuit was filed in this District against
+the same defendants by a different plaintiff, Ronald Gross. See C.A. No.
+10-471-LPS. The two cases raised identical issues, and the parties
+subsequently agreed to consolidate them. (C.A. No. 07-471-LPS D.I. 18)
+All references to the docket index in this Memorandum Opinion are to C.A.
+No. 07-470-LPS, unless otherwise noted.
+
+Back to Reference
+
+3. The individual defendants are: Fred D. Anderson, Marc L. Andreessen,
+Edward W. Barnholt, Phillipe M. Bourguignon, Scott D. Cook, John J.
+Donahoe, William C. Ford, Jr., Dawn G. Lepore, David M. Moffett, Pierre
+M. Omidyar, Richard T. Schlossberg, and Thomas J. Tierney. (D.I. 1)
+
+Back to Reference
+
+4. eBay's business model previously included a "Communications"
+component, which consisted essentially of Skype. In November 2009, eBay
+sold Skype and eBay no longer considers Communications as part of its
+business. (D.I. 12 Ex. A at 1)
+
+Back to Reference
+
+5. The statute provides, in relevant part, "No person shall, at the same
+time, serve as a director or officer in any two corporations . . . that
+are . . . engaged . . . in commerce . . . [and] by virtue of their
+business and location of operation, competitors, so that the elimination
+of competition by agreement between them would constitute a violation of
+any of the antitrust laws. . . ." 5 U.S.C. Â§ 19(a)(1) (2006).
+
+Back to Reference
+
+6. The parties raise a peripheral issue about standing under the Clayton
+Act. eBay asserts that Plaintiff's suit must be derivative because
+Plaintiff does not have standing to pursue a direct Clayton Act
+violation. (D.I. 12 at 15 n.9) Plaintiff responds he is proceeding
+derivatively on behalf of eBay, so he has standing regardless of whether
+he can prove any "antitrust injury." (D.I. 24 at 14 n.7) Given the
+Court's ruling on demand futility, the Court need not resolve the
+antitrust injury dispute.
+
+Back to Reference
+
+7. Since eBay is a Delaware corporation, Delaware law governs the
+analysis of whether to excuse demand. See generally Kamen v. Kemper Fin.
+Servs.,Â 500 U.S. 90 (1991).
+
+Back to Reference
+
+8. Plaintiff seeks to excuse demand based, in part, on statements made in
+the Company's brief supporting its motion to dismiss. (D.I. 24 at 12) In
+its brief, eBay states: "Plaintiff does not and cannot allege facts to
+sustain his antitrust claim." (D.I. 12 at 1) From the use of the word
+"cannot," Plaintiff contends that "the board has apparently already
+determined that there is no Section 8 violation claim to be brought."
+(D.I. 24 at 13) Thus, according to Plaintiff, the board is not
+open-minded to the possibility of a Section 8 violation â and,
+therefore, is not independent and cannot be trusted to address any
+potential Clayton Act violations. The Court disagrees with Plaintiff's
+position. Arguments made in a brief are not evidence. Plaintiff's
+reliance on Klein v. Broadhead, 2004 U.S. Dist. LEXIS 919, at *42, *74
+(S.D. Fla. Jan 20, 2004) â in which a defendant corporation had made
+statements in its public filings about the merits of its defenses in a
+litigation â does not persuade the Court to the contrary.
+
+Back to Reference
+
+9. For example, eBay points out that regulators, despite clearly being
+aware of Ms. Lepore's dual service on both boards, have not taken any
+enforcement action. (D.I. 12 at 14 n.6)
+
+Back to Reference
+
+10. The complaint does not allege whether the board had the benefit of an
+opinion of counsel when it decided to re-nominate Lepore.
+
+Back to Reference
+
+11. Plaintiff has not asserted that the directors were motivated by a
+subjective intent to harm the corporation.
+
+Back to Reference
+
+12. Plaintiff cites to paragraphs 35 and 59 in its complaint for the
+proposition that eBay publicly acknowledged that NY Times was a
+competitor. (Tr. at 28; see also D.I. 1 at Â¶ 35; id. at Â¶ 59)
+Neither of these paragraphs, however, contains an explicit statement that
+eBay and NY Times are competitors. Instead, what these paragraphs recite
+is the same 2009 10-K that the Court discussed above. The complaint does
+not contain any reference to an explicit statement in which eBay
+acknowledges that it competes with NY Times.
+
+Back to Reference
+
+13. Indeed, the two cases share more than factual and legal allegations.
+They also share the same plaintiffs: the Robert F. Booth Trust and Ronald
+Gross. See Crowley, 2010 U.S. Dist. LEXIS 18355, at *1.
+
+Back to Reference
+
+14. Plaintiff has requested leave to amend the complaint. (D.I. 24 at 20;
+see also Tr. at 32) Plaintiff's rationale is that he could point to "some
+things in their papers which I think reveal the board's state of mind."
+(Tr. at 32) But adding information from Defendants' briefs in this action
+would not change the Court's analysis. Thus, an additional amendment
+would be futile. Accordingly, the Court denies Plaintiff's request for
+leave to amend the complaint.
+
+Back to Reference
+
+
+
+ 
+
+Click here for unpaginated view
+===========================================================================
+
+
+
+
+
+
+
+
+� COMMONWEALTH v. SILEO
+
+
+� ERAUSQUIN v. NOTZ, STUCKI MANAGEMENT (BERMUDA) LIMITED
+
+
+� IN RE BEAR STEARNS COMPANIES, INC.
+
+
+� PAUL v. WELLS FARGO BANK, N.A.
+
+
+� ROGERS v. FIRST NATIONAL BANK AT WINTER PARK
+
+
+� STATE v. LUGO-PAGAN
+
+
+� U.S. v. BUTLER
+
+
+� COMEAUX v. BROWN & WILLIAMSON TOBACCO CO.
+
+
+� ROGERS v. FIRST NATIONAL BANK AT WINTER PARK
+
+
+� ROGERS v. FIRST NATIONAL BANK AT WINTER PARK
+
+
+
+ 
+
+
+
+
+
+� TULI v. BRIGHAM & WOMEN'S HOSPITAL
+
+
+� COMMONWEALTH v. SILEO
+
+
+� AmBASE CORPORATION v. FEDERAL DEPOSIT INSURANCE CORPORATION
+
+
+� STATE v. LANKFORD
+
+
+� S.E.C. v. KENTON CAPITAL, LTD.
+
+
+� BUDGET RENT A CAR CORPORATION v. COREGIS INSURANCE COMPANY
+
+
+� BLOM v. BARNHART
+
+
+� STATE v. PIOLETTI
+
+
+� STATE v. LANG
+
+
+� ALFADDA v. FENN
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+� 
+Seattle seeking to direct the state attorney general to withdraw the
+state from a suit challenging the federal health care reform law
+
+
+
+� 
+The Due Process Clause and the government's detention of an immigrant for
+nearly 3 years
+
+
+
+� 
+Claim over underground storage tanks on farmland purchased for a nature
+preserve
+
+
+
+� 
+Whether a gun manufacturer should have outfitted a revolver with a safety
+lock
+
+
+
+� 
+Claims related to patent applications
+
+
+
+1 2 3 4 5 ...
+
+
+Click here to search for Archival Cases
+
+
+
+
+
+
+
+
+
+Disclaimer     :::     Terms&nbsp;of&nbsp;Use     :::     Privacy
+Statement     :::     About&nbsp;Us     :::     Contact&nbsp;Us     :::  
+  Copyright Â© 2010 &nbsp;&nbsp;Leagle, Inc.
+
+

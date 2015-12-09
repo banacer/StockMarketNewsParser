@@ -1,0 +1,401 @@
+AUTHENTEC : TouchChip Fingerprint Sensors Selected for BI2 Technology's
+New MORIS(TM) Multifactor Mobile ID Terminal for Law Enforcement |
+4-Traders
+
+
+
+
+
+
+
+
+September 6, 2011 10:53 am US/Eastern 
+
+
+* Technical Analysis
+* Market Quotes
+* Market News
+* Market Screeners and Tools
+
+
+
+* 
+
+
+
+* North America
+* Europe
+* Africa
+* Asia
+* Indexes
+* Forex
+* Commodities
+* Sectors
+
+
+
+* Latest news
+* Hot News
+* Most Read News
+* Calendar
+
+
+
+* Trends
+* Technical signals
+* Gainers / Losers
+* Most active
+* STIM
+* Consensus
+* Moving Averages
+* RSI
+* Gaps
+* Capitalizations
+* Surperformance&copy; ratings
+
+
+
+
+
+
+
+Front Page
+
+
+ Quick Quotes   - United States Of America   - United Kingdom   - Tunisia
+  - The Netherlands   - Switzerland   - Spain   - South Africa   -
+Portugal   - Poland   - Norway   - Morocco   - Japan   - Italy   -
+Ireland   - Hong Kong   - Greece   - Germany   - France   - Finland   -
+Denmark   - Canada   - Belgium   - Austria 
+
+
+ 
+
+
+
+
+
+
+
+
+
+4-Traders Homepage  >  Shares  >  Nasdaq  >  AuthenTec, Inc.   AUTH  
+US0526601077
+
+ Real time Streaming quotes -
+
+
+
+
+
+AUTHENTEC, INC.
+
+
+
+ (AUTH)
+
+ 
+
+
+ 
+
+
+ 
+ End-of-day quote Nasdaq - 09/02
+2.85 USD   -1.72%
+
+ 
+
+
+09:11 am : TouchChip Fingerprint Sensors Selected for BI2 Technology's
+New..
+
+
+08:15 am : TouchChip Fingerprint Sensors Selected for BI2 Technology's
+New..
+
+
+08/31 : QuickPlay Media Leverages AuthenTec DRM Solution to Securely De..
+
+
+
+
+
+Summary Quotes Chart Analysis News Calendar Company Financials Consensus Re
+visions
+
+
+
+
+
+
+
+  
+
+
+Print
+
+
+
+
+
+09/06/2011 | 09:11 am
+
+
+AUTHENTEC : TouchChip Fingerprint Sensors Selected for BI2 Technology's
+New MORIS(TM) Multifactor Mobile ID Terminal for Law Enforcement
+
+
+
+
+
+
+* Provides Android and iPhones with Tri-modal Mobile ID capability
+* FIPS 201-compliant TCS1 TouchChip module adds fingerprint
+  identification capability to MORIS' iris and facial recognition
+  capabilities
+
+MELBOURNE, Fla., Sep 06, 2011 (BUSINESS WIRE) --
+
+AuthenTec (NASDAQ: AUTH), a leading provider of security and identity
+management solutions, announced today that its TCEFC1 TouchChip module
+with the FIPS-201 approved TCS1 TouchChip(R) fingerprint sensor adds
+fingerprint identification capability to BI2 Technology, LLC's
+(www.bi2technologies.com) new Mobile Offender Recognition and
+Identification System (MORIS(TM)) which is now entering mass production
+for shipment to police and law enforcement agencies in the U.S. The
+lightweight MORIS(TM) device attaches to a smartphone to allow police in
+the field to quickly identify criminals, accident victims or lost or
+missing persons through three means of biometric identification:
+fingerprint, iris and facial recognition.
+
+AuthenTec's TCS1 module, mounted on the back of the MORIS(TM) mobile ID
+terminal, allows police to capture high resolution (500 DPI) fingerprint
+images which are encrypted and transmitted for comparison against
+fingerprints of known criminals. Police can use MORIS(TM) to identify
+suspects while in the field, greatly increasing the potential that wanted
+criminals, accident victims or lost/missing people will be identified.
+This is particularly important since many criminals are using
+increasingly sophisticated forms of false identification.
+
+"We believe that the MORIS(TM) mobile ID terminal is a true game changer
+for law enforcement, and we appreciate the outstanding fingerprint sensor
+technology that AuthenTec adds to this device," said Sean Mullin, CEO of
+BI2 Technologies, LLC. "AuthenTec's TCS1 TouchChip provides the
+high-resolution fingerprint images required for comparison to the FBI's
+huge database of fingerprints, allowing police in the field to make quick
+and positive fingerprint identification on the spot. Only AuthenTec
+offered the selection of sensor and interfaces that enabled us to easily
+integrate the fingerprint sensor into MORIS(TM) with very little
+technical effort or risk."
+
+"The mobile ID market is a fast growing market in which BI2's MORIS(TM)
+breaks new ground. We are pleased that our TouchChip sensor technology
+has been selected as part of this innovative, multi-module mobile
+biometric device," said Mike Chaudoin, AuthenTec Director of Government
+and Access Control. "Our TCS1 sensor has been the preferred choice for
+mobile ID platforms such as the lightweight and innovative MORIS(TM)
+device due to TouchChip's thin package design, low power consumption and
+compliance with government standards."
+
+MORIS(TM) is the world's first wireless, tri-modal biometric system on a
+smartphone. This 12.5 ounce Smartphone transforms an iPhone or Android
+phone into a multi-modal biometric mobile ID terminal. The first
+production shipments of the MORIS(TM) devices will begin shipping to
+approximately 40 U.S. counties beginning in the fall of 2011. MORIS(TM)
+was included in Popular Science's 'Best of What's New' listing as one of
+the 100 best innovations of 2010.
+
+AuthenTec's TCS1 is the world's only silicon fingerprint sensor to meet
+the FBI's strict image quality requirements for Federal Information
+Processing Standard 201 (FIPS 201) required for personal identity
+verification. Whether authenticating holders of national ID cards or
+securing access to government facilities, AuthenTec technology is used
+around the world to provide high levels of security. The Company's
+complete offering for mobile and network security and identity management
+includes fingerprint sensors, identity management software, hardware IP,
+and encryption software for mobile and networking applications. AuthenTec
+solutions ensure security and user identity from the client to the cloud,
+and are deployed by the world's leading companies including
+Alcatel-Lucent, Cisco, Fujitsu, HBO, HP, IBM, Motorola, Orange, Samsung,
+Siemens, and Texas Instruments among many others.
+
+About AuthenTec
+
+AuthenTec is the world's #1 provider of fingerprint sensors, identity
+management software, and embedded security solutions. AuthenTec solutions
+address enterprise, consumer and government applications for a growing
+base of top tier global customers. Already shipped on hundreds of
+millions of devices, the Company's smart sensor products, software and
+embedded security solutions are used virtually everywhere, from the PC on
+your desk to the mobile device in your hand to the server in the cloud.
+AuthenTec offers developers and users secure and convenient ways to
+manage today's rapidly evolving digital identities and security needs.
+For more information, visit www.authentec.com or follow us at
+twitter.com/authentecnews.
+
+About BI2 Technologies, LLC
+
+BI2 Technologies, LLC ("BI2"; www.bi2technologies.com) develops and sells
+biometric identification systems and applications used throughout the
+world. In 2007, BI2 (BI2 is short for short for Biometric Intelligence
+and Identification) introduced numerous biometric based law enforcement
+tools and applications for inmate intake and booking, inmate release
+tracking, access control; sex offender registration and tracking, and
+various gang related tools for ongoing registration and tracking. The
+Company's patented and patent pending technologies focus on iris
+recognition technologies and are designed as complementary tools to
+existing fingerprint technologies and biometric systems in use today. All
+of BI2's product lines seamlessly integrate with most jail management
+systems, records management systems, access control systems and/or
+security systems in use today. BI2's innovative, multimodal biometric
+systems have been endorsed by the National Sheriffs' Association ("NSA"),
+the National Association of Triads ("TRIAD"), and the American
+Association of Ophthalmologists.
+
+SOURCE: AuthenTec
+
+AuthenTec
+
+Brent Dietz, +1-321-308-1320
+
+Director of Communications
+
+brent.dietz@authentec.com
+
+
+
+
+Press release transmitted by noodls
+
+
+
+
+
+
+
+
+Latest news on AUTHENTEC, INC.
+
+
+09:11 am TouchChip Fingerprint Sensors Selected for BI2 Technology's New
+MORIS(TM) Multif..
+08:15 am TouchChip Fingerprint Sensors Selected for BI2 Technology's New
+MORIS? Multifact..
+08/31 QuickPlay Media Leverages AuthenTec DRM Solution to Securely
+Deliver Streaming M..
+08/29 Three New Waterproof Fujitsu Mobile Phones from NTT DOCOMO Now
+Available with Au..
+08/25 And Harmonic Deliver Secure End-to-end Video Distribution Platform
+for Apple and..
+08/22 New TazPad Android Tablet Is World's First to Offer Fingerprint
+Sensor for Highl..
+08/18 To Present at 2011 Citi Technology Conference on September 8, 2011
+08/04 Reports Second Quarter Financial Results
+08/03 Announces Availability of the First Commercial Fingerprint Sensor
+Software Devel..
+08/02 NXP, AuthenTec and DeviceFidelity Complete First
+Fingerprint-enabled NFC Payment..
+
+  
+
+Advertisement
+
+
+
+Income Statement Evolution
+
+
+
+More Financials
+
+
+
+
+
+EPS Revisions
+
+
+
+More Estimates Revisions
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+Site Map
+
+Technical Analysis
+
+
+
+Market Quotes
+
+
+* North America
+* Europe
+* Africa
+* Asia
+* Indexes
+* Forex
+* Commodities
+* Sectors
+
+
+Market News
+
+
+* Latest news
+* Hot News
+* Most Read News
+* Calendar
+
+
+Market Screeners and Tools
+
+
+* Trends
+* Technical signals
+* Gainers / Losers
+* Most active
+* STIM
+* Consensus
+* Moving Averages
+* RSI
+* Gaps
+* Capitalizations
+* Surperformance&copy; ratings
+
+
+
+
+
+
+
+
+ Copyright © 2011 Surperformance. All rights reserved.   |   Contact us 
+ |   Surperformance website   |    
+
+
+
+
+
+
+
+
+
+

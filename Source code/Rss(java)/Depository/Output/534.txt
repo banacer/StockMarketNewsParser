@@ -1,0 +1,715 @@
+Google Places Crowdsourcing Exaggerates Death of Businesses - Search
+Engines - News & Reviews - eWeek.com
+
+
+
+
+
+
+Indexing & Search Engine - eWeek
+
+
+
+
+
+
+
+
+
+* HOME
+* NEWS
+* REVIEWS
+* STORAGE
+* SECURITY
+* DESKTOPS/NOTEBOOKS
+* MOBILITY
+* Cloud Computing
+* Biz Advisor
+* BLOGS
+* WHITE PAPERS
+* WEBCASTS
+
+
+* IT Infrastructure·
+* Virtualization·
+* Midmarket·
+* Enterprise Networking·
+* Enterprise Apps·
+* Videos·
+* All eWeek Topics·
+* Slideshows·
+* Smarter Technology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  o 
+  o 
+  o 
+  o 
+  o 
+  o 
+
+  Home Indexing & Search Engine News & Reviews Google Places
+  Crowdsourcing Exaggerates Death of Businesses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+  Search Engine News
+
+
+
+
+  Google Places Crowdsourcing Exaggerates Death of Businesses
+
+
+
+
+
+
+
+
+  By: Clint Boulton
+  2011-09-06
+  Article Rating: / 0
+
+
+
+
+
+  There are 0 user comments on this Indexing & Search Engine story.
+
+
+
+  Google Places falls prey to games on the search engine, with business
+  rivals apparently clicking a label to get the competition's shop to
+  surface as closed on Places listings.
+
+
+
+  Rate This Article:
+
+
+
+
+  Poor Best
+
+
+   
+
+
+  E-mail
+
+
+  Print
+
+
+   
+
+  PDF Version
+
+
+
+
+
+
+
+
+
+  Google is getting gamed, again. Malicious perpetrators are exploiting
+  the Google Places to report that businesses have closed when they are
+  really still open.
+
+  Google Places is the company's local search service, which was revamped
+  in April 2010 to offer business information, such as address, phone
+  numbers, reviews, photos and other kernels of information for searchers.
+
+  One of the features of Places has in its "report a problem" section
+  enables users to click a link that lets Google knows when a business
+  may have closed, warning users not to waste their time driving to
+  defunct establishments.
+
+  This activity, a form of crowdsourcing, lets Google users helps the
+  search engine, which said it can't be on the grounds in every city or
+  town, serve its customers with relevant information. Unfortunately, the
+  way this crowdsourcing option is set up lends itself too easily to
+  abuse.
+
+  When enough users click the problem option "this place is permanently
+  closed," Places lists the business as "reportedly closed." Pending
+  review, the shop is labeled "permanently closed."
+
+  Google said that two weeks ago it noted that abuse of "place closed"
+  spam labels -- was occurring. As noted by the New York Times, reporting
+  a business closed on Google Places "has become an increasingly common
+  tactic among unscrupulous competitors."
+
+  Apparently, rivals in various business niches are displaying nasty
+  competitive streaks by clicking places closed. Google, which declined
+  to say how many instances of abuse it has detected, said in a corporate
+  blog post it has been tweaking the system to halt such incorrect
+  labeling and will roll out the changes soon.
+
+  "We know that accurate listings on Google Maps are an important tool
+  for many business owners. We take reports of spam and abuse very
+  seriously and do our best to ensure the accuracy of a listing before
+  updating it," Google Places Senior Product Manager Ethan Russell wrote
+  Sept. 6.
+
+  "That being said, we apologize to both business owners and users for
+  any frustration this recent issue of spam labeling has caused, and
+  we're committed to making sure that users and potential customers
+  continue to have the most up-to-date and accurate information possible."
+
+  This is hardly the first issue Google Places has had this year that
+  required some adjustment on the search engine's part. Google Places
+  once aggregated big chunks of information from local search rivals
+  Yelp, Urbanspoon, CitySearch, TripAdvisor and more sources before these
+  smaller concerns complained.
+
+  Google, which is weathering an antitrust investigation from the Federal
+  Trade Commission over whether or not it has treated rivals like Yelp
+  unfairly, now relies more heavily on its own Hotpot recommendation
+  engine.
+
+  This also isn't the first time Google search has been gamed. Google
+  last December altered its search algorithm to prohibit Website
+  proprietors from boosting search rankings by mistreating customers.
+  Earlier this year, search engine went so far as to punish J.C. Penney
+  and others for boosting their rankings on Google.com.
+
+
+
+
+
+
+
+
+    Reader Comments: Google Places Crowdsourcing Exaggerates Death of
+  Businesses 
+   >>> Be the FIRST to comment on this article! 
+    
+
+
+
+
+
+
+    
+    
+   >>> More Indexing & Search Engine Articles          >>> More By
+  Clint Boulton 
+    
+
+
+
+
+
+
+  Email Article To Friend  &diams; Print Version Of Article  &diams; PDF
+  Version Of Article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  FEATURED SPONSOR VIDEOS
+
+  Business Leaders Seek Further Productivity Gains in Quest for Financial
+  Goals
+
+  BI on the Fly
+
+  Cloud Success Spurs Organizations to Embrace Business Process as a
+  Service (BPaaS)
+
+  The Growing Need for Real Time Analytics
+
+  View More Videos
+
+  Brought to you by
+
+
+
+
+
+
+  FEATURED SPONSOR MESSAGE
+
+  Time to Start Working from Home
+
+  Laptops, tablets, and smart devices give you the ability to work
+  anytime and anywhere, so the line between office and home is blurring.
+  With secure virtual private network (VPN) connections, you can access
+  all your work resources wherever you have an Internet connection.
+  Working from home - or telework - is growing in popularity for a number
+  of reasons, including employee recruitment, reduced commuting, lower
+  real estate costs, improved resilience, and eco-friendliness.
+
+  Learn More!
+
+  Brought to you by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Advertisement
+
+
+  Sponsors
+
+  o Try Symantec Endpoint Protection 12
+  o Making your data center smarter: How IT can meet the needs of the
+    business with limited resources.
+  o Try a VeriSign SSL Trial Certificate
+  o Security Concerns Still Abound for the Public Cloud
+  o FREE Compliance for Dummies Book from Sophos
+  o Build an IT Infrastructure That Delivers the Future
+  o Scale your app delivery capacity now!
+  o Start your free trial for VeriSign&gt;&gt;
+    verisign.com/ssl/free-30day-trial
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+  eWEEK Videos Newsbreak Videos All Videos
+
+
+
+
+
+
+
+  Today's Featured Video
+
+
+  03:43
+
+  Using the Cloud to Enhance ResilienceWatch Now>
+
+
+
+
+
+  Newest Videos
+
+
+
+
+  Prepping IT to Get Involved in Formal Risk Management
+
+  Analytics Turns Pie Charts Into Increase Sales of Pizza Pies
+
+  Italian Fishermen Turn to the Cloud to Improve Sales
+
+  Business Leaders Seek Further Productivity Gains in Quest for...
+
+  The Future of Storage + Analytics
+
+  Cloud Success Spurs Organizations to Embrace Business Process as a...
+
+  BI on the Fly
+
+  The Growing Need for Real-Time Analytics
+
+
+  Videos sponsored by
+
+
+
+
+
+
+
+
+
+
+  Latest eWEEK Newsbreak
+
+
+  04:27
+
+  eWEEK Newsbreak March 4th 2011Watch Now>
+
+
+
+
+
+  Recent Newsbreak Videos
+
+
+
+
+  eWEEK Newsbreak February 15th 2011
+
+  eWEEK Newsbreak January 31st 2011
+
+  eWEEK Newsbreak January 14th 2011
+
+  eWEEK Newsbreak January 7th 2011
+
+  eWEEK Newsbreak December 20th 2010
+
+  eWEEK Newsbreak December 17th 2010
+
+  eWEEK Newsbreak December 14th 2010
+
+  eWEEK Newsbreak December 9th 2010
+
+
+  Videos sponsored by
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Suggested Related Content:
+
+
+  Articles Labs/How-To Multimedia
+
+
+
+  1. 1: (2011-08-28)
+
+  2. 2: (2011-09-01)
+
+  3. 3: (2011-08-23)
+
+  4. 4: (2011-09-01)
+
+  5. 5: (2011-09-05)
+
+  6. 6: (2011-09-01)
+
+  7. 7: (2011-01-13)
+
+  8. 8: (2011-09-02)
+
+
+  1. 1: How to Manage Successful Crowdsourcing Projects
+
+  2. 2: How to Ride the Cloud: A CIO's Guide to Changing Roles
+
+  3. 3: Amazon Offers Users a Chance to Avoid Android Market Cesspool
+
+  4. 4: INSIDE MOBILE: Memo to Press Barons: Offer Wireless
+     Connectivity
+
+  5. 5: How to Ensure SAAS Providers Are Truly Protecting Your Data
+
+  6. 6: Google and Microsoft: Separated at Birth?
+
+  7. 7: How to Accelerate and Streamline Data Classification Projects
+
+  8. 8: Tapping the Positive from Social Networks for Enterprise
+     Collaboration
+
+
+  1. 1: Top 20 Tech and Channel Trends of 2009
+
+  2. 2: Bull's Eye Awards: Turnaround of the Year
+
+  3. 3: Vendors That Survived the Recession: 2009 Dire Predictions
+     Revisited
+
+  4. 4: Looking Back: Top 10 Software Stories
+
+  5. 5: Bull`s Eye Awards: Channel Conference of the Year
+
+  6. 6: Bull's Eye Award: Channel Support Service of the Year
+
+  7. 7: Using SMS to Power Business Owners in India
+
+  8. 8: Was 2009 a Tipping Point for Unified Communications and
+     Video Conferencing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Subscribe to eWEEK
+
+
+  Magazine
+
+
+  Newsletters
+
+
+  Feeds
+
+
+  Facebook
+
+
+  Twitter
+
+
+  Widget
+
+
+
+
+
+
+
+
+
+
+
+
+
+  APPLY FOR A FREE
+  SUBSCRIPTION BELOW: 
+
+  > Try digital eWEEK
+  > Renew today
+  > Subscription help
+  > More FREE Subscriptions
+
+  First Name: Last Name:
+   
+  Title: Company:
+   
+  Address: City:
+   
+  State: Zip Code:
+    AL AK AZ AR CA CO CT DE DC FL GA GU HI ID IL IN IA KS KY LA ME MD MA
+  MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA PR RI SC SD TN TX UT
+  VT VI VA WA WV WI WY -- AE AP -- AB BC MB NB NF NS NT ON PE QC SK YT 
+  Email:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Issue Index | Contact Us | About | Advertise | Magazine Customer
+  Service | Site Map
+
+   
+
+
+  Security:
+  Enterprise Networking
+  Network Security
+  Infrastructure Security
+  How To: Data
+  Security Watch Blog
+
+
+  Storage:
+  Data Storage
+  Cloud Storage
+  Storage Virtualization
+  Network Access Storage
+  How To: Storage
+  Storage Station Blog
+
+
+  Computing:
+  Apple OSX
+  Linux Systems
+  Windows 7
+  Managed Print Services
+  Computer Reviews
+  Microsoft Watch Blog
+  Google Watch Blog
+
+
+  Communications:
+  VoIP Solutions
+  Wireless Technology
+  Messaging Software
+  Web Services
+
+
+  Apps & Development:
+  Application Development
+  Enterprise Apps
+  Search Engines
+  Database Software
+  Web 2.0
+  CIOs
+
+
+
+   
+
+
+  Vertical Markets:
+  Federal Government IT
+  Health Care IT
+  Finance IT
+  Mid-Market
+  Channel and VARs
+  Careers Blog
+
+
+  More eWeek Links:
+  Green Computing Center
+  Tech Knowledge Center
+  Tech Newsletters
+  Tech RSS Feeds
+  White Papers
+  Tech Videos
+  Magazine Subscriptions
+
+
+  Enterprise Websites:
+  ZDE Home
+  eWeek
+  Baseline Magazine
+  Channel Insider
+  CIO Insight
+  eSeminars and Events
+  Web Buyers Guide
+
+
+  Developer Websites:
+  DevSource C# and .Net
+  Dev Shed
+  DeveloperShed
+  ASP Free
+  SEO Chat
+  Codewalkers
+  Tutorialized
+  Scripts.com
+  Dev Mechanic
+  Dev Articles
+  Web Hosters
+  Dev Hardware
+
+
+  Technology Websites:
+  Device Forge
+  Desktop Linux
+  Linux Devices
+  Windows for Devices
+  PDF Zone
+  Linux Watch
+  TechDirect
+  Windows Migration
+  Smarter Technology
+
+
+
+   
+
+  Use of this site is governed by our Terms of Use and Privacy Policy
+  Copyright ©1996-2011 Ziff Davis Enterprise Holdings Inc. All Rights
+  Reserved. eWEEK and Spencer F. Katt are trademarks of Ziff Davis
+  Enterprise Holdings, Inc. Reproduction in whole or in part in any form
+  or medium without express written permission of Ziff Davis Enterprise
+  Inc. is prohibited.
+  ZDE Cluster 7
+
+
+
+
+
+
+

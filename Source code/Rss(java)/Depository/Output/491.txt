@@ -1,0 +1,1125 @@
+Dialogic and Voiceserve Collaborate on Mobile Video Conferencing Solution
+- MarketWatch
+
+
+
+
+
+Bulletin
+
+
+
+
+
+
+Investor Alert
+
+Global markets on heels
+
+
+
+
+
+Live Video
+
+'Markets Hub' has your live market update
+
+
+
+
+
+
+
+
+Sign in
+
+Become a MarketWatch member today
+
+
+* Front Page
+* News Viewer
+* Commentary
+* Markets
+* Investing
+* Personal Finance
+* Community
+* Games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+press release
+
+Sept. 6, 2011, 9:03 a.m. EDT
+
+
+Dialogic and Voiceserve Collaborate on Mobile Video Conferencing Solution
+
+
+
+Solution Enables Enterprises and Service Providers to Address Growing
+Demands for Multimedia Communications While Reducing Development and
+Deployment Costs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MILPITAS, CA, Sep 06, 2011 (MARKETWIRE via COMTEX) -- Dialogic Inc. , a
+leading provider of communications technologies that power advanced
+networks, today announced it has teamed up with VoipSwitch, a wholly
+owned subsidiary of Voiceserve, Inc. , to successfully develop and
+validate an open standards-based mobile video conferencing solution based
+on the technology components commercially available from both companies.
+The combined solution provides for SIP-based mobile video conferencing
+from Android and iPhone smartphones using off-the-shelf smartphone video
+client applications, rather than non standards-compliant proprietary
+networks and terminals. This in turn enables enterprises and service
+providers to employ a cost effective approach to developing and deploying
+mobile and multimedia communications, using the efficiencies of cloud
+computing.
+
+Today, video communication solutions are predominantly built using
+proprietary networks, protocols and codecs from recognized industry
+players. This is largely attributed to the extensive amount of
+experimentation required to develop an open standards-based solution. For
+example, providers need to test SIP clients for interoperability with
+multimedia service delivery platforms, as well as ensure that SIP video
+calls are able to get through firewalls.
+
+Recognizing this challenge, Dialogic and VoipSwitch combined VoipSwitch's
+Vippie SIP-based smartphone client application, based on Dialogic(R)
+multimedia processing software, to develop a proof-of-concept that can
+significantly decrease the time and cost required to create open and
+modular standards-based mobile video communication solutions. Because the
+solution is software-based, it provides for the quick delivery of
+scalable and reliable new services. The solution also incorporates the
+Dialogic(R) BorderNet(TM) 500 Gateway, a session border controller that
+allows clients to make SIP calls on the Internet from anywhere and
+enables them to deploy the solution in hosted or cloud environments.
+
+"For far too long expensive proprietary platforms have proven to be a
+barrier of entry to the video conferencing market," stated Michael
+Bibelman, CEO of Voiceserve, Inc. "We are pleased to join forces with
+Dialogic to develop a solution to help change the industry landscape by
+overcoming this significant obstacle."
+
+"Demand for mobile multimedia services is poised to continue to increase
+and, as it does, it is important that the right tools are available to
+developers to help meet this demand. We are excited that through our
+collaboration with a great company like VoipSwitch, we were able to
+develop a more accessible mobile video conferencing tool for the
+developer community," said Franz-Josef Eberle, Vice President and General
+Manager, VAS and Cloud Enabling Unit at Dialogic. "We look forward to
+seeing the innovations that will develop as a result of the combined
+solution."
+
+Dialogic will demonstrate the mobile video conferencing solution set at
+IT Expo West in Austin, and the Rural Cellular Association - Fall Expo
+2011 in Las Vegas the week of September 12th.
+
+About Dialogic For more than 25 years, Dialogic and its subsidiaries have
+been providing communications platforms and technology to enterprise and
+service provider markets. Our portfolio of multimedia processing and call
+control technologies enables developers and service providers to build
+and deploy innovative applications without concern for the complexities
+of the communications medium or network. This empowers our customers to
+unleash the profit from video, voice and data for advanced networks.
+
+For more information on Dialogic, visit www.dialogic.com . Also, find us
+on the following social networking sites:
+
+
+
+
+        
+        --  Dialogic Exchange Network (DEN)
+        --  Facebook
+        --  Twitter
+        --  YouTube
+        
+        
+
+
+
+
+Dialogic is a registered trademark, and BorderNet a trademark of,
+Dialogic Inc. or a subsidiary thereof ("Dialogic"). Other trademarks
+mentioned and/or marked herein belong to their respective owners.
+Dialogic and its subsidiaries encourage all users of their products to
+procure all necessary intellectual property licenses required to
+implement their concepts or applications, which licenses may vary from
+country to country.
+
+About Voiceserve, Inc. Voiceserve is a software platform provider
+focusing primarily on delivering affordable, complete, next generation
+services to VoIP providers. Products include VoipSwitch, a custom
+modular, all-in-one Voice-Over-Internet-Protocol management platform
+licensing solution for resellers; VoIP airtime minutes bundled with
+optional convenient features, including virtual numbers, direct dial, web
+callback, and call forwarding; IP-PBX; and mobile softphone, and video
+technologies. For further information please visit
+http://www.voipswitch.com .
+
+This press release may contain forward-looking statements regarding
+future events that involve risks and uncertainties. Readers are cautioned
+that these forward-looking statements are only predictions and may differ
+materially from actual future events or results. These forward-looking
+statements involve risks and uncertainties, as well as assumptions that
+if they do not fully materialize or prove incorrect, could cause our
+results to differ materially from those expressed or implied by such
+forward-looking statements. The risks and uncertainties that could cause
+our results to differ materially from those expressed or implied by such
+forward-looking statements include but are not limited to the potential
+sales of Dialogic video conferencing products and the performance of
+those products, growth of our business as result of the these sales, and
+uncertainties described more fully in our documents filed with or
+furnished to the Securities and Exchange Commission. More information
+about these and other risks that may impact Dialogic's business is set
+forth the "Risk Factors" section in our 10-K for the year ended December
+31, 2010 and our 10-Q for the quarter ended June 30, 2011 as filed with
+the Securities and Exchange Commission. These filings are available on a
+website maintained by the Securities and Exchange Commission at
+http://www.sec.gov . All forward-looking statements in this press release
+are based on information available to us as of the date hereof, and we
+assume no obligation to update these forward-looking statements.
+(DLGC-IR).
+
+
+
+
+        
+        Dialogic Press Contacts:
+        Kristen Seely
+        Dialogic
+        + 1 973.967.6665
+        kristen.seely@dialogic.com
+        
+        Brianna Swales
+        Vantage Communciations
+        + 1 352.224.5086
+        bswales@pr-vantage.com
+        
+        Voiceserve Contact:
+        Yvonne Zappula
+        Grannus Financial Advisors, Inc.
+        212-681-4108
+        Yvonne@grannusfinancial.com
+        
+        
+        
+
+
+
+
+SOURCE: Dialogic Inc.
+
+
+
+
+        mailto:kristen.seely@dialogic.com
+        mailto:bswales@pr-vantage.com
+        mailto:Yvonne@grannusfinancial.com
+        
+
+
+
+
+Copyright 2011 Marketwire, Inc., All rights reserved.
+
+
+/quotes/zigman/611063/quotes/nls/dlgc
+
+
+
+
+
+Add DLGC to portfolio DLGC
+
+
+
+Dialogic Inc.
+
+
+
+$ 2.41
+
+-0.15 -5.86%
+
+
+
+
+Volume: 5,864
+
+Sept. 6, 2011 10:50a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/quotes/zigman/477058
+
+
+
+
+
+Add VSRV to portfolio VSRV
+
+
+
+Voiceserve Inc.
+
+
+
+$ 0.41
+
+-0.04 -8.89%
+
+
+
+
+Volume: 47,775
+
+Sept. 6, 2011 9:47a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/quotes/zigman/611063/quotes/nls/dlgc
+
+
+
+
+
+Add DLGC to portfolio DLGC
+
+
+
+Dialogic Inc.
+
+
+
+$ 2.41
+
+-0.15 -5.86%
+
+
+
+
+Volume: 5,864
+
+Sept. 6, 2011 10:50a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+1. 
+
+
+
+
+2. 
+
+
+
+
+3. 
+
+
+
+
+4. 
+
+
+
+
+5. 
+
+
+
+
+
+
+
+Find a Broker
+
+
+Â»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Stories
+
+
+* Gold climbs to record above $1,900 an ounce
+
+  SAN FRANCISCO (MarketWatch) -- Gold futures climbed Tuesday to trade
+  above $1,900 an ounce as steep...
+
+
+* U.S. service sector expands faster in August: ISM
+
+  The U.S. service sector expanded at a slightly faster pace in August,
+  but growth was spotty and prices paid...
+
+
+* Why the young jobless will ruin your portfolio
+
+  Without jobs or accumulated wealth todayâs young Americans
+  wonât be able to retire, and those retiring soon...
+
+
+* 
+* Italy budget backtrack stirs market worries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* WSJ
+  o WSJ
+
+* MarketWatch
+  o MarketWatch
+  o Facebook
+  o Twitter
+
+
+
+
+
+* Barron's
+  o Barron's
+
+* SmartMoney
+  o SmartMoney
+
+* AllThingsDigital
+  o AllThingsDigital
+
+* FINS
+  o FINS
+
+* More
+  o BigCharts
+  o Virtual Stock Exchange
+  o Financial News
+  o WSJ Asia
+    - WSJ India
+    - 
+    - 
+
+  o WSJ Europe
+  o WSJ Americas
+    - en Espa&ntilde;ol
+    - em Portugu&ecirc;s
+
+  o WSJ Radio
+  o WSJ Wine
+
+
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+10:57 AM EDT
+
+September 6, 2011
+
+
+/marketstate/country/us
+New York
+
+Open
+
+
+/marketstate/country/uk
+London
+
+Open
+
+
+/marketstate/country/jp
+Tokyo
+
+Closed
+
+
+
+
+
+
+/marketstate/country/us
+
+
+
+/marketstate/country/uk
+
+
+
+/marketstate/country/jp
+
+
+
+
+
+
+
+
+
+
+
+
+
+View All
+
+
+Latest News
+
+
+1. /news/latest 10:51a
+
+   Tuesdayâs biggest gaining &amp; declining stocks
+
+2. 10:43a
+
+   U.S. service sector expands faster in August: ISM
+
+3. 10:38a
+
+   Vancouver loses top spot in liveability survey
+
+4. 10:32a
+
+   PepsiCo is still playing ball with the NFL
+
+5. 10:31a
+
+   U.S. stocks slump on Europeâs woes
+
+6. 10:28a
+
+   Thirty-year bond yields hit January 2009 low
+
+7. 10:26a
+
+   Treasurys up; 10-year yields hit record low
+
+8. 10:25a
+
+   Techs join broad market retreat
+
+9. 10:23a
+
+   Whitbread, miners help lift FTSE 100
+
+10. 10:22a
+
+    Best Buy cut to neutral; shares drop
+
+11. 10:22a
+
+    Analyst says FHFA suit could cost $60 billion
+
+12. 10:21a
+
+    BREAKING
+
+    U.S. 30-year yields fall to January 2009 low
+
+13. 10:21a
+
+    Oil declines, taking cues from sharp stock drop
+
+14. 10:16a
+
+    IBM, Chevron, Boeing weighing on Dow
+
+15. 10:15a
+
+    Gold taps record above $1,900 an ounce
+
+16. 10:14a
+
+    Dow headed below 10,000 as cyclical bear begins
+
+17. 10:14a
+
+    Citi, B. of A. lead swoon in financial shares
+
+18. 10:11a
+
+    Employment trends index slips in August
+
+19. 10:08a
+
+    Dollar slips, Treasurys stay up after ISM
+
+20. 10:06a
+
+    BREAKING
+
+    U.S. stocks trim losses as services index up
+
+21. Loading more headlines...
+
+
+
+
+
+dow
+
+
+/quotes/zigman/627449/delayed
+10,974.76
+
+
+-265.50
+
+-2.36%
+
+
+
+
+
+
+
+
+nasdaq
+
+
+/quotes/zigman/123127
+2,423.18
+
+
+-57.15
+
+-2.30%
+
+
+
+
+
+
+
+
+s&amp;p 500
+
+
+/quotes/zigman/3870025
+1,144.38
+
+
+-29.59
+
+-2.52%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kiosk
+
+
+* 1309316400000
+
+  1309377600000
+
+
+
+  Commodities Corner
+
+
+
+
+  Myra P. Saefong
+  Benching a benchmark Â 
+  West Texas Intermediate, the oil index long used to project U.S.
+  motor-fuel price trends, no longer is accurate benchmark. Here's what's
+  replaced it.
+
+
+  /conga/kiosk/commentary3.html 166051
+
+
+
+* 1309982400000
+
+  1310072100000
+
+
+
+  Tech Investor
+
+
+
+
+  John Shinal
+  Learning the lesson of tech jobs
+  There are larger implications for the U.S. economy to be found in the
+  hiring trends in the domestic tech sector, and in India.
+
+
+  /conga/kiosk/commentary.html 166049
+
+
+
+* 1309370400000
+
+  1309428000000
+
+
+
+  Second Opinion
+
+
+
+
+  John C. Dvorak
+  Dell can dominate PC world
+  This is the perfect opportunity to wrest control of the U.S. PC
+  business from Apple and H-P, and take over in China as well. All Dell
+  has to do is execute.
+
+
+  /conga/kiosk/wildcard4.html 166054
+
+
+
+* 1241971200000
+
+  1242619200000
+
+
+
+  Alternative Asset Classes
+
+
+
+
+  The fine art of investing
+  As an asset class, fine art is a proven long-term storehouse for
+  wealth. The current marketÂ woes just add to art's established allure.
+
+
+  /conga/kiosk/investing.html 166219
+
+
+
+* 1308830400000
+
+  1308901200000
+
+
+
+  Asia
+
+
+
+
+  Rich tastes get pricier
+  The cost of living the luxury life in Asia soared in dollar terms over
+  the past year, according to a lifestyle index. What's behind the higher
+  luxury prices?
+
+
+  /conga/kiosk/wildcard2.html 165868
+
+
+
+* 1303590000000
+
+  1303749600000
+
+
+
+  Car Review
+
+
+
+
+  2012 VW Beetle Turbo
+  It may resemble the "New Beetle,"Â  but Volkswagen's 2012 offering is
+  a better bug, writes Ron Amadon.
+  â¢ More car reviews from Ron Amadon
+
+
+  165998
+
+
+
+
+
+
+
+
+
+
+
+
+
+MarketWatch.com
+
+* Site Index
+* Topics
+* Help
+* Feedback
+* Newsroom Roster
+* Media Archive
+* Premium Products
+* Mobile
+
+* Company Info
+* Code of Conduct
+* Corrections
+* Advertising Media Kit
+* Advertise Locally
+* License our Content
+* Broker Center
+
+* MarketWatch on Facebook
+* 
+* MarketWatch on Twitter
+* 
+* RSS
+* Podcasts
+
+
+
+* WSJ.com
+* Barron's Online
+* BigCharts
+* Virtual Stock Exchange
+* All Things Digital
+
+* MarketWatch Community
+* Financial News Online
+* WSJ.com Small Business
+* FINS: Finance, IT jobs, Sales jobs
+
+
+
+
+
+
+
+
+
+Copyright � 2011 MarketWatch, Inc. All rights reserved.
+By using this site, you agree to the Terms of Service and Privacy Policy.
+
+
+
+Intraday Data provided by SIX Telekurs and subject to terms of use.
+Historical and current end-of-day data provided by SIX Telekurs. Intraday
+data delayed per exchange requirements. Dow Jones Indexes (SM) from Dow
+Jones & Company, Inc. All quotes are in local exchange time. Real time
+last sale data provided by NASDAQ. More information on NASDAQ traded
+symbols and their current financial status. Intraday data delayed 15
+minutes for Nasdaq, and 20 minutes for other exchanges. Dow Jones
+IndexesSM from Dow Jones & Company, Inc. SEHK intraday data is provided
+by SIX Telekurs and is at least 60-minutes delayed. All quotes are in
+local exchange time.
+
+
+
+
+
+
+
+* MarketsMarkets
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* QuotesQuotes
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* My PortfolioMy Portfolio
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* My AlertsMy Alerts
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* CommunityCommunity
+
+
+
+
+  HOT PICKS MY PICKS MY GROUPS
+
+
+
+
+  Data is loading...
+
+
+
+
+
+ALERT:
+
+
+
+
+MarketWatch Top Stories
+Link to MarketWatch's Slice. 15
+
+
+
+
+
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+
+
+
+The action you requested requires a MarketWatch Community display name.
+
+
+
+
+Sign In
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+Community
+
+Get your FREE membership now Â»
+
+MarketWatch Community is a free service that lets you discover, organize
+and share MarketWatch stories with other readers.
+
+Learn More Â»
+
+
+
+
+
+The action you requested is only available to MarketWatch members.
+Please sign in or register.
+
+
+
+
+Sign In
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+
+Register
+
+Don't have a MarketWatch account?
+
+Get your FREE membership now Â»
+
+
+By registering, you are agreeing to MarketWatch's Terms of Service and to
+receiving periodic news and special offers via email about MarketWatch
+enhancements, products and services.
+
+
+

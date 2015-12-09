@@ -1,0 +1,288 @@
+Enhanced Hosted Telepresence for Cisco Users, from Glowpoint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home
+  o Customer Interaction
+    - Customer Interaction - Executive Interview Series
+    - Customer Interaction - Roundtable Discussions
+
+  o Cloud Computing
+    - Cloud Computing - Executive Interview Series
+    - Cloud Computing - Roundtable Discussions
+
+  o Enterprise Social Media
+    - Enterprise Social Media - Executive Interview Series
+    - Enterprise Social Media - Roundtable Discussions
+
+  o Mobile & Wireless
+    - Mobile & Wireless - Executive Interview Series
+    - Mobile & Wireless - Roundtable Discussions
+
+  o Telephony
+    - Telephony - Roundtable Discussions
+    - Telephony - Executive Interview Series
+
+  o Unified Communications
+    - Unified Communications - Executive Interview Series
+
+
+* About
+  o Executive Interview Series
+  o The Team
+  o Testimonials
+
+* Roundtable Discussions
+* Featured Content
+* Contact
+* Sponsors & Partners
+  o Media Partners
+  o Event Partners
+
+
+
+
+
+
+
+
+
+
+Latest News: News stories will be displayed here
+
+
+
+
+* News Archive
+* Executive Interview Series
+
+* Roundtable Discussions
+
+
+
+
+
+
+
+Enhanced Hosted Telepresence for Cisco Users, from Glowpoint
+
+
+Glowpoint, providers of cloud-based video conferencing solutions, have
+enhanced their managed video services for users of Cisco Systems’
+telepresence equipment, including a hosted Cisco telepresence
+infrastructure, the Cisco TelePresence Video Communications Server (VCS),
+the Video Communications Expressway, the TelePresence Server MSE 8710,
+and the Cisco TelePresence Movi for mobile telepresence.
+
+Tweet
+
+The new hosted infrastructure provides Cisco TelePresence with a
+flexible, and more affordable, way of expanding video coverage for remote
+and home office workers, without the need to purchase and install new
+hardware for each location. Interoperability is supported by Glowpoint
+through the Telepresence Interoperability Protocol, thereby enabling a
+managed unified communications gateway based on the Cisco VCS. The
+gateway links telepresence systems with unified communications
+applications from Cisco, Avaya, Microsoft and other providers.
+
+Essentially there are three new enhancements to the cloud-managed video
+service for Cisco telepresence customers:
+
+• Hosted Cisco telepresence infrastructure .
+• Enhanced telepresence interoperability with support for TIP.
+• Managed unified communications (UC) gateway solution, including support
+for Microsoft Lync.
+
+Stephen Vobbe, Senior Vice President of Sales & Marketing at Glowpoint,
+said, “Expanding our cloud-managed video services for Cisco customers
+continues to be a top priority. Telepresence and video conferencing
+customers continue to ask for increased interoperability and support for
+mobile desktop and unified communications applications delivered as a
+cloud service. We are delivering that with these new enhancements.”
+
+Glowpoint’s cloud-managed video services includes a secure, redundant and
+easily accessible mix of hardware, software and support services
+including:
+
+• Web-based video management portal.
+• Exchange and Notes integrated scheduling and call launching.
+• 24x7 remote monitoring, diagnostics and help desk.
+• Telepresence and video conferencing interoperability.
+• Complete business-to-business exchange access.
+• Multiple MCU bridges, gateways, gatekeepers and call routing technology.
+• On demand and managed bridging services, with language translation and
+webcasting.
+
+Using Glowpoint’s cloud managed video services, enterprises can
+potentially reduce costs and improve productivity.
+Randy Harrell, Director of Product Marketing at Cisco, commented, “Our
+immersive solutions continue to deliver a consistent and powerful
+in-person experience that exceeds customer expectations leading to
+increased usage. Cloud managed services that ensure the highest level
+uptime and meeting quality for our solutions are a key component to our
+continued growth in the marketplace and the adoption of the technology.”
+
+Darren Podrabsky, Vice President of Marketing & Channels at Glowpoint,
+added, “Because deploying and managing video requires specific expertise,
+the IT team that supports video with an enterprise is often separated
+from the team managing the other unified communications applications. Our
+UC gateway solution delivered as a cloud managed video service
+effectively bridges that gap and enables companies to easily and
+confidently connect video with other unified communications applications.”
+
+The new enhanced services for Cisco unified communications solutions are
+available from Glowpoint or qualified partners, delivered via Glowpoint’s
+OpenVideo™ architecture, a collection of technologies and processes that
+provide flexible, high quality, reliable cloud managed video services
+across a wide range of video endpoint solutions.
+
+Written by: Allie Philpin
+
+
+
+Leave a Comment
+
+
+
+0 Comments
+
+
+
+
+* Your Name:
+
+*Your Email:
+
+*Your Comment:
+
+*Your Website:
+
+ 
+
+
+
+
+
+
+
+
+Customer Interaction
+
+Cloud Computing
+
+Enterprise Social Media
+
+Mobile &amp; Wireless
+
+Telephony
+
+Unified Communications
+
+
+
+
+Print this Page 
+
+
+
+Send to a Friend 
+
+
+
+RSS 
+
+
+
+Download this Article 
+
+
+
+Tweet this Article 
+
+
+
+Subscribe to Newsletter 
+
+
+
+Search 
+
+
+
+
+
+
+
+Events Calendar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+* Site Map
+* Terms &amp; Conditions
+* Privacy Policy
+
+
+
+© Copyright LRGA Media Ltd 2011. All Rights Reserved.
+
+
+
+
+
+Site powered by Accomplish&#8482
+
+

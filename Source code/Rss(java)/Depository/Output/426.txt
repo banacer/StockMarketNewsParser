@@ -1,0 +1,1046 @@
+Benchmarking: Are You Good Or Just Lucky? - Seeking Alpha
+
+
+
+
+
+
+* See the difference! Customize Seeking Alpha: Sign in or join
+* 
+
+
+Seeking Alpha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home |
+* Portfolio |
+* Market Currents |
+* Long &amp; Short Ideas |
+* Investing for Income |
+* ETFs &amp; Portfolio Strategy |
+* Macro View |
+* Earnings
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benchmarking: Are You Good Or Just Lucky?
+
+
+
+&nbsp;1 comment |  by: Marc Gerstein September 6, 2011  |  includes:
+ACWI, ACWX, AGG, BKF, DVY, EEM, EFA, IWB, IWC, IWD, IWF, IWM, IWN, IWO,
+IWP, IWR, IWS, IWV, IWW, IWZ, JNK, SPY, TLT, VIG
+   
+
+
+
+
+
+
+* Font Size:
+
+* Print
+
+* Email
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+During the course of a Labor Day controversy involving different ideas
+regarding the way income investors go about their endeavors, the topic of
+benchmarking crept into the comment section. One Seeking Alpha user,
+taking issue with some points I made about benchmark selection, observed
+as follows:
+
+There is only one benchmark: how much money did I start with, and how
+much do I have now. Comparisons with indexes are for money managers and
+the like.
+
+
+
+
+That seemingly sound idea is actually quite dangerous, and I’ve no doubt
+you’ve all had occasion to observe close-up the consequences of such a
+view.
+
+
+Why You – And Not Just the Pros – Need Benchmarks
+
+
+Think back about 10-12 years. Do you remember a TV commercial (perhaps
+even a series of commercials) depicting a skinny teenage kid wagging his
+finger at and dispensing investment wisdom to a 60-something man wearing
+an expensive suit? How did the kid become so market savvy? The answer, of
+course, was by using one of the newly-minted on-line brokerage firms that
+put bargain-priced trading prowess into the hands of the average person.
+
+Now, let’s try to imagine those same characters as they are today.
+
+What happened to the 60-something guy? He probably kept doing his thing
+and maybe retired (hopefully before 2008 or after mid-2009) and now
+focuses on his yacht or daily golf game.
+
+As to the teenage investment guru, he probably has to stand by an
+automatic door eight hours per day saying over and over again “Good day,
+welcome to Wal-Mart” because he quickly vaporized his college fund. He
+was good; no, great. Actually, though, he had temporarily benefitted from
+the dumbest variety of dumb luck. Unfortunately for him, he did not know
+what benchmarks were and how to use them. Had he been aware, he probably
+would not have been so quick to worship at the altar of his own genius,
+but would have recognized that had had been enjoying the good fortune
+that comes to those who are able to ride a powerful bull market. Had he
+recognized that the money he made was due to entirely to factors outside
+himself – the market – he could have been more watchful regarding the
+overall market climate.
+
+I still doubt he’d have sold out at the top (even the best and brightest
+find it hard to do that) , but he’d have stood a much better chance at
+getting out with at least a reasonable portion of his “winnings” intact.
+Instead, believing his fortune to have been the result of his superior
+skill, he wound up riding the bear all the way down, convinced every
+point of the way that he knew what he was doing (after all, he had picked
+the stocks that had just recently soared so high) and that sooner or
+later, the “dumb money” (i.e. those who weren’t as smart as he was) would
+cease their irrational selling and rush back into the stocks he knew were
+the right ones to own.
+
+Benchmarking work the other way as well, by showing you when, despite
+seemingly bad outcomes, you should recognize and appreciate that you’ve
+got a good thing going.
+
+Countless times during 2008, I found myself responding to the complaints
+of my eighty-something mother about the very low returns she was getting
+from her money-market funds and CDs and her wanting to reach for more
+return by showing her what was happening in the overall market, and how
+even a zero return was, in effect, making her one of the most successful
+money managers of the day.
+
+Asking “how much money did I start with, and how much do I have now” is
+an important starting point for evaluating your efforts, but sheds no
+light at all on why you achieved what you did and does not help you
+determine whether you should stay the course or make some adjustments.
+
+For investment professionals, this is second nature. It has to be given
+their need to justify their actions to clients. But it’s also important
+to the average investor. Absent proper benchmarks, you have no was of
+knowing whether your returns are the result of your efforts or luck.
+Being in the dark on such a vital issue can get you into big trouble.
+
+
+Some Popular Benchmarks
+
+
+For a long time, the most popular stock-market benchmark was the Dow
+Jones Industrial Average. It’s still widely published and widely cited,
+but at this point, it’s not taken as seriously as it once was and thank
+god for that – as a benchmark, it’s dreadful.
+
+The Dow tracks the progress of thirty large U.S. stocks. That alone
+raises some serious issues. Is thirty a big enough sample (it’s
+debatable; don’t automatically assume the answer is “No”). Is it
+reasonable to restrict consideration to large companies (this, too, is
+defensible, but highly debatable) or even to U.S. companies (this is more
+defensible).
+
+But what makes the index such a disaster is the fact that it is price
+weighted. To see how absurd this is, imagine a hypothetical two-stock
+index (or portfolio): Apple (AAPL), which closed at 322.56 on 12/31/10,
+and Berkshire Hathaway (BRK.A), which closed then at 104,000.00. Assume
+there are no questions about sampling: These are the only two stocks in
+the market so a passive investor, an indexer, would have to hold both
+AAPL and BRK.A. But how much money would be allocated to each?
+
+An equally weighted portfolio would allocate 50% to each stock, meaning
+the index would have been more or less flat so far in 2011: BRK.A fell
+13.7% while AAPL rose 15.9%; so an equally-weighted portfolio would have
+risen by 1.15%. That’s defensible. Many investors allocate equally, so
+1.15% could well represent the return of a passive portfolio.
+
+Many institutional portfolios use market capitalization as a starting
+point for weighting and go higher for stocks they think are better, and
+compensate by “underweighting” issues in which they are less optimistic.
+(They often have so much money to put to work, it can be hard for them to
+completely ignore major stocks or sectors forcing them to express their
+views by overweighting or underweighting). Apple’s market cap at 12/31/10
+was $346.8 billion, while Berkshire’s was $171.8 billion.
+
+In other words, AAPL accounted for 67% of our hypothetical market while
+Berkshire accounted for 33%. Hence a passive investor, one who didn’t
+want to decide the merits of the individual stocks and preferred to just
+“buy the market” would have used those weights. A market capitalization
+weighted index designed on that basis would have risen 6.1%, based on a
+weighted average that uses 67% of AAPL’s performance and 33% of
+Berkshire’s. (That’s generally the approach taken by S&P and most other
+indexes.)
+
+What about the price-weighted method used by Dow Jones? Are you sitting
+down? You should be. This is going to jolt you. Berkshire stock was
+priced at 120,450 on 12/31/10; AAPL closed at 323. Adding 120,450 and 323
+comes to of 120,773. Based on the method used for the Dow Jones
+Industrial Average, Dow would divide by two to assume an average
+portfolio price of 60,387.
+
+Just before Labor Day, BRK.A and AAPL respectively closed at 104,000 and
+374; adding them up and dividing by two produces a portfolio value of
+52,187, 13.6% lower than the 12/31/10 valuation. Hence media outlets that
+talk about the Dow would have told you how horrible the market was, how
+it declined 13.6%. The reporters would recognize that the stock that
+accounted for two-third of all money in the market was up 15.9%.
+
+(NOTE: There are various subtleties to the real-world versions of all
+these computations, particularly in the use of “divisors” to deal with
+stock splits, as well as changes to index rosters, and in the case of
+weighted indexes, adjustment of market caps to account for float, but the
+general idea of each approach is as depicted here.)
+
+So please, please, please, please do not ever give a second’s worth of
+thought to the Dow. I have no doubt everyone at Dow Jones knows how
+defective this index is (by the way, it was created in 1882, when it was
+too much a pain in the neck for Charles Dow to do frequent calculations
+any other way), and I assume considerations of branding and public
+relations are the only things that prevent it from being discontinued.
+(Just think of how many times per day the word “Dow” is printed and
+publicly uttered; no PR person wants to give that up!)
+
+Another benchmark that became popular in recent years is the NASDQ 100.
+This is not quite as horrible as the Dow, but it, too, is sort-of absurd.
+It's capitalization weighted, which is commonplace. My quarrel is that
+its sample is limited to something investors today don’t care deeply
+about; the fact that the stock trades on the NASDQ rather than elsewhere,
+say the NYSE.
+
+A generation or so ago, this might have meant something but today, that’s
+not really the case. It means a lot to the exchanges as they compete for
+business, but I personally don’t care, and I doubt this is important to
+many of you. (Suppose Apple, a Seeking Alpha readers’ favorite, would
+move to the NYSE? Would you feel compelled to sell? The NASDQ Index
+presumes you would, in fact, do just that.)
+
+Some favor the NASQ because it supposedly provides a good sense of
+tech-stock performance. But this is based on coincidence, not design. It
+just so happened that in the 1990s and 2000s, many new tech companies
+went onto the NASDQ and, so far, stayed there. But there’s no law that
+says that have to remain there forever. Suppose Apple, Cisco (CSCO),
+Google (GOOG), Microsoft (MSFT), Amazon (AMZN), eBay (EBAY), et. al.
+decide in the next few months to migrate to the NYSE? Then, it’s likely
+we would no longer be able to characterize the NASDQ 100 as a tech
+benchmark.
+
+If you actually do want a tech-oriented benchmark (assuming that’s all
+you care about), you’d be better off picking a technology ETF to track;
+there’s no reason to muddying up your efforts with the possibility big
+tech stocks may switch to NYSE or with non-tech stocks presently included
+in the NASDQ 100.
+
+The most widely accepted modern benchmark is the S&P 500, and
+fortunately, media outlets that continue to insist on tracking the Dow
+and NASDQ 100 have enough sense to also track the S&P 500.
+
+Interestingly, though, as popular as the S&P 500 is today, this index,
+too, leaves much to be desired. It's cap weighted (with adjustments for
+float) meaning the calculation is intellectually defensible but also that
+it’s only useful for those who are interested in large cap stocks. That’s
+not the end of the world. Many are, in fact, oriented to large cap.
+
+The bigger problem with the S&P 500 is the selection process. Decisions
+are made by committee. A stock can be dropped simply because it’s a dog
+and replaced by one the committee deems “better.” And even if a stock is
+dropped because it must be dropped (i.e. due to acquisition or
+bankruptcy), it’s unlikely it will be replaced by a dog.
+
+So in a sense, one can argue that the S&P 500 is not an index at all but
+an actively managed play-money large-cap portfolio, and one that has an
+advantage relative to real-money large-cap funds since the S&P selection
+committee doesn’t have to sell stocks at low prices when mutual fund
+managers have to sell to raise cash. Moreover, the S&P selection
+committee doesn’t have to buy high as bull markets peak because their
+hounded by fund lawyers who insist managers obey prospectuses and stay
+fully or near-fully invested.
+
+Because fund managers are constantly forced to buy by their clients to
+buy high and sell low, while the S&P selection committee need not do
+that, even terrific fund managers should be expected to underperform the
+ivory-tower play-money S&P 500 portfolio.
+
+(One of the many reasons why hedge funds got big was to escape from such
+constraints and give portfolio managers a chance, for better or worse, to
+have performance reflect their decisions, as opposed to the timing
+choices of their customers.)
+
+Even so, if you want to use the S&P 500 to benchmark your performance,
+assuming you are focusing on large cap U.S. stocks, I wouldn’t argue
+since for better or worse, the math is OK and the index remains number
+one in terms of popularity. But if you want to do better, I’m going to
+propose that you stop following any of the popular indexes and choose
+from another set, all of which can easily be followed via
+well-established ETFs designed to track them.
+
+
+A Better Set of Benchmarks
+
+
+If you want to properly benchmark your efforts, I suggest you make
+yourself familiar with three index brands that are very well respected by
+professionals but little known or discussed in the financial media:
+Russell (if you care U.S. investing), MCSI (if you want to invest outside
+the US) and a third that’s not quite as big but has a valuable niche,
+Rydex (which offers equally-weighted indexes).
+
+You should also get intimate with iShares, which offers a terrific
+product line that includes lots of ETFs based on Russell and MSCI
+indexes; it may be hard for you to track the indexes themselves, but
+tracking the relevant ETFs is as easy as easy can be. (Rydex issues its
+own ETFs.)
+
+By the way, if you use the historical price data on Yahoo Finance!, as I
+strongly suggest you do, focus on the column labeled Adjusted Close; this
+series includes the impact of dividends (so even if you really want the
+S&P 500, it’s actually better to go to the historical Yahoo Finance
+adjusted prices for the SPYDER S&P 500 ETF (SPY) as opposed to looking at
+the S&P 500 price index itself). By the way, I’m not abandoning Dow Jones.
+
+If we can look past the PR nonsense and the 19th century indexes they
+still publish, we can actually find a very useful family of
+sector-specific U.S. equity indexes.
+
+Russell and MSCI indexes are capitalization weighted (adjusted for float)
+but improve on S&P in that stock selection is based on objective rules,
+not the feelings of members of a committee. It’s true that the rules are
+designed by humans, but they are very broad and rather than seeking to
+identify “good” stocks, they are focuses on weeding out stocks that for
+one reason or another are not likely to be effectively tradable or
+representative of what most investors would consider. These indexes still
+have the built-in advantage of not having to buy high and sell low, but
+at least they don’t rub portfolio manager’s noses in the dirt by also
+being active.
+
+Here are some of the main Russell selections:
+
+* Russell 1000, tracked by iShares Russell 1000 Index ETF (IWB)
+
+Like the S&P 500, it represents large-cap U.S. stocks, and is cap
+weighted. But it uses a bigger sample and, as noted, selection of stocks
+is done using objective rules.
+
+* Russell 2000, tracked by iShares Russell 2000 Index ETF (IWM)
+
+I’m absolutely flabbergasted by the persistent failure of financial media
+outlets to prominently track the Russell 2000 (Attention Seeking Alpha:
+Hint, hint, hint!) It, too, is a cap weighted U.S. index but it focuses
+mainly on smaller stocks, which may not be as appealing to institutions
+by is highly relevant to individuals, many of whom can and do trade
+smaller capitalization stocks.
+
+* Russell 3000, tracked by iShares Russell 3000 Index ETF (IWV)
+
+This is a very interesting and badly under-rated index. It, essentially,
+is the Russell 1000 plus the Russell 2000 and, in a sense, is a pretty
+good depiction of the total U.S. stock market. There are other total U.S.
+indexes that have more stocks, but as you progress beyond 3,000, you get
+into some very, very small selections many of which, mathematically, have
+so little impact as to hardly justify the extra CPU processing power
+needed to add them to the computation (and that’s saying something
+considering how cheap CPU power is nowadays).
+
+That said, there many that are very much worth considering, but as I have
+shown in connection with my low-priced stock newsletter, this corner of
+the market is best viewed as a unique thing unto itself, and as we’ll see
+below, Russell gives us a way to do that.
+
+* Russell MidCap, tracked by iShares Russell MidCap Index ETF (IWR)
+* Russell MicroCap, tracked by iShares Russell MicroCap Index ETF (IWC)
+
+These are specialty indexes that might be useful to some of you. The
+MidCap Index is a subset of the Russell 1000. If you take all those
+stocks and rank them from largest to smallest, the mid-cap index consists
+of those ranked 201-1000. The MicroCap index consists of the smallest
+1000 from among those that make the Russell 3000, and the top 1000 from
+among fail, based on size, to make it into the Russell that universe.
+
+Click here for details of Russell’s methodology.
+
+* Specialized U.S. equity benchmarks
+
+Here, we have Dow Jones sector indexes, which are quite modern and
+useful. They use objective selection rules and capitalization weighting.
+There are also some diversification rules that prevent the largest
+companies from overwhelming the index, so you get clear pictures of the
+sectors, free from large-cap domination. Indeed, the fact that these
+indexes are as well constructed as they are is what leads me to believe
+the financial people at Dow Jones know (but obviously can’t publicly
+state) how absurd their 19th century indexes are.
+
+Here is a list of sector/industry indexes:
+
+
+
+Click here for an example of the Dow Jones sector-index methodology.
+
+Suppose you decide you want to focus on a specific style, like value or
+growth. You could stick with the basic Russell benchmark, either the 3000
+for total market, or one of the more specific size-based indexes, and use
+such comparisons to measure the wisdom of your choice of value or growth.
+It’s one thing to say you’re a value investor, as so many on Seeking
+Alpha do. It’s another thing to inquire into whether you’re actually good
+at this sort of thing. Hence, style-specific benchmarks could be useful.
+
+So here are some ETFs you can track.
+
+* General value, represented by the iShares Russell 3000 Value ETF (IWW)
+* Large cap value, represented by the iShares Russell 1000 Value ETF
+  (IWD)
+* Mid cap value, represented by the iShares Russell MidCap Value ETF
+  (IWS)
+* Small cap value, represented by the iShares Russell 2000 Value ETF
+  (IWN)
+* General growth, represented by the iShares Russell 3000 Growth ETF
+  (IWZ)
+* Large cap growth, represented by the iShares Russell 1000 Growth ETF
+  (IWF)
+* Mid cap growth, represented by the iShares Russell MidCap Growth ETF
+  (IWP)
+* Small Cap growth, represented by the iShares Russell 2000 Growth ETF
+  (IWO)
+
+The Russell link above includes explanations of how Russell defines
+growth and value. These approaches are not highly sophisticated.
+Actually, I’m being kind. They’re quite pedestrian. But that’s fine.
+Remember, these are benchmarks, and as such they’re supposed to be basic.
+It’s up to you to do better if you wish to try. Evaluate yourself based
+on whether your philosophy of growth or value is better than the correct
+and competent but bland approaches used by Russell.
+
+I mentioned above the existence of a suite of Rydex equally-weighted
+indexes. Many of these focus on the S&P 500 with its committee-based
+selection approach. As you know, I’m not thrilled with it, but accept it
+as a nod to prevailing investment-community culture, and it’s worth
+tolerating this in order to get the benefit of benchmarks which use S&P
+500 stocks (or sector-specific subsets) but differ from S&P by using
+equal weighting as opposed to weighting based on capitalization. This
+could be very valuable for individual investors, whose own portfolios are
+much more likely to come closer to equal weighting than cap weighting.
+
+
+
+Meanwhile, income investing can pose particular challenges since the
+media completely ignores this area notwithstanding its great importance
+to many investors. There are a couple of equity benchmarks worth
+considering, but if you really want to effectively evaluate your efforts
+along these lines, you’ll need to stray into the world of fixed income.
+
+Historically, fixed-income benchmarks will have performed very well given
+the epoch declines in interest rates. It will be very valuable to monitor
+these further into the future, to see how effective you can be at using
+the dividend-growth capabilities of equities to offset a possible end to
+what some refer to as a bond bubble.
+
+Here are some suggested benchmarks:
+
+* iShares Dow Jones Select Dividend (DVY)
+* Vanguard Dividend Appreciation (VIG)
+
+DVY looks to be as good a core equity-income benchmark as I can find. I’m
+not saying it’s great. As noted, there’s a dearth of product here so for
+now, it will have to do. VIG is a slightly more growth-oriented version
+(i.e. willingness to sacrifice current yield for future growth).
+
+* S&P Capital High Yield Bond Fund (JNK)
+
+This is a junk-bond ETF, but you can use it as a benchmark for evaluating
+your equity-income efforts if you choose to take on more risk and seek
+higher yields. I wish there would be a suitable equity-income product,
+but there isn’t at this time so we have to make do as best we can.
+
+* iShares Barclays 20+ Year Treasury Bond ETF (TLT)
+* iShares Barclays Aggregate Bond ETF (AGG)
+
+These are mainstream fixed-income benchmarks; TLT for long-term
+treasuries and AGG for general investment grade corporate bonds. I don’t
+want to slice and dice the bond market as heavily as I did the equity
+market because I don’t sense that Seeking Alpha investors think this way.
+
+Actually, I’d be content to stick with AGG as the most generalized
+approach, but I added TLT because I feel a need to put something in to
+represent risk-free investing. If you want to start moving up and down
+the yield curve, use these benchmarks to assess the wisdom of the choices
+you make along these lines.
+
+(REMEMBER: Look at the adjusted price column in Yahoo Finance! Historical
+Prices. Income investors have particular need to factor in the impact of
+income payments!)
+
+Meanwhile, there’s a lot of talk about global investing. I’m not sure how
+far Seeking Alpha users stray outside the U.S., but I suspect any of you,
+no matter what you do, can find an iShares ETF based on an MSCI index to
+serve as a worthy benchmark.
+
+MSCI is a terrific indexation company with a solid methodology involving
+float-adjusted capitalization weighting (and they work darn hard to get
+this right, which can be a daunting task in many countries where it is
+often difficult to determine which shares should or should not be
+included in the float), and objective selection rules that are highly
+sensitive to liquidity (another critical consideration in many parts of
+the world).
+
+There are far too many choices for me to list here. You can find all of
+them on the iShares website among their equity ETF offerings. Here is a
+sampling of some likely to be of most interest.
+
+* iShares MSCI ACWI Index Fund (ACWI): global (including U.S.)
+* iShares MSCI ACWI ex US Index Fund (ACWX): global (ex U.S.)
+* iShares MSCI EAFE Index Fund (EFA): general Europe, Australia, and
+  Far East
+* iShares MSCI Emerging Markets Fund (EEM): general Europe, Australia,
+  and Far East
+* iShares MSCI BRIC Fund (BKF): Brazil, Russia, India and China
+
+
+Nouvelle Indexes
+
+
+Nowadays, there are plenty of fancy new indexes featuring a dizzying
+array of styles. Many of these make for investment ideas, but I doubt any
+of them would be useful for benchmarking. In fact, I suspect the index
+providers pretty much understand and accept this. The ETF is a very
+interesting investment vehicle, as I’m sure Seeking alpha readers well
+understand. But their formalities are such that they track indexes. So if
+you have an interesting idea (such as a fund that buys S&P 500 stocks and
+boosts income by writing call options) you can’t just create such a fund.
+First you create an index, and call it, perhaps, the “Something-Or-Other
+Buy-Write Index.” Then you can create (and market) an ETF to track it.
+
+In other words, the fancier the index, the more likely it is that it was
+created specifically to serve as the basis for an ETF, and with no regard
+at all for benchmarking. There’s nothing at all wrong with that. In fact,
+as you’ve seen often on Seeking Alpha, there are many interesting ETF
+products out there. Just make sure you recognize these indexers for what
+they really are, products as opposed to benchmarks. (PowerShares,
+ProShares and Direxion loom large here.)
+
+I just want to make special mention of a particular class of
+product-oriented indexes because the public relations around them can, at
+times, confuse investors (especially since the index proponents pour out
+lots of research and involve big names such as Jeremy Siegel and Robert
+Arnott): Fundamental Indexing.
+
+Stripped of all the rhetoric, advocates of these indexes are saying
+"bigger is better" (in that they give more weight to large companies),
+but instead of defining "big" in terms of market cap, which is
+influenced, and at times badly distorted, by stock price movements having
+nothing to do with the company itself, they define "big" in terms of
+company fundamentals.
+
+Wisdom Tree got famous by defining big in terms of dividends paid out.
+(NOTE: Yield is NOT relevant. It's the total dollars paid that they look
+at. A big company that pays out a lot of dollars could have a large
+weighting in an index even if the total payment was spread over a large
+number of shares leaving a miniscule per-share dividend and a yield of,
+say, 0.01%.) So don't go to Wisdom Tree looking for income; go to Wisdom
+Tree if you want big companies based on their definition of big. (Over
+the years, they've broadened their product line, but if you want income,
+you still need to go beyond the name of the fund and read the prospectus
+in order to see if it stresses yield, rather than dividends paid. It's
+easy to slip up if you're not careful.)
+
+Robert Arnott went in a different direction with "fundamental weighting"
+that I think may be more interesting. Rather than using dividends paid to
+define big, he uses a combination of fundamental factors, including
+revenue. Just bear in mind that selection of an ETF based on an Arnott
+index (often branded as RAFI), or any other fundamental approach, is not
+at all passive. It is very much an active decision to (i) go large, and
+(ii) go large using a definition that refers to fundamentals instead of
+market cap.
+
+
+I’m Still Stuck!
+
+
+There’s a lot to choose from here. Don’t worry about it.
+Investment-community culture need not be ignored. If you need to start
+somewhere, go traditional: use the S&P 500. As you compare your results
+to that of this index and more importantly, ask yourself why you varied
+as you did (whether for better or worse), you’ll find yourself better
+able to articulate what, exactly, you’re trying to do at which time
+you’ll be better able to choose one or more suitable benchmarks.
+
+But don’t get carried away. If you find yourself needing more than three
+benchmarks (one for U.S. equity, one for global equity and one for
+income), you may want to take a look at your portfolio to see if you’re
+too scattered, a jack of all trades and master of none. I say this even
+if you can convincingly argue that your portfolio really is multifaceted
+consisting of, say, six or seven different strategic components.
+Ultimately, you care about how much money it all adds up to and if the
+total produced by a strategic smorgasbord can’t match that which you
+could get from a single benchmark ETF, it really would behoove you to
+think long and hard about what you’re doing. (This, actually, is exactly
+what benchmarking is supposed to induce you to do.)
+
+Realistically, nobody is good at everything. If you are spread all over
+the place, consider separately evaluating each strategic component of
+your portfolio and determine, based on benchmark comparison, which ones
+you’re not handling all that well. Eliminate those strategies and
+reallocate funds to areas at which you’re more proficient. (By the way,
+this doesn’t mean you have to jump ship if you had a bad month or
+specialize where you had a good month; evaluate in a common-sense manner
+over a reasonable time frame, just as you would anything else.)
+
+Don’t get caught up in visions of being a “Renaissance Man,” unless you’d
+be willing to undergo a cardiac bypass by a surgeon who divided his or
+her practice equally between cardiology, neurology, orthopedics,
+oncology, pediatrics and internal medicine. But if you’re really gung-ho
+about your willingness to do that, and assuming you’re in good cardiac
+health and not about to actually go on the table (in which case all this
+would likely and sadly become moot), use AGG for your income investments
+and ACWI for everything else.
+
+Disclosure: I have no positions in any stocks mentioned, and no plans to
+initiate any positions within the next 72 hours.
+
+
+
+
+This article is tagged with: ETFs &amp; Portfolio Strategy, Portfolio
+Strategy &amp; Asset Allocation, Editors' Picks
+
+More articles by Marc Gerstein &raquo;
+
+* Hedging With Leveraged ETFs: A Real-Life Case Study Fri, Aug 19
+* Do 'Sophisticated' Hedged ETFs Deliver? Wed, Aug 10
+* Hedging the Triple Play Income Strategy Fri, Aug 5
+
+
+
+
+
+Debunking Dividend Agnostic Assumptions: Here's What Really Makes...
+
+Fri, Sep 2
+
+by Five Plus Investor
+
+
+Bernanke's Big Moment And Your Allocation To Commodity ETFs
+
+Thu, Aug 25
+
+by Gary Gordon
+
+
+Logical Case For 49% Drop In Stocks
+
+Today
+
+by Chris Ciovacco
+
+
+Want A Realistic Retirement Number? Before Anything Else, Consider...
+
+Sun, Sep 4
+
+by Roger Nusbaum
+
+
+
+
+Toast the Bear Market With These 10 ETFs
+
+Thu, Aug 11
+
+by Dutch Trader
+
+
+Top 5 Graphs of the Week: Emerging vs. Developed Market Outlook
+
+Mon, Jul 25
+
+by Econ Grapher
+
+
+The Shape of Market Bubbles (With a Footnote on Gold)
+
+Thu, Jul 21
+
+by Doug Short
+
+
+Inside or Outside: What Belongs in a Tax Deferred Retirement...
+
+Wed, Jul 6
+
+by Kevin Feldman
+
+
+
+
+Slow Growth's Silver Lining: Corporate Profit Margins
+
+Fri, Sep 2
+
+by Russ Koesterich
+
+
+Major Asset Classes Performance Update: September 2011
+
+Thu, Sep 1
+
+by James Picerno
+
+
+'Buying Dividend Stocks For Income' Arguments Don't Make Sense
+
+Wed, Aug 31
+
+by Lawrence Weinman
+
+
+Positioning Your Portfolio For A Bear Market
+
+Today
+
+by Thomas Lott
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+
+* Email
+* Print
+
+
+
+
+
+
+
+Comments (1)
+
+
+
+
+Add a comment
+
+
+
+
+
+
+
+
+
+
+
+Register or Login to rate comments &raquo;
+
+* poortorich Comments (1194)
+
+   
+
+
+
+
+
+
+
+  Marc
+  Thanks for the article. Here are some thoughts that come to mind. Your
+  first goal LONG term is to beat inflation. What it boils down to is if
+  you cant keep up with inflation, you are losing buying power. If you
+  can beat inflation by 2-5%/ year LONG term, you are doing ok. The
+  second goal is to beat a broad index ie vti, because LONG term, the
+  broad market will beat inflation by a few percentage points. If you can
+  beat VTI or S and P by 2-5%/year LONG term, you are doing ok. If you
+  can return 17-20%/ year compounded annually, you dont need a benchmark
+  because you are doing well.
+
+
+
+
+
+
+Load All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the author: Marc Gerstein
+
+
+
+
+
+
+
+
+
+
+Marc H. Gerstein (http://twitter.com/#MHGerstein or if already on
+Twitter, search for @MHGerstein) is an independent investment
+analyst/consultant specializing in rules-based equity and ETF investing
+strategies, with particular emphasis on small-cap equities and leveraged
+ETFs. Many of is views... More
+
+
+
+
+
+
+* Company: StockScreen123, Portfolio123 and Ariston Advisors
+* Blog: Forbes Low-Priced Stock Report
+* Book: Screening The Market
+
+
+
+
+
+
+
+
+
+
+Marc Gerstein
+
+
+
+
+* (181)
+* 
+* (475)
+* Profile
+
+
+
+
+
+
+
+
+
+
+
+
+Send Message
+
+
+
+
+
+
+
+
+You are currently following Marc Gerstein
+Stop Following
+
+
+
+
+
+
+You are no longer following Marc Gerstein
+
+
+
+
+
+
+
+About this author:
+* Visit: Portfolio123.com
+* Visit: Ariston Advisors
+By this author:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx
+
+
+Breaking News Updated at
+
+ broke in the last few minutes - get the latest updates in Market
+Currents. Updated at
+
+
+
+
+
+
+
+
+
+
+
+
+TOP AUTHORS: The Opinion Leaders
+
+TOP USERS: Commenters | StockTalkers | Instabloggers
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Twitter &nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds  |  Contact
+Us  |  About Us  |  Premium Program
+
+Terms of Use | Privacy | Xignite quote data | Copyright © 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

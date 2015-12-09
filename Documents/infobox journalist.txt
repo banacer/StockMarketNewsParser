@@ -1,0 +1,26 @@
+{{Infobox journalist
+| name        = 
+| image       = 
+| caption     = 
+| birth_name  = 
+| birth_date  = <!-- {{Birth date and age|YYYY|MM|DD}} -->
+| birth_place = 
+| death_date  = 
+| death_place = 
+| education   = 
+| occupation  = 
+| alias       = 
+| title       = 
+| family      = 
+| spouse      = 
+| domestic_partner =
+| children    = 
+| relatives   = 
+| ethnicity   = 
+| nationality =
+| religion    = 
+| years_active= <!-- YYYY – present -->
+| credits     = 
+| agent       = 
+| website     = 
+}}

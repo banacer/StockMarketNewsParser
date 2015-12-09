@@ -1,0 +1,598 @@
+How Risky Is Annaly Capital? - Seeking Alpha
+
+
+
+
+
+
+* See the difference! Customize Seeking Alpha: Sign in or join
+* 
+
+
+Seeking Alpha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home |
+* Portfolio |
+* Market Currents |
+* Long &amp; Short Ideas |
+* Investing for Income |
+* ETFs &amp; Portfolio Strategy |
+* Macro View |
+* Earnings
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Risky Is Annaly Capital?
+
+
+
+&nbsp;2 comments |  by: Jan Brzeski September 6, 2011  |  about: NLY,
+includes: AGNC, CYS, HTS
+   
+
+
+
+
+
+
+* Font Size:
+
+* Print
+
+* Email
+* Recommend
+
+  1
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+With a dividend yield of more than 14%, it is hard not to be interested
+in Annaly Capital (NLY), the largest mortgage REIT. The last five
+headlines of Seeking Alpha articles about the company--all
+positive--demonstrate that it is a popular stock among buy side analysts
+and contributors to Seeking Alpha.
+
+Annaly Yield vs. the S&P 500
+The S&P 500 (SPY) has a dividend yield of a little over 2%, meaning
+Annaly's dividend is more than 600% higher. What is the catch with
+Annaly's huge dividend? What could go wrong? This article, and the next
+one in the series, which is forthcoming, aim to examine that question by
+taking a look at the company's financial statements and figuring out how
+Annaly makes money.
+
+The article refers to the company's latest quarterly filing with the SEC,
+available here (pdf). As with some of my other articles, we are looking
+at the big picture so numbers may be rounded more than would be
+appropriate in a thorough analysis, to simplify the math.
+
+Fair Warning & Disclosure: The author is a real estate investor, not a
+trained stock market analyst. The analysis in this article was done based
+strictly on the financial statements without any external support from
+the company and without referring to any sell-side analyst coverage of
+the company. I am interested in Annaly because I manage a portfolio of
+real estate loans...a miniature version of a mortgage REIT, but with
+virtually no leverage. This perspective may allow me to analyze Annaly a
+little differently than the average analyst, hopefully providing a
+different perspective on its business than the usual one.
+
+Annaly's Balance Sheet
+Annaly lists assets of $101 billion, including $97 billion of "Agency
+Mortgage Backed Securities." These are bonds issued by Fannie Mae
+(FNMA.OB), Freddie Mac (FMCC.OB), and Ginnie Mae, mostly backed by home
+loans. Fannie and Freddie are government owned today (and losing a lot of
+money). There is a stong likelihood the government will keep pumping
+money into the agencies before they would let owners of Fannie and
+Freddie bonds take any losses.
+
+Note: "Strong likelihood" is not the same as an absolute guarantee. Hence
+the difference in yield between Agency bonds of Fannie and Freddie, vs.
+treasury bonds with the same maturity.
+
+On the liability side, Annaly shows $78 billion of "Repurchase
+Agreements"--loans to Annaly secured by the agency bonds that it owns.
+Another $5 billion is listed as "Payable for Investments Purchased."
+Together, these two items total $83 billion. So of $97 billion of bonds
+held, Annaly is borrowing about 86% of the money and has actually put up
+cash for something like the other 14% (actually, a little less, since
+there are some other liabilities that we are ignoring in this analysis).
+
+Let's pause here to calculate one more thing, which will become important
+later. If we look at the ratio of Annaly's debt to equity, we get
+86%/14%=about 6 times.
+
+Annaly's Income Statement
+Annaly received interest on its portfolio of Agency bonds in the latest
+quarter of about $950 million. Annualizing that number, we can estimate
+interest income of $3.8 billion. Comparing the interst income of $3.8
+billion and the balance sheet entry of $97 billion of such bonds, we can
+estimate Annaly is earning about 3.9% on its portfolio of bonds. Page 11
+of the quarterly report of Annaly shows how the Company is earning this
+yield--about a quarter of the agency bonds owned have a maturity of more
+than five years, while the lion's share of the balance is securities with
+a maturity of 1-5 years.
+
+Meanwhile interest expense on the loans to purchase most of those bonds
+was about $100 million. Annualizing this number, we get $400 billion.
+Comparing this expense with the principal amount of Annaly's loans of $83
+billion, we can see the effective borrowing costs is about 0.5%-a very
+low borrowing cost. Page 13 of the annual report states that the weighted
+average maturity of these loans to Annaly is 130 days.
+
+Tying it All Together
+Annaly earns a 3.9% interest rate on its investments, and borrows money
+at an effective rate of 0.5% (on the borrowings secured by those
+investments). The "spread" between these two numbers is 3.4%.
+
+As we calculated previously, Annaly has leverage of about 6 times.
+Therefore, this "spread" is magnified by a factor of about 6, resulting
+in a return on equity (before operating expenses) of something like 3.4%
+x 6 = about 20%. Let's call this number the "cash-on-cash return" after
+accounting for leverage, but before accounting for operating expenses.
+
+Of course, Annaly does have operating expenses. General and
+administrative expenses were $57 million in the latest quarter, or about
+$228 million on an annualized basis. The top two officers of the company
+each earned about $24 million last year, and the CFO earned another $9
+million or so. Annaly also appears to spend some money on hedging various
+risks in its portfolio, which is presumably one of its larger expenses.
+
+When various expenses are taken out, Annaly can afford to pay
+shareholders a 14+% dividend. So, if annaly were a fund rather than a
+public company, the operating costs and management fees would eat up
+about 6% of the maximum possible return of 20%, which is the approximate
+return that investors would receive if operating costs and management
+fees were zero, and all the cash flow were paid out to investors.
+
+In the next article, we will examine the risks facing investors in Annaly
+Capital, referring back to the underlying analysis in this article.
+
+Disclosure: I have no positions in any stocks mentioned, and no plans to
+initiate any positions within the next 72 hours.
+
+
+
+
+This article is tagged with: Investing for Income, REITs, Financial, REIT
+- Diversified, United States
+
+More articles by Jan Brzeski &raquo;
+
+* 2 Roads Diverge In Commercial Real Estate Tue, Aug 30
+* The Case for Single Family Homes (Part 2) Tue, Aug 30
+* The Case For Single Family Homes Tue, Aug 23
+
+
+
+
+
+Top Diversified Dividend Picks For The Next 5 Years
+
+Today
+
+by Dr. Osman Gulseven
+
+
+Dividend Showdown: Dividend Champions Vs. Mortgage REITs
+
+Today
+
+by Geordy Wang
+
+
+Mortgage REIT Regulatory Risks Continue To Surface
+
+Fri, Sep 2
+
+by Zvi Bar
+
+
+How To Deal With mREITs Plummeting Due To Rumors
+
+Fri, Sep 2
+
+by Todd Johnson
+
+
+
+
+7 mREITs With Liquidity, Currently Yielding Over 15%
+
+Mon, Sep 5
+
+by Zvi Bar
+
+
+mREIT Concerns Are Overblown: Good Buying Opportunity
+
+Sun, Sep 4
+
+by Hawkinvest
+
+
+The SEC May Change The Game For Mortgage REITs
+
+Sun, Sep 4
+
+by Parsimony Investment Research
+
+
+Recent mREIT Regulatory Risk Fears Are Likely Overblown
+
+Sun, Sep 4
+
+by Zvi Bar
+
+
+
+
+Is Refinance Uncertainty Bad For mREITs?
+
+Wed, Aug 31
+
+by Parsimony Investment Research
+
+
+Positioning Your Portfolio For A Bear Market
+
+Today
+
+by Thomas Lott
+
+
+Daily State Of The Markets: Are Lower Prices A Fait Accompli?
+
+Today
+
+by David Moenning
+
+
+The Big Move (Part 3): The 2011 Corn Bubble Will Burst
+
+Today
+
+by Justin M. Hall
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Recommend
+
+  1
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+
+* Email
+* Print
+
+
+
+
+
+
+
+Comments (2)
+
+
+
+
+Add a comment
+
+
+
+
+
+
+
+
+
+
+
+Register or Login to rate comments &raquo;
+
+* rickywyatt Comments (2)
+
+   
+
+
+
+
+
+
+
+  N.L.Y. IS A STRONG SELL I SOLD MY 6000 SHARES FRIDAY
+
+* rickywyatt Comments (2)
+
+   
+
+
+
+
+
+
+
+  JIM CRAMER HAS N.L.Y. A BUY, BUT YOU WATCH,HE WILL CHANGE IT TO A HOD
+  AFTER IT DROP'S 15%,
+
+
+
+
+
+
+Load All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the author: Jan Brzeski
+
+
+
+
+
+
+
+
+
+
+I manage a fund dedicated to generating income by making short-term real
+estate loans. To date I have made more than 60 real estate investments
+where my own capital was at risk, with more than 40 investments completed
+profitably and the remaining investments held in portfolio, either in the
+fund... More
+
+
+
+
+
+
+* Company: Arixa Capital Advisors, LLC
+* Blog: Jan Brzeski's Blog
+* Book: The Common Sense Guide to Real Estate Investing
+
+
+
+
+
+
+
+
+
+
+Jan Brzeski
+
+
+
+
+* (5)
+* (7)
+* Profile
+
+
+
+
+
+
+
+
+
+
+
+
+Send Message
+
+
+
+
+
+
+
+
+You are currently following Jan Brzeski
+Stop Following
+
+
+
+
+
+
+You are no longer following Jan Brzeski
+
+
+
+
+
+
+
+About this author:
+* Visit Arixa Capital Advisors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx
+
+
+Breaking News Updated at
+
+ broke in the last few minutes - get the latest updates in Market
+Currents. Updated at
+
+
+
+
+
+
+
+
+
+
+
+
+TOP AUTHORS: The Opinion Leaders
+
+TOP USERS: Commenters | StockTalkers | Instabloggers
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Twitter &nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds  |  Contact
+Us  |  About Us  |  Premium Program
+
+Terms of Use | Privacy | Xignite quote data | Copyright © 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

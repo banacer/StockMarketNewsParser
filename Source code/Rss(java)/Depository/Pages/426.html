@@ -1,0 +1,1380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Benchmarking: Are You Good Or Just Lucky? - Seeking Alpha</title>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="P3P" content='CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"' />
+<link rel="search" type="application/opensearchdescription+xml" href="/javascripts/seeking.xml" title="SeekingAlpha Search" />
+
+
+<meta name="original-source" content="http://seekingalpha.com/article/291760-benchmarking-are-you-good-or-just-lucky">
+<link href="http://static.seekingalpha.com/stylesheets/print.css?1310882701" media="print" rel="stylesheet" type="text/css" />
+
+<link rel="shortcut icon" type="image/ico" href="http://static.seekingalpha.com/favicon.ico" />
+<link rel="canonical" href="http://seekingalpha.com/article/291760-benchmarking-are-you-good-or-just-lucky" />
+
+<link href="http://static.seekingalpha.com/stylesheets/performance_layout_packaged.css?1314525586" media="screen" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+<link href="http://static.seekingalpha.com/stylesheets/article_packaged.css?1314525590" media="screen" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+  var users_on_site='807,132';
+	var has_etf_changed_hash = {}; 
+  var user_cookie={};
+
+  function readCookie(name) {
+    var cookie = document.cookie.match(new RegExp('(^|;)\\s*' + escape(name) + '=([^;\\s]*)'));
+    return (cookie ? unescape(cookie[2]) : null);
+  }
+
+  function addToCookie(key,value) {
+    var arr=user_cookie[key].split(',');
+    arr.push(value);
+
+    user_cookie[key]=arr.join(',');
+  }
+
+  if (readCookie('user_cookie_key')) {
+    document.write('<scr'+'ipt src="http://static.seekingalpha.com/account/cookie/'+readCookie('user_cookie_key')+'"></scri'+'pt>');
+  } else if (readCookie('user_id')) {
+    document.write('<scr'+'ipt src="http://seekingalpha.com/account/no_cookie_key"></scri'+'pt>');
+  }
+
+  var quantSegs="";
+  function qc_results(result) {
+    for (var i = 0; i < result.segments.length; i++) {
+      quantSegs += "qc=" + result.segments[i].id + ";";
+    }
+  }
+
+  var _sf_startpt=(new Date()).getTime();
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-36Zq38JCUmc3w&callback=qc_results"></script>
+
+<script src="http://static.seekingalpha.com/javascripts/common_article_packaged.js?1314525570" type="text/javascript"></script>
+
+
+
+<script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+  if (typeof(is_users_cookie_exists) == "function" && is_users_cookie_exists() && readCookie('user_email').indexOf('@gmail.com')!=-1) {
+    createCookie('user_email',(readCookie('user_email').replace('@gmail.com','').replace(/\./gi,'').replace(/\+(.*?)$/,''))+'@gmail.com',365)
+  }
+
+  if (typeof(readCookie) == "function" && readCookie('user_vocation')) {
+    createCookie('u_voc',readCookie('user_vocation'),3000);
+  }
+
+  var user_cookie = user_cookie || {};
+
+  <!-- ClickTale Top part -->
+  var WRInitTime=(new Date()).getTime();
+  <!-- ClickTale end of Top part -->
+
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8500672" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+
+  var _sf_startpt=(new Date()).getTime(); // chartbeat code
+if (typeof(initAds) == 'function'){
+var delayInit = null;
+Event.stopObserving(window,'scroll',initAds);
+function initAds2() {
+  clearTimeout(delayInit);
+  delayInit = setTimeout(initAdsDelay,400);
+}
+
+function initAdsDelay(){
+  if (adInfo && !adInfo.HadCreated) {
+    var el = $("article_dart_sticky");
+    if (el){
+      if (ScrollerCloseToElement(el,200)){
+       adInfo.HadCreated = true;
+       createIframeAdInEl($("article_dart_sticky"),adInfo.size,adInfo.info);
+       if(!(/.*\/comments$/.test(location.pathname))){ 
+         var ad = new stickyAd(el.id,{Height:250});
+         ad.fixed_ads_init();
+        }
+      }
+    }
+  }
+}
+
+function ScrollerCloseToElement(el,delta) {
+  var ep_y = Element.positionedOffset(el)[1];
+  var vp_y = document.viewport.getScrollOffsets().top;
+  var viewport = document.viewport.getDimensions();
+  return (ep_y < vp_y + viewport.height + delta)
+}
+Event.observe(window,"scroll",initAds2);
+}
+function createIframeAdInEl(el, sizeXformat, src){
+  if (/\/shark\//i.test(location)) { // don't display ad in shark preview
+    return "";
+  }
+  var sizeParts = sizeXformat.split("x")
+  var query=[];
+  if (window.ms_slug) query.push("ms_slug="+window.ms_slug);
+  if (window.article_dashboards) query.push("article_dashboards="+window.article_dashboards);
+  if (window.article_sectors_themes)  query.push("article_sectors_themes="+window.article_sectors_themes);
+  var iframeFilePath = "";
+  if (location.host == "seekingalpha.com") {
+    iframeFilePath = "http://static.seekingalpha.com";
+  } else if (location.host == "staging.seekingalpha.com") {
+    iframeFilePath = "http://static-staging.seekingalpha.com";
+  }
+  var iframe = document.createElement("iframe");
+  iframe.scrolling = "no";
+  iframe.height=sizeParts[1];
+  iframe.width=sizeParts[0];
+  iframe.marginWidth = "0";
+  iframe.marginHeight = "0";
+  iframe.frameBorder = "0";
+  iframe.vspace = 0;
+  iframe.hspace = 0;
+  iframe.style.border = "0px none";
+  iframe.src=iframeFilePath+'/adsframe.html#que='+encodeURIComponent(src)+(query.length ? ("&par="+encodeURIComponent(query.join("&"))) : "");
+  el.appendChild(iframe);
+}
+</script>
+
+<style>
+#main_container.front {
+  min-height:800px;
+}
+</style>
+
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8500672&cv=2.0&cj=1" />
+</noscript>
+
+
+<script type="text/javascript" src="/javascripts/refaeli.js"></script>
+    
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-1420150919334552");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+      GA_googleAddSlot_sa("Article_120x30");
+      GA_googleAddSlot_sa("ETFCenter_AllCatagories_New");
+  </script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+  </head>
+  
+  
+    <body class="stretch_bg">
+  
+  
+    <div id="floating_bar" >
+      <div class="floating_logged_in" id="floating_logged_in" style="display:none;"></div>
+      <div class="floating_logged_out" id="floating_logged_out">
+        <ul>
+          <li class="logout_wording">See the difference! Customize Seeking Alpha: <span onmouseout="link_out(this, '#024999')" onmouseover="link_over(this, '#024999')" onclick="open_header_log_in_popup_lightbox('login','');" style="color:#024999 !important;">Sign in or join</span></li>
+          <li class="floating_sa_logo_li"><a class="floating_sa_logo_a" href="/"></a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <script>
+  var ms_slug = 'efa,iwn,iwd';
+  var article_dashboards = '@etfs@';
+  var article_sectors_themes = '@editors-picks@portfolio-strategy-asset-allocation@sa-exclusive@';
+  var news_beat_author = 'Marc Gerstein';
+  var news_beat_sections = "article";
+  var ratings_hash={};
+</script>
+
+<script>var mone_article_tags = "{iwb,iwm,iwv,iwr,iwc,iww,iwd,iws,iwn,iwz,iwf,iwp,iwo,dvy,vig,jnk,tlt,agg,acwi,acwx,efa,eem,bkf,spy};;;{};;;{editors-picks,portfolio-strategy-asset-allocation};;;{marc-gerstein}"</script>
+
+ <script>var ord = Math.floor(Math.random()*1000000000);</script>
+<span class="seeking_alpha_site_title">Seeking Alpha</span>
+<script type="text/javascript">
+if (readCookie('sa_mobile') == '0'){
+var aHTML =[];
+aHTML.push('<div class="mobile_or_full_site">');
+aHTML.push('<span class="mobile_site" onclick="createCookie(\'sa_mobile\',1,1000);top.location.reload()">Click here to view mobile site</span>');
+aHTML.push('<div class="cleaner"></div>');
+aHTML.push('</div>');
+document.write(aHTML.join(""));
+}
+</script>
+<div id="header" class="not_logged_in header_nav">
+  <div id="logo_and_navigation" class="logo_and_primary_navigation">
+    
+<div id="comment_popup" style="position:relative; left:0; display:none">
+  <div id="popup_secondary">
+    <div id="inner_popup"></div>
+  </div>
+</div>
+    <h1><a href="/" title="Seeking Alpha - Home Page" sasource="salogo"></a></h1>
+    <div class="item banner728x90">
+      
+      
+        <script type="text/javascript">
+          iframeAd("728x90",'http://a.collective-media.net/adj/sek.target/article;sz=728x90;x=x;tile=1;d=target;ms=1;t=article;a=marc-gerstein;t=editors-picks;t=portfolio-strategy-asset-allocation;t=sa-exclusive;aid=291760;d=etfs;s=iwb;s=iwm;s=iwv;s=iwr;s=iwc;s=iww;s=iwd;s=iws;s=iwn;s=iwz;s=iwf;s=iwp;s=iwo;s=dvy;s=vig;s=jnk;s=tlt;s=agg;s=acwi;s=acwx;s=efa;s=eem;s=bkf;s=spy;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"');
+        </script>
+      
+    </div>
+  </div>
+  <div id="nav_container">
+    <div id="navi_cont">
+	<ul id="navi">
+    <li class="home" onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/" sasource="headtabs">Home</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li class="portfolios " onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/account/portfolio" sasource="headtabs">Portfolio</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/currents/all" sasource="headtabs">Market Currents</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/dashboard/investing_ideas" sasource="headtabs">Long &amp; Short Ideas</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/dashboard/investing_income" sasource="headtabs">Investing for Income</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/dashboard/etfs" sasource="headtabs">ETFs &amp; Portfolio Strategy</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+		<li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+		  <a href="/dashboard/macro_view" sasource="headtabs">Macro View</a>
+		  <span class="navi_right_corner">|</span>
+		</li>
+    <li  onmouseover="addThisClass(this,'yes_selected_not_new');" onmouseout="removeThisClass(this,'yes_selected_not_new');">
+      <a href="/tag/transcripts" sasource="headtabs">Earnings</a>
+    </li>
+    <li id="user_settings_wrapper"></li>
+    <script type="text/javascript">
+      var aHtml=[];
+      if (is_users_cookie_exists()) {
+        var user_id = readCookie('user_id');
+        var user_nick = readCookie('user_nick');
+        if (user_nick == null || user_nick == "") user_nick = "User " + user_id;
+        var profile_href = (readCookie('author_slug')==null || readCookie('author_slug')=='') ? "/user/"+user_id+"/profile" : "/author/"+readCookie('author_slug');
+
+        aHtml.push('<div class="user_settings" id="user_settings">');
+          aHtml.push('<span class="user_image"><img src="' + user_picture(user_id,'small') + '" /></span>');
+          aHtml.push('<span id="top_nav_arrow" class="top_nav_arrow_down" style="cursor:pointer;">'+(user_nick.length < 11 ? user_nick : user_nick.slice(0,8)+"...")+'</span>');
+          aHtml.push('<div class="user_settings_pop" id="user_settings_pop" onmouseover="show_item(\'user_settings_pop\');$(\'user_settings\').addClassName(\'up\')" style="display:none">');
+            aHtml.push('<ul>');
+              aHtml.push('<li><a href="'+profile_href+'" onclick="trackLink(this,\'Menu Tracking\',\'Profile\',location.href);">Profile</a></li>');
+              aHtml.push('<li><a href="/account/email_preferences" onclick="trackLink(this,\'Menu Tracking\',\'My Settings\',location.href);">Settings</a></li>');
+              aHtml.push('<li><a href="/store/my-applications" onclick="trackLink(this,\'Menu Tracking\',\'My Tools\',location.href);">Tools</a></li>');
+              aHtml.push('<li class="sign_out"><span onmouseover="link_over(this,\'#ff0000\')" onmouseout="link_out(this,\'#024999\')" onclick="trackLink(this,\'Menu Tracking\',\'Sign out\',location.href);logout();" class="logout_link">Sign Out</span></li>');
+            aHtml.push('</ul>');
+          aHtml.push('</div>');
+        aHtml.push('</div>');
+      } else {
+        aHtml.push('<span style="cursor:pointer;" onclick="open_header_log_in_popup_lightbox(\'headtabs_login\',\'\'); return false">Sign in / Join Now</span>');
+      }
+      $('user_settings_wrapper').innerHTML=aHtml.join("");
+    </script>
+  </ul>
+</div>
+
+  </div>
+  <script type="text/javascript">
+    if (/msie 6/i.test(navigator.userAgent)) document.write("<div class='ie_obsolete_message'>You are using outdated version of Internet Explorer which may distort the way you see certain areas of the site. You can <a href='http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx' onclick='pageTracker._trackEvent(\"IE Upgrade\",\"Click\");'>upgrade Internet Explorer here</a>.</div><div class='ie_obsolete_line'></div><div class='cleaner'></div>");
+    SeekingAlpha.Initializer.LogAndRun(set_login_and_registration_top_header);
+    SeekingAlpha.Initializer.LogAndRun(InitSASource);
+  </script>
+</div>
+ <div id="main_container" class="white_as_before">
+  <div id="content_wrapper" class="article_pages">
+    <img src="http://static.seekingalpha.com/images/universal/print_logo.png" id="print_seekingalpha_logo" />
+    <div class="page_top">
+      <div class="search_box_container_isolated">
+  <div class="search_box">
+    <form id="search_box_sa_search" method="get" class="linktosym comp search" action="/search/" onsubmit="return false;">
+      <fieldset>
+        <input id="autocomplete_sa_search" class="input_text text" type="text" value="search by symbol, author, keyword..." size="25" autocomplete="off" onblur="this.style.color=this.value=='' ? '#8D8D8D' : '#000000';handleInput(this,'blur')" onfocus="this.style.color='#000000';handleInput(this,'focus')" afteruploadvalue='eFind quotes, people, expressions, transcripts' title='search by symbol, author, keyword...' class="find_transcripts" />
+        <input type="button" class="search_button" value="" onclick="if ($('autocomplete_sa_search').value!=$('autocomplete_sa_search').title) AutoCompleteSAConfig.Packages.search.Find()" />
+      </fieldset>
+      <input type="hidden" name="source" value="search_general" />
+      <input type="hidden" id="autocomplete_sa_hidden_search" name="q" value="" />
+      <input type="hidden" name="cx" value="001514237567335583750:cdhc2yeo2ko" />
+      <input type="hidden" name="cof" value="FORID:11;NB:1" />
+      <input type="hidden" name="goto_search_tab" value="" />
+    </form>
+    <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(function () { AutoCompleteSAConfig.Load('search', { Symbols:true, IframeCover:true, AfterInsert:function () { this.Find(); }, AfterSubmit:function () { this.Find(); }}) });</script>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_001514237567335583750%3Acdhc2yeo2ko&lang=en"></script>
+  </div>
+</div>
+      <div id="page_header">
+  <h1>
+    <span >Benchmarking: Are You Good Or Just Lucky?</span>
+    
+  </h1>
+  <div id="article_info">
+		<div class="article_info_pos">
+			<span class="num_of_comments"><a href="#comments_header">&nbsp;1 comment</a>&nbsp;|&nbsp;</span>
+    	<span id="page_position"></span>
+	    <span class="author_name_for_print">
+				
+	        by: Marc Gerstein
+	      
+	    </span>
+	    <span>September  6, 2011</span>
+	    
+        
+	      &nbsp;|&nbsp;
+	      
+	      includes: <span id='about_stocks'><a href="/symbol/acwi" title='iShares MSCI ACWI &#40;All Country World Index&#41; Index ETF' sasource='article_about'>ACWI</a>, <a href="/symbol/acwx" title='iShares MSCI ACWI ex-U.S. Index ETF' sasource='article_about'>ACWX</a>, <a href="/symbol/agg" title='iShares Barclays Aggregate Bond ETF' sasource='article_about'>AGG</a>, <a href="/symbol/bkf" title='iShares MSCI BRIC Index ETF' sasource='article_about'>BKF</a>, <a href="/symbol/dvy" title='iShares Dow Jones Select Dividend Index ETF' sasource='article_about'>DVY</a>, <a href="/symbol/eem" title='iShares MSCI Emerging Markets Index ETF' sasource='article_about'>EEM</a>, <a href="/symbol/efa" title='iShares MSCI EAFE Index ETF' sasource='article_about'>EFA</a>, <a href="/symbol/iwb" title='iShares Russell 1000 Index ETF' sasource='article_about'>IWB</a>, <a href="/symbol/iwc" title='iShares Russell Microcap Index ETF' sasource='article_about'>IWC</a>, <a href="/symbol/iwd" title='iShares Russell 1000 Value Index ETF' sasource='article_about'>IWD</a>, <a href="/symbol/iwf" title='iShares Russell 1000 Growth Index ETF' sasource='article_about'>IWF</a>, <a href="/symbol/iwm" title='iShares Russell 2000 Index ETF' sasource='article_about'>IWM</a>, <a href="/symbol/iwn" title='iShares Russell 2000 Value Index ETF' sasource='article_about'>IWN</a>, <a href="/symbol/iwo" title='iShares Russell 2000 Growth Index ETF' sasource='article_about'>IWO</a>, <a href="/symbol/iwp" title='iShares Russell Midcap Growth Index ETF' sasource='article_about'>IWP</a>, <a href="/symbol/iwr" title='iShares Russell Midcap Index ETF' sasource='article_about'>IWR</a>, <a href="/symbol/iws" title='iShares Russell Midcap Value Index ETF' sasource='article_about'>IWS</a>, <a href="/symbol/iwv" title='iShares Russell 3000 Index ETF' sasource='article_about'>IWV</a>, <a href="/symbol/iww" title='iShares Russell 3000 Value Index ETF' sasource='article_about'>IWW</a>, <a href="/symbol/iwz" title='iShares Russell 3000 Growth Index ETF' sasource='article_about'>IWZ</a>, <a href="/symbol/jnk" title='SPDR Barclays Capital High Yield Bond ETF' sasource='article_about'>JNK</a>, <a href="/symbol/spy" title='SPDR S&P 500 Trust ETF' sasource='article_about'>SPY</a>, <a href="/symbol/tlt" title='iShares Barclays 20+ Year Treasury Bond ETF' sasource='article_about'>TLT</a>, <a href="/symbol/vig" title='Vanguard Dividend Appreciation VIPERs ETF' sasource='article_about'>VIG</a></span>
+			
+		</div>
+
+		
+    &nbsp;&nbsp;&nbsp;
+  </div>
+</div>
+    </div>
+    <div class="cleaner"></div>
+    <div id="main_content" class="no_big_gaps_main_content">
+      <ul id="page_toolbar">
+  
+  
+  <li class="font_size">
+    <div>Font Size: </div>
+    <a id="article-size-small" class="small_selected" href="javascript:setArticleFont('small');"></a>
+    <a id="article-size-medium" class="medium" href="javascript:setArticleFont('medium');"></a>
+    <a id="article-size-large" class="large" href="javascript:setArticleFont('large');"></a>
+  </li>
+  <li onclick="print_article('with_comments')" class="print">
+  <div class="text" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Print</div>
+  </li>
+  <li class="email">
+    <span class="text" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'" onclick="email_story_to_friends('Article',291760,'http://seekingalpha.com/article/291760-benchmarking-are-you-good-or-just-lucky')">Email</span>
+  </li>
+
+
+	<li class="share_this_page_article_toolbar">
+		<div class="recommend_link" onclick="pop_recommendation('/article/291760-benchmarking-are-you-good-or-just-lucky', true, 291760, 1, 'default')">
+	Recommend
+</div>
+<div class="recommend_num" onclick="pop_recommendation('/article/291760-benchmarking-are-you-good-or-just-lucky', true, 291760, 1, 'default')">
+	<span class="recommends_box text">0</span>
+	<span class="right_close"></span>
+</div>
+		
+
+<div class="share_this_page_snippet">
+  <h6>Share this page</h6>
+  <div class="widgets">
+    
+    <!-- facebook -->
+    <span class="facebook_small"><a class="fb_link_button_count" name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php" onclick="open_facebook()"><span class="share_text_fb">Share</span></a></span>
+    <script>SeekingAlpha.Initializer.AddAfterLoad(init_facebook);</script>
+    
+      <span id="linkedin_1" class="linkedin_small"><script type="IN/Share" data-counter="right"></script></span>
+      <script>SeekingAlpha.Initializer.AddAfterLoad(init_linkedin);</script>
+    
+    <!-- twitter -->
+    <span class="twitter_small">
+    <script type="text/javascript">tweetmeme_style = 'compact';</script>
+    <script>
+      twittememeFrame(window.tweetmeme_style== "compact" ? "85x20": "50x61");
+    </script>
+    </span>
+  </div>
+  
+</div>
+	</li>
+</ul>
+
+      <div id="article_body_container" class="no_big_gaps_article_body_container" style="float:right;">
+
+        <div id="article_body">
+          <p>During the course of a Labor Day controversy involving different ideas regarding the way income investors go about their endeavors, the topic of benchmarking crept into the comment section. One Seeking Alpha user, taking issue with some points I made about benchmark selection, observed as follows:</p> <blockquote class="quote"><p>There is only one benchmark: how much money did I start with, and how much do I have now. Comparisons with indexes are for money managers and the like.</p> </p></blockquote> <p><span></p> <p>That seemingly sound idea is actually quite dangerous, and I&rsquo;ve no doubt you&rsquo;ve all had occasion to observe close-up the consequences of such a view.</p> <h3>Why You &ndash; And Not Just the Pros &ndash; Need Benchmarks</h3> <p>Think back about 10-12 years. Do you remember a TV commercial (perhaps even a series of commercials) depicting a skinny teenage kid wagging his finger at and dispensing investment wisdom to a 60-something man wearing an expensive suit? How did the kid become so market savvy? The answer, of course, was by using one of the newly-minted on-line brokerage firms that put bargain-priced trading prowess into the hands of the average person.</p> <p>Now, let&rsquo;s try to imagine those same characters as they are today.</p> <p>What happened to the 60-something guy? He probably kept doing his thing and maybe retired (hopefully before 2008 or after mid-2009) and now focuses on his yacht or daily golf game.</p> <p>As to the teenage investment guru, he probably has to stand by an automatic door eight hours per day saying over and over again &ldquo;Good day, welcome to Wal-Mart&rdquo; because he quickly vaporized his college fund. He was good; no, great. Actually, though, he had temporarily benefitted from the dumbest variety of dumb luck. Unfortunately for him, he did not know what benchmarks were and how to use them. Had he been aware, he probably would not have been so quick to worship at the altar of his own genius, but would have recognized that had had been enjoying the good fortune that comes to those who are able to ride a powerful bull market. Had he recognized that the money he made was due to entirely to factors outside himself &ndash; the market &ndash; he could have been more watchful regarding the overall market climate.</p> <p>I still doubt he&rsquo;d have sold out at the top (even the best and brightest find it hard to do that) , but he&rsquo;d have stood a much better chance at getting out with at least a reasonable portion of his &ldquo;winnings&rdquo; intact. Instead, believing his fortune to have been the result of his superior skill, he wound up riding the bear all the way down, convinced every point of the way that he knew what he was doing (after all, he had picked the stocks that had just recently soared so high) and that sooner or later, the &ldquo;dumb money&rdquo; (i.e. those who weren&rsquo;t as smart as he was) would cease their irrational selling and rush back into the stocks he knew were the right ones to own.</p> <p>Benchmarking work the other way as well, by showing you when, despite seemingly bad outcomes, you should recognize and appreciate that you&rsquo;ve got a good thing going.</p> <p>Countless times during 2008, I found myself responding to the complaints of my eighty-something mother about the very low returns she was getting from her money-market funds and CDs and her wanting to reach for more return by showing her what was happening in the overall market, and how even a zero return was, in effect, making her one of the most successful money managers of the day.</p> <p>Asking &ldquo;how much money did I start with, and how much do I have now&rdquo; is an important starting point for evaluating your efforts, but sheds no light at all on why you achieved what you did  and does not help you determine whether you should stay the course or make some adjustments.</p> <p>For investment professionals, this is second nature. It has to be given their need to justify their actions to clients. But it&rsquo;s also important to the average investor. Absent proper benchmarks, you have no was of knowing whether your returns are the result of your efforts or luck. Being in the dark on such a vital issue can get you into big trouble.</p> <h3>Some Popular Benchmarks</h3> <p>For a long time, the most popular stock-market benchmark was the Dow Jones Industrial Average. It&rsquo;s still widely published and widely cited, but at this point, it&rsquo;s not taken as seriously as it once was and thank god for that &ndash; as a benchmark, it&rsquo;s dreadful.</p> <p>The Dow tracks the progress of thirty large U.S. stocks. That alone raises some serious issues. Is thirty a big enough sample (it&rsquo;s debatable; don&rsquo;t automatically assume the answer is &ldquo;No&rdquo;). Is it reasonable to restrict consideration to large companies (this, too, is defensible, but highly debatable) or even to U.S. companies (this is more defensible).</p> <p>But what makes the index such a disaster is the fact that it is price weighted. To see how absurd this is, imagine a hypothetical two-stock index (or portfolio): Apple (<a href='http://seekingalpha.com/symbol/aapl' title='Apple Inc.'>AAPL</a>), which closed at 322.56 on 12/31/10, and Berkshire Hathaway (<a href='http://seekingalpha.com/symbol/brk.a' title='Berkshire Hathaway Inc'>BRK.A</a>), which closed then at 104,000.00.  Assume there are no questions about sampling: These are the only two stocks in the market so a passive investor, an indexer, would have to hold both AAPL and BRK.A. But how much money would be allocated to each?</p> <p>An equally weighted portfolio would allocate 50% to each stock, meaning the index would have been more or less flat so far in 2011: <span>BRK.A fell 13.7% while AAPL rose 15.9%; so an equally-weighted portfolio would have risen by 1.15%. That&rsquo;s defensible. Many investors allocate equally, so 1.15% could well represent the return of a passive portfolio.</span></p> <p>Many institutional portfolios use market capitalization as a starting point for weighting and go higher for stocks they think are better, and compensate by &ldquo;underweighting&rdquo; issues in which they are less optimistic. (They often have so much money to put to work, it can be hard for them to completely ignore major stocks or sectors forcing them to express their views by overweighting or underweighting). Apple&rsquo;s market cap at 12/31/10 was $346.8 billion, while Berkshire&rsquo;s was $171.8 billion.</p> <p>In other words, AAPL accounted for 67% of our hypothetical market while Berkshire accounted for 33%. Hence a passive investor, one who didn&rsquo;t want to decide the merits of the individual stocks and preferred to just &ldquo;buy the market&rdquo; would have used those weights. A market capitalization weighted index designed on that basis would have risen 6.1%, based on a weighted average that uses 67% of AAPL&rsquo;s performance and 33% of Berkshire&rsquo;s. (That&rsquo;s generally the approach taken by S&amp;P and most other indexes.)</p> <p>What about the price-weighted method used by Dow Jones?  Are you sitting down? You should be. This is going to jolt you. Berkshire stock was priced at 120,450 on 12/31/10; AAPL closed at 323. Adding 120,450 and 323 comes to of 120,773. Based on the method used for the Dow Jones Industrial Average, Dow would divide by two to assume an average portfolio price of 60,387.</p> <p>Just before Labor Day, <span>BRK.A and AAPL respectively closed at 104,000 and 374; adding them up and dividing by two produces a portfolio value of 52,187, 13.6% lower than the 12/31/10 valuation. Hence media outlets that talk about the Dow would have told you how horrible the market was, how it declined 13.6%. The reporters would recognize that the stock that accounted for two-third of all money in the market was up 15.9%.</span></p> <p>(NOTE: There are various subtleties to the real-world versions of all these computations, particularly in the use of &ldquo;divisors&rdquo; to deal with stock splits, as well as changes to index rosters, and in the case of weighted indexes, adjustment of market caps to account for float, but the general idea of each approach is as depicted here.)</p> <p>So please, please, please, please do not ever give a second&rsquo;s worth of thought to the Dow. I have no doubt everyone at Dow Jones knows how defective this index is (by the way, it was created in 1882, when it was too much a pain in the neck for Charles Dow to do frequent calculations any other way), and I assume considerations of branding and public relations are the only things that prevent it from being discontinued. (Just think of how many times per day the word &ldquo;Dow&rdquo; is printed and publicly uttered; no PR person wants to give that up!)</p> <p>Another benchmark that became popular in recent years is the NASDQ 100. This is not quite as horrible as the Dow, but it, too, is sort-of absurd. It's capitalization weighted, which is commonplace. My quarrel is that its sample is limited to something investors today don&rsquo;t care deeply about; the fact that the stock trades on the NASDQ rather than elsewhere, say the NYSE.</p> <p>A generation or so ago, this might have meant something but today, that&rsquo;s not really the case. It means a lot to the exchanges as they compete for business, but I personally don&rsquo;t care, and I doubt this is important to many of you. (Suppose Apple, a Seeking Alpha readers&rsquo; favorite, would move to the NYSE? Would you feel compelled to sell? The NASDQ Index presumes you would, in fact, do just that.)</p> <p>Some favor the NASQ because it supposedly provides a good sense of tech-stock performance. But this is based on coincidence, not design. It just so happened that in the 1990s and 2000s, many new tech companies went onto the NASDQ and, so far, stayed there. But there&rsquo;s no law that says that have to remain there forever. Suppose Apple, Cisco (<a href='http://seekingalpha.com/symbol/csco' title='Cisco Systems, Inc.'>CSCO</a>), Google (<a href='http://seekingalpha.com/symbol/goog' title='Google Inc.'>GOOG</a>), Microsoft (<a href='http://seekingalpha.com/symbol/msft' title='Microsoft Corporation'>MSFT</a>), Amazon (<a href='http://seekingalpha.com/symbol/amzn' title='Amazon.com, Inc.'>AMZN</a>), eBay (<a href='http://seekingalpha.com/symbol/ebay' title='eBay Inc.'>EBAY</a>), et. al. decide in the next few months to migrate to the NYSE? Then, it&rsquo;s likely we would no longer be able to characterize the NASDQ 100 as a tech benchmark.</p> <p>If you actually do want a tech-oriented benchmark (assuming that&rsquo;s all you care about), you&rsquo;d be better off picking a technology ETF to track; there&rsquo;s no reason to muddying up your efforts with the possibility big tech stocks may switch to NYSE or with non-tech stocks presently included in the NASDQ 100.</p> <p>The most widely accepted modern benchmark is the S&amp;P 500, and fortunately, media outlets that continue to insist on tracking the Dow and NASDQ 100 have enough sense to also track the S&amp;P 500.</p> <p>Interestingly, though, as popular as the S&amp;P 500 is today, this index, too, leaves much to be desired. It's cap weighted (with adjustments for float) meaning the calculation is intellectually defensible but also that it&rsquo;s only useful for those who are interested in large cap stocks. That&rsquo;s not the end of the world. Many are, in fact, oriented to large cap.</p> <p>The bigger problem with the S&amp;P 500 is the selection process. Decisions are made by committee. A stock can be dropped simply because it&rsquo;s a dog and replaced by one the committee deems &ldquo;better.&rdquo; And even if a stock is dropped because it must be dropped (i.e. due to acquisition or bankruptcy), it&rsquo;s unlikely it will be replaced by a dog.</p> <p>So in a sense, one can argue that the S&amp;P 500 is not an index at all but an actively managed play-money large-cap portfolio, and one that has an advantage relative to real-money large-cap funds since the S&amp;P selection committee doesn&rsquo;t have to sell stocks at low prices when mutual fund managers have to sell to raise cash. Moreover, the S&amp;P selection committee doesn&rsquo;t have to buy high as bull markets peak because their hounded by fund lawyers who insist managers obey prospectuses and stay fully or near-fully invested.</p> <p>Because fund managers are constantly forced to buy by their clients to buy high and sell low, while the S&amp;P selection committee need not do that, even terrific fund managers should be expected to underperform the ivory-tower play-money S&amp;P 500 portfolio.</p> <p>(One of the many reasons why hedge funds got big was to escape from such constraints and give portfolio managers a chance, for better or worse, to have performance reflect their decisions, as opposed to the timing choices of their customers.)</p> <p>Even so, if you want to use the S&amp;P 500 to benchmark your performance, assuming you are focusing on large cap U.S. stocks, I wouldn&rsquo;t argue since for better or worse, the math is OK and the index remains number one in terms of popularity. But if you want to do better, I&rsquo;m going to propose that you stop following any of the popular indexes and choose from another set, all of which can easily be followed via well-established ETFs designed to track them.</p> <h3>A Better Set of Benchmarks</h3> <p>If you want to properly benchmark your efforts, I suggest you make yourself familiar with three index brands that are very well respected by professionals but little known or discussed in the financial media: Russell (if you care U.S. investing), MCSI (if you want to invest outside the US) and a third that&rsquo;s not quite as big but has a valuable niche, Rydex (which offers equally-weighted indexes).</p> <p>You should also get intimate with iShares, which offers a terrific product line that includes lots of ETFs based on Russell and MSCI indexes; it may be hard for you to track the indexes themselves, but tracking the relevant ETFs is as easy as easy can be. (Rydex issues its own ETFs.)</p> <p>By the way, if you use the historical price data on Yahoo Finance!, as I strongly suggest you do, focus on the column labeled Adjusted Close; this series includes the impact of dividends (so even if you really want the S&amp;P 500, it&rsquo;s actually better to go to the historical Yahoo Finance adjusted prices for the SPYDER S&amp;P 500 ETF (<a href='http://seekingalpha.com/symbol/spy' title='SPDR S&P 500 Trust ETF'>SPY</a>) as opposed to looking at the S&amp;P 500 price index itself). By the way, I&rsquo;m not abandoning Dow Jones.</p> <p>If we can look past the PR nonsense and the 19<sup>th</sup> century indexes they still publish, we can actually find a very useful family of sector-specific U.S. equity indexes.</p> <p>Russell and MSCI indexes are capitalization weighted (adjusted for float) but improve on S&amp;P in that stock selection is based on objective rules, not the feelings of members of a committee. It&rsquo;s true that the rules are designed by humans, but they are very broad and rather than seeking to identify &ldquo;good&rdquo; stocks, they are focuses on weeding out stocks that for one reason or another are not likely to be effectively tradable or representative of what most investors would consider. These indexes still have the built-in advantage of not having to buy high and sell low, but at least they don&rsquo;t rub portfolio manager&rsquo;s noses in the dirt by also being active.</p> <p>Here are some of the main Russell selections:</p> <ul>     <li><b>Russell 1000, tracked by iShares Russell 1000 Index ETF (<a href='http://seekingalpha.com/symbol/iwb' title='iShares Russell 1000 Index ETF'>IWB</a>)</b></li> </ul> <p>Like the S&amp;P 500, it represents large-cap U.S. stocks, and is cap weighted. But it uses a bigger sample and, as noted, selection of stocks is done using objective rules.</p> <ul>     <li><b>Russell 2000, tracked by iShares Russell 2000 Index ETF (<a href='http://seekingalpha.com/symbol/iwm' title='iShares Russell 2000 Index ETF'>IWM</a>)</b></li> </ul> <p>I&rsquo;m absolutely flabbergasted by the persistent failure of financial media outlets to prominently track the Russell 2000 (Attention Seeking Alpha: Hint, hint, hint!) It, too, is a cap weighted U.S. index but it focuses mainly on smaller stocks, which may not be as appealing to institutions by is highly relevant to individuals, many of whom can and do trade smaller capitalization stocks.</p> <ul>     <li><b>Russell 3000, tracked by iShares Russell 3000 Index ETF (<a href='http://seekingalpha.com/symbol/iwv' title='iShares Russell 3000 Index ETF'>IWV</a>)</b></li> </ul> <p>This is a very interesting and badly under-rated index. It, essentially, is the Russell 1000 plus the Russell 2000 and, in a sense, is a pretty good depiction of the total U.S. stock market. There are other total U.S. indexes that have more stocks, but as you progress beyond 3,000, you get into some very, very small selections many of which, mathematically, have so little impact as to hardly justify the extra CPU processing power needed to add them to the computation (and that&rsquo;s saying something considering how cheap CPU power is nowadays).</p> <p>That said, there many that are very much worth considering, but as I have shown in connection with my low-priced stock <a href="http://newsletters.forbes.com/lowpriced" rel="nofollow">newsletter</a>, this corner of the market is best viewed as a unique thing unto itself, and as we&rsquo;ll see below, Russell gives us a way to do that.</p> <ul>     <li><b>Russell MidCap, tracked by iShares Russell MidCap Index ETF (<a href='http://seekingalpha.com/symbol/iwr' title='iShares Russell Midcap Index ETF'>IWR</a>)</b></li>     <li><b>Russell MicroCap, tracked by iShares Russell MicroCap Index ETF (<a href='http://seekingalpha.com/symbol/iwc' title='iShares Russell Microcap Index ETF'>IWC</a>)</b></li> </ul> <p>These are specialty indexes that might be useful to some of you. The MidCap Index is a subset of the Russell 1000. If you take all those stocks and rank them from largest to smallest, the mid-cap index consists of those ranked 201-1000. The MicroCap index consists of the smallest 1000 from among those that make the Russell 3000, and the top 1000 from among fail, based on size, to make it into the Russell that universe.</p> <p>Click <a href="http://www.russell.com/indexes/documents/Methodology.pdf" rel="nofollow">here</a> for details of Russell&rsquo;s methodology<a href="http://www.russell.com/indexes/documents/Methodology.pdf" rel="nofollow">.</a></p> <ul>     <li><b>Specialized U.S. equity benchmarks</b></li> </ul> <p>Here, we have Dow Jones sector indexes, which are quite modern and useful. They use objective selection rules and capitalization weighting. There are also some diversification rules that prevent the largest companies from overwhelming the index, so you get clear pictures of the sectors, free from large-cap domination. Indeed, the fact that these indexes are as well constructed as they are is what leads me to believe the financial people at Dow Jones know (but obviously can&rsquo;t publicly state) how absurd their 19<sup>th</sup> century indexes are.</p> <p>Here is a list of sector/industry indexes:</p> <p><img src="http://static.seekingalpha.com/uploads/2011/9/6/192600-131531183277728-Marc-Gerstein.jpg" hspace="6" vspace="6" width="158" height="227" /></p> <p>Click <a href="http://www.djindexes.com/mdsidx/downloads/meth_info/Dow_Jones_US_Select_Health_Care_Providers_Index_Methodology.pdf" rel="nofollow">here</a> for an example of the Dow Jones sector-index methodology.</p> <p>Suppose you decide you want to focus on a specific style, like value or growth. You could stick with the basic Russell benchmark, either the 3000 for total market, or one of the more specific size-based indexes, and use such comparisons to measure the wisdom of your choice of value or growth. It&rsquo;s one thing to say you&rsquo;re a value investor, as so many on Seeking Alpha do. It&rsquo;s another thing to inquire into whether you&rsquo;re actually good at this sort of thing. Hence, style-specific benchmarks could be useful.</p> <p>So here are some ETFs you can track.</p> <ul>     <li><b>General value, represented by the iShares Russell 3000 Value ETF (<a href='http://seekingalpha.com/symbol/iww' title='iShares Russell 3000 Value Index ETF'>IWW</a>)</b></li>     <li><b>Large cap value, represented by the iShares Russell 1000 Value ETF (<a href='http://seekingalpha.com/symbol/iwd' title='iShares Russell 1000 Value Index ETF'>IWD</a>)<span></b></li>     <li><b>Mid cap</b><span> <b>value, represented by the iShares Russell MidCap Value ETF (<a href='http://seekingalpha.com/symbol/iws' title='iShares Russell Midcap Value Index ETF'>IWS</a>) </b></span></li>     <li><strong>S</strong><b>mall cap value, represented by the iShares Russell 2000 Value ETF (<a href='http://seekingalpha.com/symbol/iwn' title='iShares Russell 2000 Value Index ETF'>IWN</a>)        </b></li>     <li><b> </b><b>General growth, represented by the iShares Russell 3000 Growth ETF (<a href='http://seekingalpha.com/symbol/iwz' title='iShares Russell 3000 Growth Index ETF'>IWZ</a>)</b></li>     <li><b>Large cap growth, represented by the iShares Russell 1000 Growth ETF (<a href='http://seekingalpha.com/symbol/iwf' title='iShares Russell 1000 Growth Index ETF'>IWF</a>) </b></li>     <li><b>Mid cap growth, represented by the iShares Russell MidCap Growth ETF (<a href='http://seekingalpha.com/symbol/iwp' title='iShares Russell Midcap Growth Index ETF'>IWP</a>)</b></li>     <li><b> Small Cap growth, represented by the iShares Russell 2000 Growth ETF (<a href='http://seekingalpha.com/symbol/iwo' title='iShares Russell 2000 Growth Index ETF'>IWO</a>)</b></li> </ul> <p>The Russell link above includes explanations of how Russell defines growth and value. These approaches are not highly sophisticated. Actually, I&rsquo;m being kind. They&rsquo;re quite pedestrian. But that&rsquo;s fine. Remember, these are benchmarks, and as such they&rsquo;re supposed to be basic. It&rsquo;s up to you to do better if you wish to try. Evaluate yourself based on whether your philosophy of growth or value is better than the correct and competent but bland approaches used by Russell.</p> <p>I mentioned above the existence of a suite of Rydex equally-weighted indexes. Many of these focus on the S&amp;P 500 with its committee-based selection approach. As you know, I&rsquo;m not thrilled with it, but accept it as a nod to prevailing investment-community culture, and it&rsquo;s worth tolerating this in order to get the benefit of benchmarks which use S&amp;P 500 stocks (or sector-specific subsets) but differ from S&amp;P by using equal weighting as opposed to weighting based on capitalization. This could be very valuable for individual investors, whose own portfolios are much more likely to come closer to equal weighting than cap weighting.</p> <p><img src="http://static.seekingalpha.com/uploads/2011/9/6/192600-131531200988545-Marc-Gerstein.jpg" hspace="6" vspace="6" width="256" height="174" /></p> <p>Meanwhile, income investing can pose particular challenges since the media completely ignores this area notwithstanding its great importance to many investors. There are a couple of equity benchmarks worth considering, but if you really want to effectively evaluate your efforts along these lines, you&rsquo;ll need to stray into the world of fixed income.</p> <p>Historically, fixed-income benchmarks will have performed very well given the epoch declines in interest rates. It will be very valuable to monitor these further into the future, to see how effective you can be at using the dividend-growth capabilities of equities to offset a possible end to what some refer to as a bond bubble.</p> <p>Here are some suggested benchmarks:</p> <ul>     <li><b>iShares Dow Jones Select Dividend (<a href='http://seekingalpha.com/symbol/dvy' title='iShares Dow Jones Select Dividend Index ETF'>DVY</a>)</b></li>     <li><b>Vanguard Dividend Appreciation (<a href='http://seekingalpha.com/symbol/vig' title='Vanguard Dividend Appreciation VIPERs ETF'>VIG</a>)</b></li> </ul> <p>DVY looks to be as good a core equity-income benchmark as I can find. I&rsquo;m not saying it&rsquo;s great. As noted, there&rsquo;s a dearth of product here so for now, it will have to do. VIG is a slightly more growth-oriented version (i.e. willingness to sacrifice current yield for future growth).</p> <ul>     <li><b>S&amp;P Capital High Yield Bond Fund (<a href='http://seekingalpha.com/symbol/jnk' title='SPDR Barclays Capital High Yield Bond ETF'>JNK</a>)</b></li> </ul> <p>This is a junk-bond ETF, but you can use it as a benchmark for evaluating your equity-income efforts if you choose to take on more risk and seek higher yields. I wish there would be a suitable equity-income product, but there isn&rsquo;t at this time so we have to make do as best we can.</p> <ul>     <li><b>iShares Barclays 20+ Year Treasury Bond ETF (<a href='http://seekingalpha.com/symbol/tlt' title='iShares Barclays 20+ Year Treasury Bond ETF'>TLT</a>)</b></li>     <li><b>iShares Barclays Aggregate Bond ETF (<a href='http://seekingalpha.com/symbol/agg' title='iShares Barclays Aggregate Bond ETF'>AGG</a>)</b></li> </ul> <p>These are mainstream fixed-income benchmarks; TLT for long-term treasuries and AGG for general investment grade corporate bonds. I don&rsquo;t want to slice and dice the bond market as heavily as I did the equity market because I don&rsquo;t sense that Seeking Alpha investors think this way.</p> <p>Actually, I&rsquo;d be content to stick with AGG as the most generalized approach, but I added TLT because I feel a need to put something in to represent risk-free investing. If you want to start moving up and down the yield curve, use these benchmarks to assess the wisdom of the choices you make along these lines.</p> <p>(REMEMBER: Look at the adjusted price column in Yahoo Finance! Historical Prices. Income investors have particular need to factor in the impact of income payments!)</p> <p>Meanwhile, there&rsquo;s a lot of talk about global investing. I&rsquo;m not sure how far Seeking Alpha users stray outside the U.S., but I suspect any of you, no matter what you do, can find an iShares ETF based on an MSCI index to serve as a worthy benchmark.</p> <p>MSCI is a terrific indexation company with a solid methodology involving float-adjusted capitalization weighting (and they work darn hard to get this right, which can be a daunting task in many countries where it is often difficult to determine which shares should or should not be included in the float), and objective selection rules that are highly sensitive to liquidity (another critical consideration in many parts of the world).</p> <p>There are far too many choices for me to list here. You can find all of them on the<a href="http://us.ishares.com/product_info/fund/index/EQ.htm" rel="nofollow"> iShares website</a> among their equity ETF offerings. Here is a sampling of some likely to be of most interest.</p> <ul>     <li><b>iShares MSCI ACWI Index Fund (<a href='http://seekingalpha.com/symbol/acwi' title='iShares MSCI ACWI &#40;All Country World Index&#41; Index ETF'>ACWI</a>):</b>  global (including U.S.)</li>     <li><b>iShares MSCI ACWI ex US Index Fund (<a href='http://seekingalpha.com/symbol/acwx' title='iShares MSCI ACWI ex-U.S. Index ETF'>ACWX</a>):</b>  global (ex U.S.)</li>     <li><b>iShares MSCI EAFE Index Fund (<a href='http://seekingalpha.com/symbol/efa' title='iShares MSCI EAFE Index ETF'>EFA</a>):</b>  general Europe, Australia, and Far East</li>     <li><b>iShares MSCI Emerging Markets Fund (<a href='http://seekingalpha.com/symbol/eem' title='iShares MSCI Emerging Markets Index ETF'>EEM</a>):</b>  general Europe, Australia, and Far East</li>     <li><b>iShares MSCI BRIC Fund (<a href='http://seekingalpha.com/symbol/bkf' title='iShares MSCI BRIC Index ETF'>BKF</a>):</b>  Brazil, Russia, India and China</li> </ul> <h3>Nouvelle Indexes</h3> <p>Nowadays, there are plenty of fancy new indexes featuring a dizzying array of styles. Many of these make for investment ideas, but I doubt any of them would be useful for benchmarking. In fact, I suspect the index providers pretty much understand and accept this. The ETF is a very interesting investment vehicle, as I&rsquo;m sure Seeking alpha readers well understand. But their formalities are such that they track indexes. So if you have an interesting idea (such as a fund that buys S&amp;P 500 stocks and boosts income by writing call options) you can&rsquo;t just create such a fund. First you create an index, and call it, perhaps, the &ldquo;Something-Or-Other Buy-Write Index.&rdquo; Then you can create (and market) an ETF to track it.</p> <p>In other words, the fancier the index, the more likely it is that it was created specifically to serve as the basis for an ETF, and with no regard at all for benchmarking. There&rsquo;s nothing at all wrong with that. In fact, as you&rsquo;ve seen often on Seeking Alpha, there are many interesting ETF products out there. Just make sure you recognize these indexers for what they really are, products as opposed to benchmarks. (PowerShares, ProShares and Direxion loom large here.)</p> <p>I just want to make special mention of a particular class of product-oriented indexes because the public relations around them can, at times, confuse investors (especially since the index proponents pour out lots of research and involve big names such as Jeremy Siegel and Robert Arnott): Fundamental Indexing.</p> <p>Stripped of all the rhetoric, advocates of these indexes are saying &quot;bigger is better&quot; (in that they give more weight to large companies), but instead of defining &quot;big&quot; in terms of market cap, which is influenced, and at times badly distorted, by stock price movements having nothing to do with the company itself, they define &quot;big&quot; in terms of company fundamentals.</p> <p>Wisdom Tree got famous by defining big in terms of dividends paid out. (NOTE: Yield is NOT relevant. It's the total dollars paid that they look at. A big company that pays out a lot of dollars could have a large weighting in an index even if the total payment was spread over a large number of shares leaving a miniscule per-share dividend and a yield of, say, 0.01%.) So don't go to Wisdom Tree looking for income; go to Wisdom Tree if you want big companies based on their definition of big. (Over the years, they've broadened their product line, but if you want income, you still need to go beyond the name of the fund and read the prospectus in order to see if it stresses yield, rather than dividends paid. It's easy to slip up if you're not careful.)</p> <p>Robert Arnott went in a different direction with &quot;fundamental weighting&quot; that I think may be more interesting. Rather than using dividends paid to define big, he uses a combination of fundamental factors, including revenue. Just bear in mind that selection of an ETF based on an Arnott index (often branded as RAFI), or any other fundamental approach, is not at all passive. It is very much an active decision to (i) go large, and (ii) go large using a definition that refers to fundamentals instead of market cap.</p> <h3>I&rsquo;m Still Stuck!</h3> <p>There&rsquo;s a lot to choose from here. Don&rsquo;t worry about it. Investment-community culture need not be ignored. If you need to start somewhere, go traditional: use the S&amp;P 500. As you compare your results to that of this index and more importantly, ask yourself why you varied as you did (whether for better or worse), you&rsquo;ll find yourself better able to articulate what, exactly, you&rsquo;re trying to do at which time you&rsquo;ll be better able to choose one or more suitable benchmarks.</p> <p>But don&rsquo;t get carried away. If you find yourself needing more than three benchmarks (one for U.S. equity, one for global equity and one for income), you may want to take a look at your portfolio to see if you&rsquo;re too scattered, a jack of all trades and master of none. I say this even if you can convincingly argue that your portfolio really is multifaceted consisting of, say, six or seven different strategic components. Ultimately, you care about how much money it all adds up to and if the total produced by a strategic smorgasbord can&rsquo;t match that which you could get from a single benchmark ETF, it really would behoove you to think long and hard about what you&rsquo;re doing. (This, actually, is exactly what benchmarking is supposed to induce you to do.)</p> <p>Realistically, nobody is good at everything. If you are spread all over the place, consider separately evaluating each strategic component of your portfolio and determine, based on benchmark comparison, which ones you&rsquo;re not handling all that well. Eliminate those strategies and reallocate funds to areas at which you&rsquo;re more proficient. (By the way, this doesn&rsquo;t mean you have to jump ship if you had a bad month or specialize where you had a good month; evaluate in a common-sense manner over a reasonable time frame, just as you would anything else.)</p> <p>Don&rsquo;t get caught up in visions of being a &ldquo;Renaissance Man,&rdquo; unless you&rsquo;d be willing to undergo a cardiac bypass by a surgeon who divided his or her practice equally between cardiology, neurology, orthopedics, oncology, pediatrics and internal medicine. But if you&rsquo;re really gung-ho about your willingness to do that, and assuming you&rsquo;re in good cardiac health and not about to actually go on the table (in which case all this would likely and sadly become moot), use AGG for your income investments and ACWI for everything else.</p> <p><strong>Disclosure: </strong>I have no positions in any stocks mentioned, and no plans to initiate any positions within the next 72 hours.</p>
+          <script type="text/javascript">SeekingAlpha.Initializer.LogAndRun(load_article_toolbar);</script>
+          
+        </div>
+
+        <div id="content_follow_up">
+          <div id="follow_wrap">
+            
+              <div class="tagged_with">
+                <span class="tagged_with_label">This article is tagged with: </span> <a href='/dashboard/etfs' sasource='article_navigation'>ETFs &amp; Portfolio Strategy</a>, <a href='/articles?filters=portfolio-strategy-asset-allocation' sasource='article_navigation'>Portfolio Strategy &amp; Asset Allocation</a>, <a href='/articles?filters=editors-picks' sasource='article_navigation'>Editors' Picks</a>
+              </div>
+              <script type="text/javascript">
+                news_beat_sections += ",ETFs & Portfolio Strategy,Portfolio Strategy & Asset Allocation,Editors' Picks"
+              </script>
+            
+
+            
+              <div class="more_by_auth">
+                <a class="more_by_auth_img" href="/author/marc-gerstein"><img align="center" width="20" height="20" src="http://static.seekingalpha.com/images/users_profile/000/192/600/big_pic.png?1283173836" alt="Marc Gerstein picture"/></a>
+                More articles by <a class="more_by_auth_name" href="/author/marc-gerstein/articles" sasource="more_au_link">Marc Gerstein &raquo;</a>
+                <div id="content_bottom_more_by_articles">
+                  <ul>
+                    
+                      <li>
+                        <a href="/article/288638-hedging-with-leveraged-etfs-a-real-life-case-study" sasource="more_au_1" >Hedging With Leveraged ETFs: A Real-Life Case Study</a>
+                        <span style="white-space:nowrap">Fri, Aug 19</span>
+                      </li>
+                    
+                      <li>
+                        <a href="/article/286425-do-sophisticated-hedged-etfs-deliver" sasource="more_au_2" >Do 'Sophisticated' Hedged ETFs Deliver?</a>
+                        <span style="white-space:nowrap">Wed, Aug 10</span>
+                      </li>
+                    
+                      <li>
+                        <a href="/article/285191-hedging-the-triple-play-income-strategy" sasource="more_au_3" >Hedging the Triple Play Income Strategy</a>
+                        <span style="white-space:nowrap">Fri, Aug  5</span>
+                      </li>
+                    
+                  </ul>
+                </div>
+              </div>
+            
+
+            <script src="http://static.seekingalpha.com/javascripts/aScroll.js?1310882700" type="text/javascript"></script>
+<div id="scroller_info" style="display:none">
+  
+
+  
+    <div>
+      <div class="also_like_user_cnt also_like_1">
+        
+        <a sasource="aal_1_sc246" href="/article/291294-debunking-dividend-agnostic-assumptions-here-s-what-really-makes-income-investors-tick" class="also_like_commenter also_like_link_img_1">
+          <img alt="" class="also_like_img_1" src="http://static.seekingalpha.com/images/users_profile/000/206/391/big_pic.png?1272219342"/>
+        </a>
+        <a sasource="aal_1_sc246" href="/article/291294-debunking-dividend-agnostic-assumptions-here-s-what-really-makes-income-investors-tick" class="also_like_user_desc also_like_link_1" title="Debunking Dividend Agnostic Assumptions: Here's What Really Makes Income Investors Tick">
+          Debunking Dividend Agnostic Assumptions: Here's What Really Makes...
+        </a>
+        <p class="also_like_user_date also_like_date_1">Fri, Sep  2</p>
+        <p class="also_like_user_by also_like_author_name_1">by <a href="/author/five-plus-investor" sasource="aal_1_sc246">Five Plus Investor</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_2">
+        
+        <a sasource="aal_2_ti" href="/article/289953-bernanke-s-big-moment-and-your-allocation-to-commodity-etfs" class="also_like_commenter also_like_link_img_2">
+          <img alt="" class="also_like_img_2" src="http://static1.seekingalpha.com/images/users_profile/000/313/761/big_pic.png?1241045497"/>
+        </a>
+        <a sasource="aal_2_ti" href="/article/289953-bernanke-s-big-moment-and-your-allocation-to-commodity-etfs" class="also_like_user_desc also_like_link_2" title="Bernanke's Big Moment And Your Allocation To Commodity ETFs">
+          Bernanke's Big Moment And Your Allocation To Commodity ETFs
+        </a>
+        <p class="also_like_user_date also_like_date_2">Thu, Aug 25</p>
+        <p class="also_like_user_by also_like_author_name_2">by <a href="/author/gary-gordon" sasource="aal_2_ti">Gary Gordon</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_3">
+        
+        <a sasource="aal_3_sc76" href="/article/291780-logical-case-for-49-drop-in-stocks" class="also_like_commenter also_like_link_img_3">
+          <img alt="" class="also_like_img_3" src="http://static2.seekingalpha.com/images/users_profile/000/029/899/big_pic.png?1290432386"/>
+        </a>
+        <a sasource="aal_3_sc76" href="/article/291780-logical-case-for-49-drop-in-stocks" class="also_like_user_desc also_like_link_3" title="Logical Case For 49% Drop In Stocks">
+          Logical Case For 49% Drop In Stocks
+        </a>
+        <p class="also_like_user_date also_like_date_3">Today</p>
+        <p class="also_like_user_by also_like_author_name_3">by <a href="/author/chris-ciovacco" sasource="aal_3_sc76">Chris Ciovacco</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_4">
+        
+        <a sasource="aal_4_sc54" href="/article/291527-want-a-realistic-retirement-number-before-anything-else-consider-your-expenses" class="also_like_commenter also_like_link_img_4">
+          <img alt="" class="also_like_img_4" src="http://static.seekingalpha.com/images/users_profile/000/000/019/big_pic.png?1283479410"/>
+        </a>
+        <a sasource="aal_4_sc54" href="/article/291527-want-a-realistic-retirement-number-before-anything-else-consider-your-expenses" class="also_like_user_desc also_like_link_4" title="Want A Realistic Retirement Number? Before Anything Else, Consider Your Expenses">
+          Want A Realistic Retirement Number? Before Anything Else, Consider...
+        </a>
+        <p class="also_like_user_date also_like_date_4">Sun, Sep  4</p>
+        <p class="also_like_user_by also_like_author_name_4">by <a href="/author/roger-nusbaum" sasource="aal_4_sc54">Roger Nusbaum</a></p>
+      </div>
+    
+    
+      </div>
+      
+    
+  
+    <div>
+      <div class="also_like_user_cnt also_like_5">
+        
+        <a sasource="aal_5_ti" href="/article/286604-toast-the-bear-market-with-these-10-etfs" class="also_like_commenter also_like_link_img_5">
+          <img alt="" class="also_like_img_5" src="http://static1.seekingalpha.com/images/users_profile/000/169/406/big_pic.png?1264544119"/>
+        </a>
+        <a sasource="aal_5_ti" href="/article/286604-toast-the-bear-market-with-these-10-etfs" class="also_like_user_desc also_like_link_5" title="Toast the Bear Market With These 10 ETFs ">
+          Toast the Bear Market With These 10 ETFs 
+        </a>
+        <p class="also_like_user_date also_like_date_5">Thu, Aug 11</p>
+        <p class="also_like_user_by also_like_author_name_5">by <a href="/author/dutch-trader" sasource="aal_5_ti">Dutch Trader</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_6">
+        
+        <a sasource="aal_6_ti" href="/article/281530-top-5-graphs-of-the-week-emerging-vs-developed-market-outlook" class="also_like_commenter also_like_link_img_6">
+          <img alt="" class="also_like_img_6" src="http://static2.seekingalpha.com/images/users_profile/000/475/379/big_pic.png?1250989886"/>
+        </a>
+        <a sasource="aal_6_ti" href="/article/281530-top-5-graphs-of-the-week-emerging-vs-developed-market-outlook" class="also_like_user_desc also_like_link_6" title="Top 5 Graphs of the Week: Emerging vs. Developed Market Outlook">
+          Top 5 Graphs of the Week: Emerging vs. Developed Market Outlook
+        </a>
+        <p class="also_like_user_date also_like_date_6">Mon, Jul 25</p>
+        <p class="also_like_user_by also_like_author_name_6">by <a href="/author/econ-grapher" sasource="aal_6_ti">Econ Grapher</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_7">
+        
+        <a sasource="aal_7_ti" href="/article/280708-the-shape-of-market-bubbles-with-a-footnote-on-gold" class="also_like_commenter also_like_link_img_7">
+          <img alt="" class="also_like_img_7" src="http://static.seekingalpha.com/images/users_profile/000/144/689/big_pic.png?1307736597"/>
+        </a>
+        <a sasource="aal_7_ti" href="/article/280708-the-shape-of-market-bubbles-with-a-footnote-on-gold" class="also_like_user_desc also_like_link_7" title="The Shape of Market Bubbles (With a Footnote on Gold)">
+          The Shape of Market Bubbles (With a Footnote on Gold)
+        </a>
+        <p class="also_like_user_date also_like_date_7">Thu, Jul 21</p>
+        <p class="also_like_user_by also_like_author_name_7">by <a href="/author/doug-short" sasource="aal_7_ti">Doug Short</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_8">
+        
+        <a sasource="aal_8_ti" href="/article/278111-inside-or-outside-what-belongs-in-a-tax-deferred-retirement-account-what-doesn-t" class="also_like_commenter also_like_link_img_8">
+          <img alt="" class="also_like_img_8" src="http://static.seekingalpha.com/images/users_profile/000/830/797/big_pic.png?1295641992"/>
+        </a>
+        <a sasource="aal_8_ti" href="/article/278111-inside-or-outside-what-belongs-in-a-tax-deferred-retirement-account-what-doesn-t" class="also_like_user_desc also_like_link_8" title="Inside or Outside: What Belongs in a Tax Deferred Retirement Account, What Doesn't?">
+          Inside or Outside: What Belongs in a Tax Deferred Retirement...
+        </a>
+        <p class="also_like_user_date also_like_date_8">Wed, Jul  6</p>
+        <p class="also_like_user_by also_like_author_name_8">by <a href="/author/kevin-feldman" sasource="aal_8_ti">Kevin Feldman</a></p>
+      </div>
+    
+    
+      </div>
+      
+    
+  
+    <div>
+      <div class="also_like_user_cnt also_like_9">
+        
+        <a sasource="aal_9_sc186" href="/article/291349-slow-growth-s-silver-lining-corporate-profit-margins" class="also_like_commenter also_like_link_img_9">
+          <img alt="" class="also_like_img_9" src="http://static.seekingalpha.com/images/users_profile/000/835/130/big_pic.png?1296151014"/>
+        </a>
+        <a sasource="aal_9_sc186" href="/article/291349-slow-growth-s-silver-lining-corporate-profit-margins" class="also_like_user_desc also_like_link_9" title="Slow Growth's Silver Lining: Corporate Profit Margins">
+          Slow Growth's Silver Lining: Corporate Profit Margins
+        </a>
+        <p class="also_like_user_date also_like_date_9">Fri, Sep  2</p>
+        <p class="also_like_user_by also_like_author_name_9">by <a href="/author/russ-koesterich" sasource="aal_9_sc186">Russ Koesterich</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_10">
+        
+        <a sasource="aal_10_sc51" href="/article/291132-major-asset-classes-performance-update-september-2011" class="also_like_commenter also_like_link_img_10">
+          <img alt="" class="also_like_img_10" src="http://static2.seekingalpha.com/images/users_profile/000/463/741/big_pic.png?1248984359"/>
+        </a>
+        <a sasource="aal_10_sc51" href="/article/291132-major-asset-classes-performance-update-september-2011" class="also_like_user_desc also_like_link_10" title="Major Asset Classes Performance Update: September 2011">
+          Major Asset Classes Performance Update: September 2011
+        </a>
+        <p class="also_like_user_date also_like_date_10">Thu, Sep  1</p>
+        <p class="also_like_user_by also_like_author_name_10">by <a href="/author/james-picerno" sasource="aal_10_sc51">James Picerno</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_11">
+        
+        <a sasource="aal_11_sc54" href="/article/290876-buying-dividend-stocks-for-income-arguments-don-t-make-sense" class="also_like_commenter also_like_link_img_11">
+          <img alt="" class="also_like_img_11" src="http://static2.seekingalpha.com/images/users_profile/000/467/619/big_pic.png?1250185976"/>
+        </a>
+        <a sasource="aal_11_sc54" href="/article/290876-buying-dividend-stocks-for-income-arguments-don-t-make-sense" class="also_like_user_desc also_like_link_11" title="'Buying Dividend Stocks For Income' Arguments Don't Make Sense">
+          'Buying Dividend Stocks For Income' Arguments Don't Make Sense
+        </a>
+        <p class="also_like_user_date also_like_date_11">Wed, Aug 31</p>
+        <p class="also_like_user_by also_like_author_name_11">by <a href="/author/lawrence-weinman" sasource="aal_11_sc54">Lawrence Weinman</a></p>
+      </div>
+    
+    
+  
+    
+      <div class="also_like_user_cnt also_like_12">
+        
+        <a sasource="aal_12_la" href="/article/291749-positioning-your-portfolio-for-a-bear-market" class="also_like_commenter also_like_link_img_12">
+          <img alt="" class="also_like_img_12" src="http://static1.seekingalpha.com/images/users_profile/000/544/737/big_pic.png?1302113770"/>
+        </a>
+        <a sasource="aal_12_la" href="/article/291749-positioning-your-portfolio-for-a-bear-market" class="also_like_user_desc also_like_link_12" title="Positioning Your Portfolio For A Bear Market">
+          Positioning Your Portfolio For A Bear Market
+        </a>
+        <p class="also_like_user_date also_like_date_12">Today</p>
+        <p class="also_like_user_by also_like_author_name_12">by <a href="/author/thomas-lott" sasource="aal_12_la">Thomas Lott</a></p>
+      </div>
+    
+    
+      </div>
+      
+    
+  
+</div>     
+<div class="also_like_cnt" id="also_like_cnt">
+  <h1>You may also like</h1>
+  <div class="also_like_gallery_outer_cnt">
+    <div id="alsoLike_arr_left" class="alsoLike_arr_left" onclick='slide_also_like.slideMove("left"); selected_page();updateSources();'></div>
+    <div id="alsoLike_arr_right" class="alsoLike_arr_right" onclick='slide_also_like.slideMove("right"); selected_page();updateSources();'></div>
+    <div class="also_like_gallery_cnt">
+      <div id="also_like_slide" style="height:205px;" class="also_like_gallery_innner_cnt">
+        <div isfull="true"></div>
+        <div isfull="false"></div>
+      </div>
+    </div>
+    <div id="also_like_slide_pagination" class="also_like_slide_pagination">
+      <span style="cursor:pointer;" onclick="slide_also_like.setContentByIndex(0); selected_page();" class="selected"></span>
+      <span style="cursor:pointer;" onclick="slide_also_like.setContentByIndex(1); selected_page();"></span>
+      <span style="cursor:pointer;" onclick="slide_also_like.setContentByIndex(2); selected_page();"></span>
+    </div>
+  </div>
+</div>
+<script>
+
+  
+    var replace_indices = [1,2,5,6,7,8]
+    var ticker_re = /(?:[?|&](?:s|symbol)=(acwx|agg)|(?:stock|ticker|quotes?|fund|index)\/(acwx|agg))/i;
+    var res = ticker_re.exec(document.referrer);
+    var ticker = res ? (res[1] || res[2]) : null;
+    var also_like_by_ticker = {"agg":[["/article/291625-for-all-the-drama-markets-are-just-trading-in-a-range","ti","http://static.seekingalpha.com/images/users_profile/000/220/228/big_pic.png?1278508503","For All The Drama, Markets Are Just Trading In A Range","Mon, Sep  5","by The Simple Accountant"],["/article/291606-trading-strategy-for-a-turbulent-september","ti","http://static2.seekingalpha.com/images/users_profile/000/891/691/big_pic.png?1302036071","Trading Strategy For A Turbulent September","Mon, Sep  5","by Bubble Bust Investing.com"],["/article/291577-multi-asset-investment-strategy-in-september-2011-reducing-equity-exposures","ti","http://static2.seekingalpha.com/images/users_profile/000/776/153/big_pic.png?1291399262","Multi-Asset Investment Strategy In September 2011: Reducing Equity...","Sun, Sep  4","by Henry Ma"],["/article/291410-pmi-suggests-that-global-growth-is-slowly-morphing-into-contraction","ti","http://static1.seekingalpha.com/images/users_profile/000/744/934/big_pic.png?1314288706","PMI Suggests That Global Growth Is Slowly Morphing Into Contraction","Fri, Sep  2","by The Mays Report"],["/article/291407-whether-the-stimulus-hired-the-unemployed-or-shifted-jobs-around-the-employed","ti","http://static2.seekingalpha.com/images/users_profile/000/387/171/big_pic.png?1238624999","Whether The Stimulus Hired The Unemployed Or Shifted Jobs Around...","Fri, Sep  2","by Rortybomb"]],"acwx":[["/article/291132-major-asset-classes-performance-update-september-2011","ti","http://static2.seekingalpha.com/images/users_profile/000/463/741/big_pic.png?1248984359","Major Asset Classes Performance Update: September 2011","Thu, Sep  1","by James Picerno"],["/article/288715-equity-charts-show-political-efficacy-is-an-imperative","ti","http://static1.seekingalpha.com/images/users_profile/000/693/913/big_pic.png?1282339675","Equity Charts Show Political Efficacy Is an Imperative","Sun, Aug 21","by Andrew Sachais"],["/article/285765-is-the-case-for-international-etfs-stronger-after-the-u-s-debt-downgrade","ti","http://static.seekingalpha.com/images/users_profile/000/072/207/big_pic.png?1264330737","Is the Case for International ETFs Stronger After the U.S. Debt...","Mon, Aug  8","by Tom Lydon"],["/article/281530-top-5-graphs-of-the-week-emerging-vs-developed-market-outlook","ti","http://static2.seekingalpha.com/images/users_profile/000/475/379/big_pic.png?1250989886","Top 5 Graphs of the Week: Emerging vs. Developed Market Outlook","Mon, Jul 25","by Econ Grapher"],["/article/273559-u-s-market-looks-overbought-by-global-comparison","ti","http://static.seekingalpha.com/images/users_profile/000/773/773/big_pic.png?1289465358","U.S. Market Looks Overbought by Global Comparison ","Tue, Jun  7","by Keith Summers"]]};
+    var new_articles;
+    if (ticker && (new_articles = also_like_by_ticker[ticker.toLowerCase()])) {
+      var i = 0;
+      new_articles.each(function(attr){replace_also_like(attr, replace_indices[i++])})
+    } 
+  
+    function replace_also_like(attr, idx) {//attr: url, source, img, title, date, author_name
+      $$('.also_like_link_img_' + idx).each(function(el){el.setAttribute('href', attr[0]);});
+      $$('.also_like_link_img_' + idx).each(function(el){el.setAttribute('sasource', 'aal_' + idx + '_' + attr[1]); });
+      $$('.also_like_img_' + idx).each(function(el){el.setAttribute('src', attr[2]);});
+      $$('.also_like_link_' + idx).each(function(el){el.innerHTML = attr[3];});
+      $$('.also_like_link_' + idx).each(function(el){el.setAttribute('href', attr[0]);});
+      $$('.also_like_link_' + idx).each(function(el){el.setAttribute('sasource', 'aal_' + idx + '_' + attr[1])});
+      $$('.also_like_date_' + idx).each(function(el){el.innerHTML = attr[4];});
+      $$('.also_like_author_name_' + idx).each(function(el){el.innerHTML = attr[5];});
+    }
+  
+
+  var elArray = $("scroller_info");
+  elArray = elArray.childElements();
+  var slide_also_like = new aScroll('also_like_slide',432,elArray);
+  var current_page = 0;
+
+  function selected_page(){
+    var new_page = 0;
+    $('also_like_slide_pagination').select("span").each(function(value){
+    if (new_page == slide_also_like.currentIndex){
+      value.className = "selected";
+    }
+    else{
+      value.className = "";
+    }
+    new_page++;
+    })
+  }
+  
+  function updateSources(){ // part of AB testing for slider location
+    var source_extra = (typeof sasource_extras && typeof selectPosition != "undefined" && typeof already_open != "undefined" && already_open == true) ? "_" + selectPosition.toLowerCase() : "";
+    if (source_extra != ""){
+      sasource_extras('also_like_cnt', '_'+selectPosition.toLowerCase());    
+    }
+  }
+</script>
+          
+            <div class="share_this_page_article_bottom">
+               <ul id="page_toolbar">
+  
+  
+	<li class="share_this_page_article_toolbar">
+		<div class="recommend_link" onclick="pop_recommendation('/article/291760-benchmarking-are-you-good-or-just-lucky', true, 291760, 1, 'default')">
+	Recommend
+</div>
+<div class="recommend_num" onclick="pop_recommendation('/article/291760-benchmarking-are-you-good-or-just-lucky', true, 291760, 1, 'default')">
+	<span class="recommends_box text">0</span>
+	<span class="right_close"></span>
+</div>
+		
+
+<div class="share_this_page_snippet">
+  <h6>Share this page</h6>
+  <div class="widgets">
+    
+    <!-- facebook -->
+    <span class="facebook_small"><a class="fb_link_button_count" name="fb_share" type="button_count" href="http://www.facebook.com/sharer.php" onclick="open_facebook()"><span class="share_text_fb">Share</span></a></span>
+    <script>SeekingAlpha.Initializer.AddAfterLoad(init_facebook);</script>
+    
+      <span id="linkedin_2" class="linkedin_small"><script type="IN/Share" data-counter="right"></script></span>
+      
+    
+    <!-- twitter -->
+    <span class="twitter_small">
+    <script type="text/javascript">tweetmeme_style = 'compact';</script>
+    <script>
+      twittememeFrame(window.tweetmeme_style== "compact" ? "85x20": "50x61");
+    </script>
+    </span>
+  </div>
+  
+</div>
+	</li>
+</ul>
+            </div>
+            <div class="cleaner"></div>
+            <ul class="bottom_print_email_links">
+<li class="email">
+  <span class="text" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'" onclick="email_story_to_friends('Article',291760,'http://seekingalpha.com/article/291760-benchmarking-are-you-good-or-just-lucky')">Email</span>
+</li>
+<li onclick="print_article('with_comments')" class="print">
+  <div class="text" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">Print</div>
+</li>
+
+</ul>
+
+            
+            
+          </div>
+          <div class="comments_with_more">
+            <script>
+  top_commenters_array = [480016,353732,181517,265539,269895,228383,192595,232119,227454,411333,283977,428250,423259,591536,314511,223670,372226,56572,317799,399221,84036,393700,157675,341510,351063,595199,366570,407380,492600,98115,343824,386082,524234,605212,259051,270150,269624,420242,162115,432123,531750,182679,357305,198185,226535,195387,469451,142982,525333,53773,232981,336334,314687,290630,267315,329713,252337,352148,226469,68061,360479,337397,166473,419071,206391,104018,473496,329934,364357,718023,213514,577924,236295,764315,239719,333610,436500,361466,27285,491006,387543,206839,368181,591388,379514,812815,315437,269553,365501,204402,526829,261569,362139,240305,190116,414231,312209,173432,274708,380678];
+</script>
+<div id='comments'><a name="comments_header"></a>
+
+
+  
+  <div class="comments_top_area">
+    <div class="comments_top_area_half">
+      <div class="comments_top_area_add"><strong>Comments</strong> (<span id="comments_count_container">1</span>)</div>
+      
+      <div class="cleaner"></div>
+    </div>
+    <div>
+        <a onclick="open_immediate_comment_box();" class="add_a_comment_link">Add a comment</a>
+      <div class="comments_top_track">
+        
+          <div id="tracking_container"></div>
+          <script>
+          var params = {'post_id': 291760, 'total_comments': '1', 'author_user_id': '192600'}
+            new Ajax.Request('/articles/enqueue_tracking', {
+              parameters: params,
+              onSuccess: function(response) {
+                $('tracking_container').innerHTML = response.responseText;
+              },
+              onFailure: function() {
+              }
+            });
+          </script>
+        
+      </div>
+      
+      <div class="cleaner"></div>
+    </div>
+  </div>
+
+
+
+<div id="notice_wrapper_comments_list" class="notice_message"><span id="notice_comments_list"></span></div><script type='text/javascript'>SeekingAlpha.Initializer.LogAndRun(function () { notice_to_element("comments_list","update"); })</script>
+<ul id="talkback_list">
+  
+    <div id="have_to_login_rating"><a href="/account/login" sasource="rate-comments" target="_blank" onclick="urchinTracker('event/comment/article/rating_login_or_registration');">Register or Login to rate comments &raquo;</a></div>
+    
+    <div id="comment_container">
+      
+        <script>
+          ratings_hash = {  };
+        </script>
+        
+  <li class="base_level" id="comment_base_1887164">
+    <div class="com_info no_top">
+      
+        <a class="com_img" href="/user/432982/profile"><img src="http://static.seekingalpha.com/images/user/commenter_gray.png" class="commenter_picture"/></a>
+      
+      <div class="com_details">
+        
+        <div id="user_comments_counter_432982_941009">
+          
+            <a class="commenter_name" onmouseover="loadAjaxPopup(432982,1887164)" onmouseout="CloseAjaxPopup(1887164)" href="/user/432982/comments" fullname="poortorich">poortorich</a>
+          
+          
+            <a class="comments_num" href="/user/432982/comments">Comments (1194)</a>
+            <span class="comment_open_popup_arrow" id="comment_open_popup_arrow_1887164" style="display:none"></span>
+          
+        </div>
+      </div>
+      
+
+      <a name="comment-1887164" id="comment-1887164">&nbsp;</a>
+      <div class="commenter_data_popup" id="commenter_data_popup_1887164" onmouseover="clearPopupTimeout()" onmouseout="CloseAjaxPopup(1887164)" style="display:none">
+        <div id="com_1887164" class="content_from_ajax_432982" refilled="false">
+        </div>
+      </div>
+    </div>
+    <div class="com_cont" id="reply_comment_form_1887164">
+      <div id="comment_notice_1887164" style="display:none;"></div>
+      <span class="cont_com" id="content_of_comment_1887164">
+        
+        <span id="text_content_of_comment_1887164">
+          
+          Marc<br/>Thanks for the article. Here are some thoughts that come to mind. Your first goal LONG term is to beat inflation.  What it boils down to is if you cant keep up with inflation, you are losing buying power.  If you can beat inflation by 2-5%/ year LONG term, you are doing ok.  The second goal is to beat a broad index ie vti, because LONG term, the broad market will beat inflation by a few percentage points.  If you can beat VTI or S and P by 2-5%/year LONG term,  you are doing ok.  If you can return 17-20%/ year compounded annually, you dont need a benchmark because you are doing well.        </span>
+      </span>
+    </div>
+    <input type="hidden" id="actions_data_1887164" value="1315320189| 6 Sep, 10:43 AM|/article/291760-benchmarking-are-you-good-or-just-lucky#comment-1887164|true|comment_1887164" />
+      </li>
+<script>
+  add_article_actions = 1;
+  top_commenters_array = [];
+  add_comment_actions();
+  write_report_abuse_all_in_one();
+  SeekingAlpha.Initializer.AddAfterLoad(link_edit_user_profile);
+  comment_create_edit_link();
+  new_comment_on_comments_page();
+</script>
+      
+      
+    </div>
+  
+</ul>
+<div id="continue_load_comments" class="continue_load_comments_button" style="display:none;" onclick="continue_loading_comments();">
+	<div class="l"></div>
+  <div class="c">Load All Comments</div>
+  <div class="r"></div>
+</div>
+<div id="comment_form_wrapper">
+  
+
+
+<div id="comment_form_Article_291760">
+  
+<script>
+  reply_to_comment('Article_291760',"")
+</script>
+
+</div>
+
+<script type="text/javascript">
+function getSpellCheckArray() { 
+  return [[document,"comment_form_txtar"]];
+}
+SeekingAlpha.Initializer.AddAfterLoad(function () { jspellInit(); });
+</script>
+
+  <div class='cleaner'></div></div>
+</div>
+
+<script>mark_new_comments_if_tracking_source();</script>
+
+          </div>
+          
+            <script>
+              var comment_ids = [];
+              new Ajax.Request('/memcached/comments_rating_by_discussion_id/264038', {
+                evalScripts:true,
+                method: 'get',
+                onSuccess: function(response) {
+                  response.responseText.evalScripts();
+                  comment_ids.each(function(id){writeRatingFromHash(id);});
+                },
+                onFailure: function() {
+                }
+              });
+          </script>
+          
+          <div class="cleaner"></div>
+          <span class="article_submit_an_article_big" onclick="if (!is_users_cookie_exists()) { open_header_log_in_popup_lightbox('write_post','submit an article') } else {top.location.href='/account/write_post'}"></span>
+        </div>      
+      </div>
+      
+      <div id="secondary_ads" class="no_big_gaps_secondary_ads" style="float:right;">
+        <div id="author_avatar">
+  
+    <div class="follow_sidebar">
+      <div id="author_info"> 
+  
+  
+    <script>
+      var author_info_popup_timeout;
+      function ShowAuthorInfo(){
+        if (author_info_popup_timeout) clearTimeout(author_info_popup_timeout);
+        $('article_author_info').style.display = "block";
+      }
+      function HideAuthorInfo(){
+        author_info_popup_timeout = setTimeout(function() {
+          $('article_author_info').style.display="none";},400);
+        }
+      function clearAuthorInfoPopupTimeout(){
+  	    if (author_info_popup_timeout) clearTimeout(author_info_popup_timeout);
+      }
+    </script>
+  
+  <div class="author_page_tools" id="author_image_header">
+    
+    
+      
+    
+    <div  style="position:relative;float:left">
+      <div id="goto_edit_picture" class="goto_edit_picture" ><span onclick="return goto_update_picture();" onmouseover="ShowAuthorInfo();" onmouseout="HideAuthorInfo();"></span></div>
+      <a href="/author/marc-gerstein"  class='this_is_a_author_pic' sasource="about_lpic"><img class="this_is_a_author_pic_img" align="center" src="http://static.seekingalpha.com/images/users_profile/000/192/600/big_pic.png?1283173836" alt="Marc Gerstein picture" onmouseover="ShowAuthorInfo();" onmouseout="HideAuthorInfo();" /></a>
+      
+        <div id="article_author_info" style="display:none;" onmouseover="clearAuthorInfoPopupTimeout();" onmouseout="HideAuthorInfo();">
+          <div>
+            <div class="followup_contributor_info">
+  <div class="followup_contributor_info_title">
+    <span>About the author: </span>
+    <a href="/author/marc-gerstein" sasource="about_name">Marc Gerstein</a>
+  </div>
+
+  <div class="followup_contributor_info_on_author">
+    <div class="followup_contributor_info_pic_cont">
+      <div class="pic_cont">
+        <div class="pic_contributor">
+          <div class="the_pic">
+              <a href="/author/marc-gerstein" sasource="about_pic"><img align="center" width="54" height="54" src="http://static.seekingalpha.com/images/users_profile/000/192/600/big_pic.png?1283173836" alt="Marc Gerstein picture"/></a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="followup_contributor_info_text">
+      Marc H. Gerstein (http://twitter.com/#MHGerstein or if already on Twitter, search for @MHGerstein) is an independent investment analyst/consultant specializing in rules-based equity and ETF investing strategies, with particular emphasis on small-cap equities and leveraged ETFs. Many of is views... <a href='/author/marc-gerstein' sasource='about_more'>More</a>
+    </div>
+    <div class="cleaner"></div>
+	</div>
+  <div class="followup_contributor_info_bottom_cnt">
+    
+    <div class="left_cnt">
+      <ul class="followup_contributor_info_content_categories"><li>Company: <a rel='nofollow' target='_blank' href='http://www.stockscreen123.com'>StockScreen123, Portfolio123 and Ariston Advisors</a></li> <li>Blog: <a rel='nofollow' target='_blank' href='http://newsletters.forbes.com/lowpriced'>Forbes Low-Priced Stock Report</a></li> <li>Book: <a rel='nofollow' target='_blank' href='http://www.amazon.com/Screening-Market-Four-Step-Method-Analyze/dp/0471215597/ref=sr_1_1?ie=UTF8&s=books&qid=1283173905&sr=8-1'>Screening The Market</a></li></ul>
+    </div>
+  </div>
+
+  <div class="cleaner"></div>
+</div>
+<div class="followup_contributor_info_on_author_bottom"></div>
+          </div>
+        </div>
+      
+    </div>
+    <a href="/author/marc-gerstein" class="author_info_name" sasource="about_lname">Marc Gerstein</a>
+    <div class="cleaner"></div>
+    
+    <div class="author_info_nav_border">
+      <div class="author_info_nav">
+        <ul class="the_author_info_nav">
+          <li ><a href='/author/marc-gerstein/articles'>Articles <span>(181)</span></a></li>
+          
+            <li>
+                   <a href='/author/marc-gerstein/instablog'>Instablog
+                     <span>(4)</span>
+                   </a>
+                 </li>
+            
+            
+            <li >
+                   <a href='/author/marc-gerstein/comments'>Comments <span>(475)</span></a>
+                 </li>
+            
+              <script>if (/stats viewer/.test(readCookie("user_perm"))) document.write("<li><a href='/account/authorboard/earnings?for_user_id=192600'>Earnings</a></li>");</script>
+            
+          
+          <li ><a href='/author/marc-gerstein'>Profile</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="cleaner"></div>
+    <div class="user_followers_following">
+      
+      <div class="user_followers">
+        <a href="/author/marc-gerstein/followers">
+          <span id="followers" class="number followers_number_192600 followers_number_marc-gerstein">1,521</span>
+          <span class="text">Followers</span>
+        </a>
+      </div>
+      <div class="user_followers">
+        <a href="/author/marc-gerstein/following">
+          <span id="followings" class="number">13</span>
+          <span class="text">Following</span>
+        </a>
+      </div>
+    </div>
+
+    <div id="follow_this_user" class="follow_this_user"></div>
+    <script>Follow.author_sidebar__follow_button_initiator('marc-gerstein')</script>
+    <span class='author_info_send_message' onclick='Messaging.sendMessage("2gh92jyr", "Article Author ID Card Upper")'>Send Message</span>
+    <div class="cleaner"></div>
+  </div>
+  <div class="follow_popup_wrapper">
+    
+      <div class="green_pop_wrapper" id="stop_follow" style="display:none"><div class="green_pop_top_arrow"></div><div class="green_pop"><span class="close_pop" onclick="$('stop_follow').style.display='none'"></span><p>You are currently following Marc Gerstein</p><span class="stop_following" onclick="Follow.ajax_stop_follow_this_author(this, 'marc-gerstein')">Stop Following</span></div></div><div class="green_pop_wrapper" id="no_longer_follow" style="display:none"><div class="green_pop_top_arrow"></div><div class="green_pop"><span class="close_pop" onclick="$('no_longer_follow').style.display='none'"></span><p>You are no longer following Marc Gerstein</p></div></div>
+    
+  </div>
+</div>
+
+  <script>SeekingAlpha.Initializer.AddAfterLoad(function (){Follow.setFfToElements($('followers'),$('followings'),4232)})</script>
+
+    </div>
+    <div class="cleaner"></div>
+    
+      <span>About this author:</span>
+      <ul>
+        
+         <li>Visit: <a target='_blank' href='http://portfolio123.com/'>Portfolio123.com</a></li>
+<li>Visit: <a target='_blank' href='http://www.aristonadvisors.com/'>Ariston Advisors</a></li>
+      </ul>
+   <span>By this author:</span>
+   <a target='_blank' href="http://www.amazon.com/Screening-Market-Marc-H-Gerstein/dp/0471215597/ref=sr_1_1?ie=UTF8&s=books&qid=1214238155&sr=8-1"><img class="book_by_author_image large" src="http://static.seekingalpha.com/uploads/2008/6/25/screening_the_market_gerstein.jpg"></a>
+  
+</div>
+
+        <a id="yahoo_finance_link" style="display: none" href="http://finance.yahoo.com"><img class="back_to_yahoo_finance" src="http://static.seekingalpha.com/images/back_to_yahoo_finance.png" alt="back to yahoo finance" /></a>
+
+<script>
+  source = getURLParam('source');
+  if (source == 'yahoo') {
+    $('yahoo_finance_link').style.display = 'block';
+  }
+</script>
+        
+          <div class="stickyad_wrapper">
+            <div class="item banner160x600" id="fixed_banner160x600">
+              <script type="text/javascript">
+                iframeAd("160x600",'http://a.collective-media.net/adj/sek.target/article;sz=160x600;x=x;tile=3;d=target;ms=1;t=article;a=marc-gerstein;t=editors-picks;t=portfolio-strategy-asset-allocation;t=sa-exclusive;aid=291760;d=etfs;s=iwb;s=iwm;s=iwv;s=iwr;s=iwc;s=iww;s=iwd;s=iws;s=iwn;s=iwz;s=iwf;s=iwp;s=iwo;s=dvy;s=vig;s=jnk;s=tlt;s=agg;s=acwi;s=acwx;s=efa;s=eem;s=bkf;s=spy;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"');
+              </script>
+            </div>
+          </div>
+        
+      </div>
+    </div>
+    <div id="ads_and_tools">
+  <div class="item banner300x600">
+    <script>document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://a.collective-media.net/adj/sek.target/article;sz=300x250,300x600;x=x;tile=2;d=target;ms=1;pos=t;t=article;a=marc-gerstein;t=editors-picks;t=portfolio-strategy-asset-allocation;t=sa-exclusive;aid=291760;d=etfs;s=iwb;s=iwm;s=iwv;s=iwr;s=iwc;s=iww;s=iwd;s=iws;s=iwn;s=iwz;s=iwf;s=iwp;s=iwo;s=dvy;s=vig;s=jnk;s=tlt;s=agg;s=acwi;s=acwx;s=efa;s=eem;s=bkf;s=spy;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"></scr'+'ipt>');</script>
+  </div>
+  <div id="alternative_title_container" class="mini_category data_currencies_table" style="display:none">
+  <div class="red_title_bk">
+    <span class="red_title_text" id="article_alternative_title"></span>			
+  </div>
+  <div id="symbol_alternative_tags" class="symbol_alternative_tags"></div>
+  <script type="text/javascript">GA_googleFillSlot_sa("Article_120x30");</script>
+  <div class="cleaner"></div>
+</div>
+
+<script type="text/javascript">
+  symbol = "iwb";
+  new Ajax.Request('/articles/get_ajax_alternatives_by_symbol?symbol='+symbol, {
+    asynchronous:true,
+    evalScripts:true,
+    method:'get',
+    onComplete: function(transport) {
+      if (transport.status == 200 && transport.responseText != 'failed') {
+        response = transport.responseText.split("@@");
+        symbolZiignight = new Ziignight('', 'SAlternative',"","symbolZiignight","symbol_alternative_tags");
+        symbolZiignight.WorkJSON = eval(response[1]);
+        symbolZiignight.addETF = false;
+        symbolZiignight.pageType = 'Article';
+        symbolZiignight.selectedSymbol = symbol;
+        symbolZiignight.SAlternativePrint(-1,true);
+        symbolZiignight.InsertEtfAlternativeSymbol(response[0]);
+        $('article_alternative_title').innerHTML = response[0].toUpperCase() + " vs. ETF Alternatives";
+        $("alternative_title_container").style.display = "";
+      }
+    }
+  });
+</script>
+
+  <div id="register_login_snippet"></div>
+  <div class='item banner300x600'><script type="text/javascript">GA_googleFillSlot_sa("ETFCenter_AllCatagories_New");</script></div>
+  <div id="side_customize" class="side_customize"></div>
+  <div id="portfolio_form_box"></div>
+
+  <div id="register_box"></div>
+  <div id="article_sidebar" class="article_sidebar">
+  <div id="article_sidebar_container"><img src="/images/loader_recommended_articles.gif" class="loader"/></div>
+  <script>
+    new Ajax.Request('/memcached/article_related_dashboards_sidebar', {
+      method:'get',
+      evalScripts:true,
+      onSuccess: function(response) {
+        var responsed = response.responseText;
+        $('article_sidebar_container').innerHTML = responsed;
+        responsed.evalScripts();
+      },
+      onFailure: function() {
+      }
+    });
+  </script>
+	<div class="cleaner"></div>
+</div>
+
+  <div id="articles_on_my_portfolio"></div>
+
+    <script type="text/javascript">
+      if (!is_users_cookie_exists()) {
+        Authentication.RegisterBox("article_sidebar_advert_box", "redirecting_location", {Register:"Follow.RegisterBox"},"register_box","_box");
+      }
+    </script>
+    <div class="cleaner"></div>
+    <div class="stickyad_wrapper">
+      <div class="item banner300x250" id="article_dart_sticky"></div>
+    </div>
+</div>
+<script>
+  var adInfo ={HadCreated:false, info:'http://a.collective-media.net/adj/sek.target/article;sz=300x250;x=x;tile=4;d=target;ms=1;pos=b;t=article;a=marc-gerstein;t=editors-picks;t=portfolio-strategy-asset-allocation;t=sa-exclusive;aid=291760;d=etfs;s=iwb;s=iwm;s=iwv;s=iwr;s=iwc;s=iww;s=iwd;s=iws;s=iwn;s=iwz;s=iwf;s=iwp;s=iwo;s=dvy;s=vig;s=jnk;s=tlt;s=agg;s=acwi;s=acwx;s=efa;s=eem;s=bkf;s=spy;'+dart_my_vocation_and_profiles()+'ord='+ord+'?"', size:'300x250'};
+</script>
+
+<script src="http://static.seekingalpha.com/javascripts/sa.js?1313932354" type="text/javascript"></script>
+<script src="http://static.seekingalpha.com/javascripts/watchlist_management.js?1310882701" type="text/javascript"></script>
+<script src="http://static.seekingalpha.com/javascripts/portfolio_form_popup_box.js?1313135920" type="text/javascript"></script>
+  </div>
+  <input id="short_url" type="hidden" value="http://seekingalpha.com/a/694g" />
+  <div id="stickyside" class="close" style="display:none;">
+    <div class="slide_shadow"></div>
+    <div class="btn_open" onclick="sli.userMovement();"></div>
+    <div class="btn_close" onclick="sli.pressedCloseButton();"></div>
+
+    <div id="stickyside_btn" style="display:none" class="btn_close">xx</div>
+    <div class="breaking_news_block content_slider_news_big" style="display:none;">
+  <div class="slider_title"><span class="breaking_title">Breaking News</span> <span style="display:none" class="updated_time_ago_rightCnt">Updated at <span class="breaking_news_time"></span></span></div>
+  <div class="breaking_news" id="breaking_news_wrap">
+    <a class="breaking_news_number" href="/currents/all" sasource="bn_slider"></a>&nbsp;broke in the last few minutes - get the latest updates in <a href="/currents/all" sasource="bn_slider">Market Currents</a>.
+  <span class="updated_time_ago">Updated at <span class="breaking_news_time"></span></span>
+  </div>
+</div>
+  </div>
+</div>
+  <style>#footer_break_2{display:none}</style>
+<div id='footer_break'><div></div></div>
+
+<div id="footer">
+  <div id="footernav">
+    <div class="footernav_left">
+      <a href="http://seekingalpha.com" class="footernav_logo"></a>
+      <div class="footernav_boards">
+        <div><span class="footer_title">TOP AUTHORS:</span>&nbsp;<a class="top_authors" href="/leader-board/opinion-leaders">The Opinion Leaders</a></div>
+        <div class='top_boards'>
+          <span class="footer_title">TOP USERS:</span>
+          <a href="/leader-board/top-commenters">Commenters</a> <span class="fl_dash">|</span>
+          <a href="/leader-board/top-stocktalkers">StockTalkers</a> <span class="fl_dash">|</span>
+          <a href="/leader-board/top-instabloggers">Instabloggers</a>
+        </div>    
+      </div>
+      <div class="cleaner"></div>
+    </div>
+    <div class="footernav_right">
+      <div class="footernav_links">
+        <a class="small_tweeter" target="_blank" href="http://twitter.com/seekingalpha">&nbsp;&nbsp;&nbsp; Twitter</a>
+        <a class="small_rss" href="/page/feeds" sasource="footer">&nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/page/contact" sasource="footer">Contact Us</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/page/about_us" sasource="footer">About Us</a>&nbsp;&nbsp;|&nbsp;
+        <a href="/premium-program/intro" sasource="footer">Premium Program</a>
+      </div>
+      
+      <div class="footernav_more_links">
+        <a href="/page/terms-of-use" sasource="footer">Terms of Use</a> |
+        <a href="/page/privacy" sasource="footer">Privacy</a> |
+        <a href="http://www.xignite.com" target="_blank">Xignite quote data</a> |
+        <span>Copyright &#169; 2011</span>
+      </div>
+      
+      <div class="cleaner"></div>
+    </div>
+   
+  </div>
+  <div id="footer_break_3"><div></div></div>
+  <div class="cleaner"></div>
+</div>
+
+
+
+  <script type="text/javascript">
+    
+      SeekingAlpha.Initializer.onDOMLoad(function() { SA.Data.RecentQuotes.Add('iwb');});
+      
+    Event.observe(window, 'scroll', run_article_end_mone);
+  
+    $('stickyside_btn').className = "btn_open";
+
+    var sli = new SideSlider('stickyside','right');    
+    var already_open = false;
+    function open_slide(){
+      if (end_of_the_article() && sli && sli.eStatus=="close" && sli.shouldOpen(Breaking_News.currentNumber)){
+        if (!already_open){
+          console.log('go!');
+          pageTracker._trackEvent('Article Tracking', 'MC Slider', 'Article');
+        }
+        already_open = true;
+        sli.show();
+        sli.autoMovement();
+      }else{
+        if (already_open && !end_of_the_article() && sli && sli.eStatus=="open"){
+          sli.autoMovement();
+        }
+      }
+    }
+    screen.width>700 ? Event.observe(window, 'scroll', open_slide) : "";
+    Breaking_News.getNumberOfNewCurrent();
+  </script>
+
+    <!-- ANALYTICS -->
+
+ <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+<script type="text/javascript">
+  try{
+    var pageTracker = _gat._getTracker("UA-1466493-1");
+    //pageTracker._setDomainName(".seekingalpha.com");
+
+    (function(){
+      //1 - foreign domain, 2 - whole path before '?', 3 - article's id, 4 - news-article id, 5 - instablog author id-slug, 6 - instablog id, 7 - title or anything else, 8 - ?..., 9 - #... (3,4,5+6 mutual exclusive)
+      var urlRegExp = '^(?:https?://(?:(?:.+\\.)?seekingalpha.com|([^/]+)))?/((?:article/(\\d+)-|news-article/(\\d+)-|instablog/([^/]+)/(\\d+)-)?([^#?]*))(\\?[^#]*)?(#.*)?$';
+      var m = document.referrer.match(urlRegExp), ref;
+      if (m){
+        if (m[1]) ref = m[1]+'/'+m[2];
+        else if (m[3] && /transcript$/.test(m[7])) ref = 'article-trc';
+        else if (m[3]) ref = 'article';
+        else if (m[4]) ref = 'news-article';
+        else if (m[5]) ref = 'instablog';
+        else if (m[7]=='') ref = 'hp';
+        else ref = m[7];
+
+        //GA doesn't unescape custom vars on their side, so replacing to something that's not escaped
+        pageTracker._setCustomVar(1, 'referrer', ref.replace(/\//g,'~').substr(0,54), 3);
+      }
+
+      
+    })();
+
+    pageTracker._setCustomVar(2, 'logged_in', (cookieExists('user_id') ? 'yes' : 'no'), 3);
+    pageTracker._trackPageview(window._pageviewURL);
+  } catch(err) {}
+  
+  urchinTracker = function(url) {
+    try {
+      pageTracker._trackPageview(url)
+    } catch (err) {}
+  };
+  
+  function trackLink(link, category, action, label) {
+    try {
+      pageTracker._trackEvent(category, action, label);
+    }catch(err){}
+  }  
+</script>
+
+
+<script type="text/javascript">
+if(typeof (authors) == "undefined" || typeof (symbols) == "undefined")
+	load_remote_script("/javascripts/sa.js");
+</script>
+
+<script src="http://static.seekingalpha.com/javascripts/jspellEvolution/jspellEvolution.js?1310882700" type="text/javascript"></script>
+<script src="http://static.seekingalpha.com/javascripts/jspellEvolution/jspellSettings.js?1310882700" type="text/javascript"></script>
+<script type="text/javascript">
+  SeekingAlpha.Initializer.LogAndRun(gigyaSA.init);
+  SeekingAlpha.Initializer.LogAndRun(LightBox.Init);
+  SeekingAlpha.Initializer.LogAndRun(second_page_login_popup);
+
+  SeekingAlpha.Initializer.Add(application_init);
+	//SeekingAlpha.Initializer.AddAfterLoad($.jStorage._init);
+  SeekingAlpha.Initializer.AddAfterLoad(user_profiles); 
+  SeekingAlpha.Initializer.AddAfterLoad(Mone.touch());
+  SeekingAlpha.Initializer.AddAfterLoad(function() {
+    var source = window._saSource;
+
+    if (source){
+      var m = document.referrer.match(/^https?:\/\/(?:(?:.*\.)?seekingalpha.com|([^\/]+))(\/article\/\d+-|\/[^?#]*)/);
+      var ref = m ? ((m[1] ? m[1] : '') + m[2]) : '';
+      var event_data = null;
+      if (source == 'salogo') event_data = ['headtabs', 'logo', ref];
+      else if (source == 'headtabs') event_data = ['headtabs', location.pathname, ref];
+      else if (source == 'footer') event_data = ['footer', location.pathname, ref];
+      if (event_data) pageTracker._trackEvent(event_data[0], event_data[1], event_data[2]);
+    }
+  });
+
+  SeekingAlpha.Initializer.Run();
+</script>
+<div id="symbol_data_script_container">
+</div>  
+<script type="text/javascript">
+  var _sf_async_config={uid:23852,domain:"seekingalpha.com",authors:false};
+
+  if(typeof(news_beat_sections) !== 'undefined') {
+    _sf_async_config.sections = news_beat_sections;
+  } else {
+    _sf_async_config.sections = "N-A";
+  }
+
+  if(typeof(news_beat_author) !== 'undefined') {
+    _sf_async_config.authors = news_beat_author;
+  }
+
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js?v=3");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+      loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+
+
+<!-- Start Quantcast tag -->
+_qoptions={
+qacct:"p-36Zq38JCUmc3w"
+};
+</script>
+<script type="text/javascript" src="https://secure.quantserve.com/quant.js"></script>
+<noscript>
+<img src="https://secure.quantserve.com/pixel/p-36Zq38JCUmc3w.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- homepage event/user-guest/refresh-new checker starts -->
+<script>if (/.com\/(\?.+)?$/.test(location.href)) { urchinTracker("event/home_page/" + (is_users_cookie_exists() ? "user" : "guest") + "/" + (isRefresh ? "refresh" : "new")) }</script>
+<!-- homepage event/user-guest/refresh-new checker ends -->
+<script type='text/javascript'>
+try{if (window.Portfolio) Portfolio.fields.debt[4][1] = "Cash & Equivilants + MarketableSecurities (Short term Investments which will be liquidated within one year)"}catch(e){}
+</script>
+
+    <div class="cleaner"></div>
+  </body>
+</html>

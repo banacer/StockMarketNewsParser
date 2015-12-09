@@ -1,0 +1,962 @@
+Altera Releases Industry's First 28-nm FPGA Development Kit - MarketWatch
+
+
+
+
+
+Bulletin
+
+Get news bulletins by email &raquo; U.S. stocks sharply lower as NYSE
+invokes &#39;Rule 48&#39; for Tuesday&#39;s open
+
+
+
+
+
+
+
+Sign in
+
+Become a MarketWatch member today
+
+
+* Front Page
+* News Viewer
+* Commentary
+* Markets
+* Investing
+* Personal Finance
+* Community
+* Games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+press release
+
+Sept. 6, 2011, 8:00 a.m. EDT
+
+
+Altera Releases Industry's First 28-nm FPGA Development Kit
+
+
+
+Full-Featured Stratix V GX FPGA-Based Development Kit Accelerates the
+Development of High-Bandwidth Systems
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAN JOSE, Calif., Sept. 6, 2011 /PRNewswire via COMTEX/ -- Altera
+Corporation today reached another milestone in driving the industry's
+rollout of 28-nm FPGAs by announcing availability of the StratixÂ® V GX
+FPGA Signal Integrity Development Kit, the first development kit
+featuring 28-nm FPGAs. This full-featured kit allows design engineers to
+accelerate the design and development of high-performance systems that
+meet the industry's demand for more bandwidth. The Stratix V GX FPGA
+Signal Integrity Development Kit provides customers a platform for
+measuring and evaluating transceiver link performance ranging from 600
+Mbps to 12.5 Gbps.
+
+
+
+
+
+
+
+The Stratix V GX FPGA Signal Integrity Development Kit features advanced
+equalization functions for the device's high-speed serial transceivers.
+Customers can perform real-world system analysis using on-board SMA and
+popular backplane connectors including MolexÂ® ImpactÂ® and
+AmphenolÂ® XCedeÂ®. These built in high-speed backplane connectors
+are used to evaluate custom backplane performance and evaluate link BER.
+Users can also generate and check pseudo-random binary sequence (PRBS)
+patterns via an easy to use graphical user interface.
+
+"To meet the ever increasing data rates and bandwidth requirements of
+today's high-end communications systems, it's essential for SERDES
+providers to invest in signal and power integrity in their silicon," said
+Dr. Eric Bogatin, Signal Integrity Evangelist with Bogatin Enterprises, a
+LeCroy Company. "Altera's Stratix V Transceiver Signal Integrity
+Development Kit provides an ideal vehicle to evaluate transceiver
+performance for customer applications and accelerate the development time
+for new designs."
+
+The Stratix V FPGA Signal Integrity Development Kit allows users to
+verify compliance with the most popular protocol standards today,
+including 10GbE, 10GBASE-KR, PCI ExpressÂ® (PCIeÂ®) Gen1, Gen2 and
+Gen3, Serial RapidIOÂ®, Gigabit Ethernet (GbE), 10 GbE XAUI, CEI-6G,
+CEI-11G, HD-SDI, Interlaken and Fiber Channel. The development kit
+features a Stratix V GX FPGA-based development board, a one-year license
+of QuartusÂ® II Software, design examples and access to Altera's
+MegaCoreÂ® IP library including the NiosÂ® II Embedded Design Suite.
+
+Pricing and Availability
+
+The Stratix V GX FPGA Signal Integrity Development Kit is available now
+and priced at $4,995. To learn more about this kit, or to purchase, visit
+www.altera.com/s5sikit . For more information on Stratix V FPGAs, contact
+your local Altera sales representative or visit
+www.altera.com/pr/stratix5 .
+
+About Altera
+
+AlteraÂ® programmable solutions enable system and semiconductor
+companies to rapidly and cost-effectively innovate, differentiate and win
+in their markets. Find out more about Altera's FPGA, CPLD and ASIC
+devices at www.altera.com . To subscribe to Altera's RSS/XML news feeds,
+visit Altera RSS Feeds.
+
+Altera, the Altera logo, and all other words that are identified as
+trademarks are, unless noted otherwise, Registered, U.S. Patent and
+Trademark Office, and the trademarks of Altera Corporation in the U.S.
+and other countries. PCI-SIG, PCI Express and PCIe are registered
+trademarks of PCI-SIG. RapidIO is a registered trademark of the RapidIO
+Trade Association. All other product or service names are the property of
+their respective holders.
+
+Editorial Contact:Steve GabrielAltera Corporation(408)
+544-6846newsroom@altera.com
+
+SOURCE Altera Corporation
+
+Copyright (C) 2011 PR Newswire. All rights reserved
+
+
+/quotes/zigman/67862/quotes/nls/altr
+
+
+
+
+
+Add ALTR to portfolio ALTR
+
+
+
+Altera Corp.
+
+
+
+$ 34.55
+
+-0.20 -0.58%
+
+
+
+
+Volume: 194,533
+
+Sept. 6, 2011 9:41a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Most Popular
+
+
+1. 
+
+
+
+
+2. 
+
+
+
+
+3. 
+
+
+
+
+4. 
+
+
+
+
+5. 
+
+
+
+
+
+
+
+Find a Broker
+
+
+Â»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Featured Stories
+
+
+* U.S. stock futures drop; Swiss franc slumps
+
+
+* 
+* Why the young jobless will ruin your portfolio
+
+  Without jobs or accumulated wealth todayâs young Americans
+  wonât be able to retire, and those retiring soon...
+
+
+* What to buy and what to avoid for the rest of 2011
+
+  After this summerâs volatile sell-off, lower earnings expectations
+  are already priced into stocks across...
+
+
+* Dow headed below 10,000 as cyclical bear begins
+
+  Technical pattern on the Dow Jones Industrial Average suggests the
+  stock market has unfinished business to...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* WSJ
+  o WSJ
+
+* MarketWatch
+  o MarketWatch
+  o Facebook
+  o Twitter
+
+
+
+
+
+* Barron's
+  o Barron's
+
+* SmartMoney
+  o SmartMoney
+
+* AllThingsDigital
+  o AllThingsDigital
+
+* FINS
+  o FINS
+
+* More
+  o BigCharts
+  o Virtual Stock Exchange
+  o Financial News
+  o WSJ Asia
+    - WSJ India
+    - 
+    - 
+
+  o WSJ Europe
+  o WSJ Americas
+    - en Espa&ntilde;ol
+    - em Portugu&ecirc;s
+
+  o WSJ Radio
+  o WSJ Wine
+
+
+
+
+
+SEARCH
+
+
+
+
+
+
+
+
+9:41 AM EDT
+
+September 6, 2011
+
+
+/marketstate/country/us
+New York
+
+Open
+
+
+/marketstate/country/uk
+London
+
+Open
+
+
+/marketstate/country/jp
+Tokyo
+
+Closed
+
+
+
+
+
+
+/marketstate/country/us
+
+
+
+/marketstate/country/uk
+
+
+
+/marketstate/country/jp
+
+
+
+
+
+
+
+
+
+
+
+
+
+View All
+
+
+Latest News
+
+
+1. /news/latest 9:40a
+
+   Techs slide in broad market decline
+
+2. 9:38a
+
+   Newmont Mining up 2%, best on S&amp;P 500
+
+3. 9:37a
+
+   BREAKING
+
+   U.S. stocks open sharply lower; Rule 48 invoked
+
+4. 9:35a
+
+   Marathon Oil shares drop 6.7% in early trade
+
+5. 9:34a
+
+   Harley-Davidson shares fall 7.8%, worst on S&amp;P 500
+
+6. 9:32a
+
+   BREAKING
+
+   U.S. stocks open sharply lower; Rule 48 invoked
+
+7. 9:29a
+
+   CFPB nominee says he doesn&#39;t favor lawsuits
+
+8. 9:23a
+
+   Swiss escalation of currency wars to boost gold
+
+9. 9:11a
+
+   When using cash is better than credit
+
+10. 9:11a
+
+    Coming up: ISM services for August
+
+11. 9:09a
+
+    Treasurys up; 10-year yields hit record low
+
+12. 9:00a
+
+    What to buy and what to avoid for the rest of 2011
+
+13. 8:59a
+
+    Private-equity group Carlyle files for IPO
+
+14. 8:55a
+
+    U.S. stock futures drop; Swiss franc slumps
+
+15. 8:51a
+
+    European markets turn lower amid sovereign fears
+
+16. 8:49a
+
+    Europe, SNB in the spotlight
+
+17. 8:48a
+
+    PepsiCo, NFL renew &quot;multi-year&quot; sponsorship deal
+
+18. 8:44a
+
+    Why the young jobless will ruin your portfolio
+
+19. 8:44a
+
+    Tuesdayâs biggest gaining &amp; declining stocks
+
+20. 8:43a
+
+    Italy budget backtrack stirs market worries
+
+21. Loading more headlines...
+
+
+
+
+
+dow
+
+
+/quotes/zigman/627449/delayed
+10,971.09
+
+
+-269.17
+
+-2.39%
+
+
+
+
+
+
+
+
+nasdaq
+
+
+/quotes/zigman/123127
+2,427.58
+
+
+-52.75
+
+-2.13%
+
+
+
+
+
+
+
+
+s&amp;p 500
+
+
+/quotes/zigman/3870025
+1,144.79
+
+
+-29.18
+
+-2.49%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kiosk
+
+
+* 1309316400000
+
+  1309377600000
+
+
+
+  Commodities Corner
+
+
+
+
+  Myra P. Saefong
+  Benching a benchmark Â 
+  West Texas Intermediate, the oil index long used to project U.S.
+  motor-fuel price trends, no longer is accurate benchmark. Here's what's
+  replaced it.
+
+
+  /conga/kiosk/commentary3.html 166051
+
+
+
+* 1309982400000
+
+  1310072100000
+
+
+
+  Tech Investor
+
+
+
+
+  John Shinal
+  Learning the lesson of tech jobs
+  There are larger implications for the U.S. economy to be found in the
+  hiring trends in the domestic tech sector, and in India.
+
+
+  /conga/kiosk/commentary.html 166049
+
+
+
+* 1309370400000
+
+  1309428000000
+
+
+
+  Second Opinion
+
+
+
+
+  John C. Dvorak
+  Dell can dominate PC world
+  This is the perfect opportunity to wrest control of the U.S. PC
+  business from Apple and H-P, and take over in China as well. All Dell
+  has to do is execute.
+
+
+  /conga/kiosk/wildcard4.html 166054
+
+
+
+* 1241971200000
+
+  1242619200000
+
+
+
+  Weekend Investor
+
+
+
+
+  The fine art of investing
+  As an asset class, fine art is a proven long-term store of wealth. The
+  current marketÂ  woes just add to art's allure.
+
+
+  /conga/kiosk/investing.html 166124
+
+
+
+* 1308830400000
+
+  1308901200000
+
+
+
+  Asia
+
+
+
+
+  Rich tastes get pricier
+  The cost of living the luxury life in Asia soared in dollar terms over
+  the past year, according to a lifestyle index. What's behind the higher
+  luxury prices?
+
+
+  /conga/kiosk/wildcard2.html 165868
+
+
+
+* 1303590000000
+
+  1303749600000
+
+
+
+  Car Review
+
+
+
+
+  2012 VW Beetle Turbo
+  It may resemble the "New Beetle,"Â  but Volkswagen's 2012 offering is
+  a better bug, writes Ron Amadon.
+  â¢ More car reviews from Ron Amadon
+
+
+  165998
+
+
+
+* 1247536800000
+
+  1247587200000
+
+
+
+  The Economy
+
+
+  Â 
+
+  A moribund jobs market
+  Data showed the U.S. economy still struggling to create jobs with
+  payrolls creation flat, hourly earnings falling, and grim
+  African-American jobless rates.
+
+
+  /conga/kiosk/economy-politics.html 165896
+
+
+
+
+
+
+
+
+
+
+
+
+
+MarketWatch.com
+
+* Site Index
+* Topics
+* Help
+* Feedback
+* Newsroom Roster
+* Media Archive
+* Premium Products
+* Mobile
+
+* Company Info
+* Code of Conduct
+* Corrections
+* Advertising Media Kit
+* Advertise Locally
+* License our Content
+* Broker Center
+
+* MarketWatch on Facebook
+* 
+* MarketWatch on Twitter
+* 
+* RSS
+* Podcasts
+
+
+
+* WSJ.com
+* Barron's Online
+* BigCharts
+* Virtual Stock Exchange
+* All Things Digital
+
+* MarketWatch Community
+* Financial News Online
+* WSJ.com Small Business
+* FINS: Finance, IT jobs, Sales jobs
+
+
+
+
+
+
+
+
+
+Copyright � 2011 MarketWatch, Inc. All rights reserved.
+By using this site, you agree to the Terms of Service and Privacy Policy.
+
+
+
+Intraday Data provided by SIX Telekurs and subject to terms of use.
+Historical and current end-of-day data provided by SIX Telekurs. Intraday
+data delayed per exchange requirements. Dow Jones Indexes (SM) from Dow
+Jones & Company, Inc. All quotes are in local exchange time. Real time
+last sale data provided by NASDAQ. More information on NASDAQ traded
+symbols and their current financial status. Intraday data delayed 15
+minutes for Nasdaq, and 20 minutes for other exchanges. Dow Jones
+IndexesSM from Dow Jones & Company, Inc. SEHK intraday data is provided
+by SIX Telekurs and is at least 60-minutes delayed. All quotes are in
+local exchange time.
+
+
+
+
+
+
+
+* MarketsMarkets
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* QuotesQuotes
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* My PortfolioMy Portfolio
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* My AlertsMy Alerts
+
+
+
+
+
+
+
+  Data is loading...
+
+
+
+
+* CommunityCommunity
+
+
+
+
+  HOT PICKS MY PICKS MY GROUPS
+
+
+
+
+  Data is loading...
+
+
+
+
+
+ALERT:
+
+
+
+
+MarketWatch Top Stories
+Link to MarketWatch's Slice. 15
+
+
+
+
+
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+
+
+
+The action you requested requires a MarketWatch Community display name.
+
+
+
+
+Sign In
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+Community
+
+Get your FREE membership now Â»
+
+MarketWatch Community is a free service that lets you discover, organize
+and share MarketWatch stories with other readers.
+
+Learn More Â»
+
+
+
+
+
+The action you requested is only available to MarketWatch members.
+Please sign in or register.
+
+
+
+
+Sign In
+
+
+Email address or display name
+
+
+Password
+
+
+
+
+Remember me
+
+Forgot password?
+
+
+
+
+Register
+
+Don't have a MarketWatch account?
+
+Get your FREE membership now Â»
+
+
+By registering, you are agreeing to MarketWatch's Terms of Service and to
+receiving periodic news and special offers via email about MarketWatch
+enhancements, products and services.
+
+
+

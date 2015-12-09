@@ -1,0 +1,570 @@
+Himax: A Solid Long Idea - Seeking Alpha
+
+
+
+
+
+
+* See the difference! Customize Seeking Alpha: Sign in or join
+* 
+
+
+Seeking Alpha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home |
+* Portfolio |
+* Market Currents |
+* Long &amp; Short Ideas |
+* Investing for Income |
+* ETFs &amp; Portfolio Strategy |
+* Macro View |
+* Earnings
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Himax: A Solid Long Idea
+
+
+
+by: Rajat Arora September 6, 2011  |  about: HIMX
+   
+
+
+
+
+
+
+* Font Size:
+
+* Print
+
+* Email
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+Himax Technologies (HIMX) designs display drivers for large, medium and
+small-sized TFT-LCD panels used in desktop monitors, notebooks,
+televisions, mobile handsets, tablet PCs, digital cameras, photo frames
+and car navigation displays. Additionally, it is expanding into
+developing timing and touch controllers, CMOS image sensors, and 2D to 3D
+conversion solutions. The company is based in Taiwan, with ADSs trading
+in US stock exchanges.
+
+Financial Metrics
+Looking at Himax's most recent balance sheet, below are some of the
+interesting numbers:
+
+* Trading Below Book Value: At the time of writing, Himax’s market
+  capitalization was $228.2 million, whereas its tangible book value
+  (book value - goodwill - intangible assets) at the end of Q2 2011
+  (ending June 30) equaled $359.5 million. Considering that the company
+  paid out an annual cash dividend of $21.2 million on July 20, its most
+  recent tangible book value will equal $338.3 million. Therefore, its
+  price-to-book ratio is 0.67. This means that the company is trading 49%
+  (1.0/0.67) below its book value. In layman’s language, if the company
+  were to be liquidated today, for every $1 invested, you will get
+  approximately $1.50.
+* 35% of Market Capitalization in Cash: As of Q2 2011, Himax’s cash and
+  short term investments amounted to $104.1 million, the restricted cash
+  equaled $57.5 million, and it had short-term debt of $57.0 million.
+  Deducting the recent dividend paid by the company, the effective cash
+  equaled $83.4 million. This is more than 35% of Himax’s market
+  capitalization.
+* High Current Ratio: The current ratio indicates the company's ability
+  to pay back its short-term liabilities (debt and payables) with its
+  short-term assets (cash, inventory, receivables). The higher the
+  current ratio, the better the company’s capability to pay its
+  obligations. As of Q2 2011, Himax’s current ratio was 2.1, indicating
+  that the company is highly capable of paying its short-term obligations.
+
+Overall, Himax’s financial metrics look decent. Companies may trade below
+their book value if their balance sheets are highly leveraged (current
+ratio less than 1.0), like in the case of solar companies LDK Solar (LDK)
+and Suntech Power (STP). It may also happen if the companies have huge
+debts on their balance sheets, such as oil refiners Valero Energy (VLO)
+and Tesoro (TSO). However, Himax has none of these issues, so its
+undervaluation may not be warranted.
+
+Business Fundamentals
+Looking at Himax’s business fundamentals, they are not as bad as
+investors seem to think. In fact, in some cases they are encouraging.
+Himax’s revenue comes from three major segments:
+
+* Display Drivers for Large-sized TFT LCD Panels: This segment made up
+  almost half of the company’s revenues. However, its contribution is
+  declining over the years, and in Q3 2011, it will no longer be the
+  largest revenue contributor.
+* Display Drivers for Medium and Small-sized TFT LCD Panels: This
+  segment which until 3-4 years back was insignificant, will become
+  company’s largest revenue contributor by Q3, 2011. In the recent
+  conference call, the company said: “We remain the leading player in
+  high-end panel drivers for smart phone applications. Our
+  industry-leading HD720 high-resolution cellphone panel driver has been
+  adopted by first-tier smart phone brands with shipments expected to
+  commence at the end of the third quarter. The driver IC offers an
+  unrivaled color and brightness enhancement feature which is very
+  popular among our customers." It is not known who are these first-tier
+  smart phone customers. It may be Samsung (SSNLF.PK), whose subsidiary
+  Samsung Electronics Taiwan Co., Ltd. is already among its top 10
+  customers4, or it may be other leading brands such as Nokia (NOK), HTC,
+  or even Apple (AAPL).
+* Non-Driver Segment: This segments consists of CMOS image sensors,
+  LCOS pico-projectors, 2D to 3D solution, touch panel controllers, etc.
+  It will make up 15% of company's revenues by Q3 2011. In CMOS image
+  sensor space, the company is suffering from low margin as it's still
+  shipping a relatively high proportion of older generation products.
+  Also, the company faces stiff competition from OmniVision Technologies
+  (OVTI), Sony (SNE), and Aptina. The good news is the company has
+  already developed newer generation of products with improved cost and
+  margins, and this is the company's fastest growing non-driver product
+  line. For LCOS pico-projector products, the company is seeing increased
+  demand and will increase the monthly panel output from 150,000 units to
+  over 250,000 units. However, in a short-term, this will negatively
+  impact the gross margin. The company's 2D to 3D solution was adopted by
+  several monitor and 3D projector customers. The company has also
+  integrated the 2D to 3D conversion feature into timing controllers
+  designed for handheld naked-eye 3D panel applications. Moving forward,
+  this could be a big catalyst. Finally, its touch panel controller has
+  been adopted by a top worldwide smart phone brand, with shipments
+  expected at the end of the third quarter. The company plans to build
+  upon this success to broaden its market share. However, the company
+  will face a tough task competing against big players like Synaptics
+  (SYNA), Cypress Semiconductors (CY), and Atmel (ATML).
+
+Insider Buys and Share Repurchase Plan
+The company recently that its chairman, CEO, CTO, and an independent
+director intend to use their personal funds to purchase up to
+approximately $4 million of the company's ADSs in the open market. These
+guys earlier this year bought around 556,418 ADSs. Additionally, on June
+20, the company announced a $25 million share buyback program. Share
+repurchases up to August 10 totaled $0.8 million or 431,583 ADSs. This
+share purchase plans demonstrate the management's tremendous confidence
+in the company's long-term prospects.
+
+To summarize, the investors seemed to have valued Himax for bankruptcy.
+However, if its balance sheets are to be believed, the financial metrics
+look good. Combine this with its decent business fundamentals and share
+buyback, Himax looks like a good buy with limited downside risk.
+
+Additional References
+
+Q2, 2011 Earnings Release
+
+Annual Report, 2010
+
+Disclosure: I am long HIMX, NOK, SYNA, STP.
+
+
+
+
+This article is tagged with: Long &amp; Short Ideas, Long Ideas,
+Technology, Semiconductor - Specialized, Taiwan
+
+More articles by Rajat Arora &raquo;
+
+* Marvell: A Strong Buy At Current Valuation Tue, Aug 30
+
+
+
+
+
+5 Small Caps Offering Growing Dividend Yields
+
+Wed, Aug 17
+
+by Investment Underground
+
+
+Rising Interest Rates Are on the Way. Here's How to Protect Your...
+
+Mon, Aug 1
+
+by Five Plus Investor
+
+
+Stryker Corporation: Strong Company With Compelling Valuation
+
+Today
+
+by Dan Hennessy
+
+
+2 Beaten-Down, Cash-Rich Technology Stocks Way Under Analysts'...
+
+Sun, Sep 4
+
+by Bret Jensen
+
+
+
+
+Centaur Capital's Favorite Stock Picks
+
+Wed, Jun 1
+
+by Insider Monkey
+
+
+Comparing Dog Investing Strategies: Annual Net Returns for Various...
+
+Tue, May 31
+
+by Fredrik Arnold
+
+
+24 Stocks Under $5 Undervalued Relative to Target Price
+
+Tue, May 24
+
+by Kapitall
+
+
+Top Fabless Semiconductor Picks by Fund Gurus Concentrated in the...
+
+Tue, May 17
+
+by Ganaxi Small Cap Movers
+
+
+
+
+2 Energy Stocks That Stand To Benefit From 'New Normal' Offshore...
+
+Thu, Sep 1
+
+by Amine Bouchentouf
+
+
+Teva Pharmaceuticals: Time To Buy
+
+Thu, Sep 1
+
+by Ron Sommer
+
+
+VirnetX Uniquely Positioned In Heated 4G Patent Battleground
+
+Wed, Aug 31
+
+by Dustin Moore
+
+
+Mongolian Growth Group: A Pick And Shovel But Not For Commodities
+
+Wed, Aug 31
+
+by Free Cash Flow 50
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+
+* Email
+* Print
+
+
+
+
+
+
+
+Comments (0)
+
+Be the first to comment on this article
+
+
+
+
+Add a comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Load All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the author: Rajat Arora
+
+
+
+
+
+
+
+
+
+
+I have an MS degree in Computer Engineering, and I am currently working
+as a software developer for a technology company. I have been investing
+and trading stocks and options over the past 7 years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rajat Arora
+
+
+
+
+* (2)
+* (3)
+* Profile
+
+
+
+
+
+
+
+
+
+
+
+
+Send Message
+
+
+
+
+
+
+
+
+You are currently following Rajat Arora
+Stop Following
+
+
+
+
+
+
+You are no longer following Rajat Arora
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx
+
+
+Breaking News Updated at
+
+ broke in the last few minutes - get the latest updates in Market
+Currents. Updated at
+
+
+
+
+
+
+
+
+
+
+
+
+TOP AUTHORS: The Opinion Leaders
+
+TOP USERS: Commenters | StockTalkers | Instabloggers
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Twitter &nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds  |  Contact
+Us  |  About Us  |  Premium Program
+
+Terms of Use | Privacy | Xignite quote data | Copyright © 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

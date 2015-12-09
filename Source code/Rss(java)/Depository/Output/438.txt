@@ -1,0 +1,775 @@
+3 Short And 4 Long Ideas Based On Fair Value Estimates - Seeking Alpha
+
+
+
+
+
+
+* See the difference! Customize Seeking Alpha: Sign in or join
+* 
+
+
+Seeking Alpha
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home |
+* Portfolio |
+* Market Currents |
+* Long &amp; Short Ideas |
+* Investing for Income |
+* ETFs &amp; Portfolio Strategy |
+* Macro View |
+* Earnings
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 Short And 4 Long Ideas Based On Fair Value Estimates
+
+
+
+&nbsp;2 comments |  by: Dr. Osman Gulseven September 6, 2011  | 
+includes: AAPL, AMZN, BIDU, CSCO, INTC, NFLX, SIRI
+   
+
+
+
+
+
+
+* Font Size:
+
+* Print
+
+* Email
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+There are several ways to estimate the fair value of a company. From a
+financial engineering perspective, investors expect the investment
+project to provide substantial profits for the future. By purchasing a
+stock of the company, investors are entitled a share of the future
+profits. However, time has a value itself. Therefore one needs to
+discount the future profits by using appropriate discount rate. As
+Professor Donald F. Kuratko from Indiana University, Kelley School of
+Business, describes this model as:
+
+
+This model attempts to establish future earning power in current dollars.
+Projects future earnings (five years), calculates the present value using
+a then discounted rate based on projected “timing” of future income.
+
+
+Besides the future earnings, the company already has some assets that you
+are entitled a portion of. Adding these assets to the present value of
+future earnings gives us the FED+ Model:
+
+Future Earnings Discounted Plus Equity Model
+
+This model is primarily used for estimating the returns from long-term
+projects. It is also frequently used to price fair-valued IPOs. The
+methodology is based on discounting the present value of the future
+earnings to the current period:
+
+V = E0 + E1 /(1+r) + E2 /(1+r)2 + E3/(1+r)3 + E4/(1+r)4 + E5/(1+r)5 +
+Disposal Value
+
+V = E0 + E0 (1+g)/(1+r) + E0(1+g)2/(1+r)2 + … + E0(1+g)5/(1+r)5 +
+E0(1+g)5/[r(1+r)5]
+
+The earnings after the last period act as a perpetuity that creates
+regular earnings:
+
+Disposal Value = D = E0(1+g)5/[r(1+r)5] = E5 / r
+
+While this formula might look scary for many of us, it easily calculates
+the fair value of a stock. All we need is the current-period earnings,
+earnings growth estimate, and the discount rate. To be as objective as
+possible, I use Morningstar data for my estimates. You can set these
+parameters as you wish, according to your own due diligence. So far I’ve
+analyzed the fair values of several stocks. Here is a brief analysis of 3
+stocks trading above their fair value and 4 stocks trading within and
+below their fair-value:
+
+
+Stock
+ 
+
+Average P/E
+ 
+
+EPS Growth Estimate
+ 
+
+Closing Price
+ 
+
+Fair Value Range
+ 
+
+O-Metrix Score
+
+
+Baidu (BIDU)
+ 
+
+48.17
+ 
+
+48.00%
+ 
+
+$140
+ 
+
+$140 - $145
+ 
+
+4.99
+
+
+Amazon (AMZN)
+ 
+
+77.69
+ 
+
+26.42%
+ 
+
+$210
+ 
+
+$74 - $91
+ 
+
+1.70
+
+
+Netflix (NFLX)
+ 
+
+42.28
+ 
+
+31.38%
+ 
+
+$213
+ 
+
+$167 - $173
+ 
+
+3.71
+
+
+SiriusXM (SIRI)
+ 
+
+35.22
+ 
+
+30.00%
+ 
+
+$1.72
+ 
+
+$1.76 - $1.88
+ 
+
+4.29
+
+
+Apple (AAPL)
+ 
+
+13.24
+ 
+
+20.85%
+ 
+
+$374
+ 
+
+$363 - $430
+ 
+
+7.84
+
+
+Cisco (CSCO)
+ 
+
+10.71
+ 
+
+10.65%
+ 
+
+$15.41
+ 
+
+$15 - $23
+ 
+
+5.70
+
+
+Intel (INTC)
+ 
+
+8.55
+ 
+
+10.69%
+ 
+
+$19.64
+ 
+
+$26 - $34
+ 
+
+8.75
+
+
+Short Ideas
+
+Baidu, a Jim Cramer favorite, is trading at the lower end of its fair
+value range. However, the stock is trading at P/B ratio of 28. It has a
+book value of $5.01 per share. As the largest internet information
+provider in China, Baidu’s trailing twelve month revenues were equal to
+$1.65 billion. Thus, the stock is trading at 29.63 times its revenues.
+The stock is trading with a sky-high P/E ratio of 63.84, and a forward
+P/E ratio of 32.51. In the last five years annualized EPS growth was
+136%. However, with a market cap of $51.8 billion, I do not expect the
+growth to keep its pace. Even if it does, this has already been priced by
+the market. The stock returned 45% since January. I think it is a good
+time to realize the profits. (Full analysis, here)
+
+Amazon.com is the world’s leading international online retailer.
+Seattle-based Amazon was founded by Jeffry P. Bezos from his garage.
+Initially started as an online book-store, the company offers almost
+anything that customers want to buy. As of September 3rd, Amazon was
+trading at a price of $210. I like Amazon as a company. Its website
+allows me to get real good deals for products that I can easily find. I
+see great growth potential, as well. However, the market already priced
+this potential. The current price of $210 indicates the stock is
+dangerously overvalued. Based on my FED+ fair value estimate, Amazon is
+more than 100% more expensive than my fair-value range. The stock has to
+fall by 60% to be fairly-priced. (Full analysis, here)
+
+Netflix is trading 30% lower, but 60% higher than its 52-week high. It
+seems like Wall Street has extremely divided opinion on the stock.
+Wedbush has an underperform rating with a target price of $100, whereas
+Oppenheimer has an outperform rating with a target price of $360. My FED+
+Fair value range for Netflix is $167 - $173. Even with an EPS growth
+estimate of 31.38%, Netflix has a below average O-Metrix score of 3.71.
+
+Long Ideas
+
+I was on the bearish side of Sirius XM until the company reported decent
+earnings. Sirius XM is one of the most highly-speculated and manipulated
+stocks in the market. The stock lost 11.34% in the last month, while
+returning 70.30% in a year. It was a good short 3 months ago with no
+reported profits and a price of $2.2. Surely, Sirius XM has some serious
+debt issues. Debt/Equity ratio of 6.12 is a strong red signal. However,
+it recently reported some good profits and is trading 30% below its
+52-week high, which makes it a fairly-valued stock. If the analysts’
+estimates of 30% EPS growth hold, Sirius XM could be an outperformer.
+(Full analysis, here)
+
+Apple is among my favorite stocks. I was also on the bearish side of
+Apple when it was trading around $400 with a P/E ratio of above 20.
+However, Apple reported surprisingly good earnings in the last quarter.
+The stock is priced for a value-type of company, whereas analysts
+estimate around 20% EPS growth for the next 5 years. As I stated here,
+when Apple was trading at $330, the stock has a strong resistance at $330
+level. Do not expect the 40% annualized returns of the last 5 years, but
+a moderate annualized return of 20% - 25% is enough to beat the market.
+(Full analysis, here)
+
+Cisco and Intel are both in the list of fallen angels. They were the most
+popular stocks of the techno bubble show. At one point Cisco reached $500
+billion market cap.
+
+Cisco might never reach its market cap again, but it is offering a good
+value to patient investors. It is trading with a low trailing P/E ratio
+of 13.28 and a forward P/E ratio of 8.15. P/B value of 1.79 is among the
+lowest ratios in technology sector. Based on 10.65% EPS growth estimate,
+Cisco has an O-Metrix score of 5.70. (Full analysis, here)
+
+Intel, the glorious winner of the microchip battle, is trading with a
+single digit P/E ratio of 9.01. It has a nifty yield of 4.28%, which
+rarely happens for a company of Intel’s size. There is no debt issue and
+PEG ratio of 0.84 is below the norm of 1. My fair value estimate range
+for Intel is $26 - $34. I think there is no downside potential left for
+Intel. (Full analysis, here)
+
+You can download FED+ Fair Value Estimator, here.
+
+Disclosure: I have no positions in any stocks mentioned, and no plans to
+initiate any positions within the next 72 hours.
+
+
+
+
+This article is tagged with: Long &amp; Short Ideas, Quick Picks &amp;
+Lists
+
+More articles by Dr. Osman Gulseven &raquo;
+
+* Walt Disney Has Significant Upside Potential Today
+* Home Depot's 60% Upside Potential Today
+* Top Diversified Dividend Picks For The Next 5 Years Today
+
+
+
+
+
+3 Reasons Why Bears Think Apple Can Fail (And Why It Will Not)
+
+Today
+
+by Rocco Pendola
+
+
+Analyzing My 5 Favorite Stocks: Still Buying At Current Levels
+
+Today
+
+by Cameron Kaine
+
+
+Baidu Set To Enter Mobile OS Space
+
+Fri, Sep 2
+
+by Robert Weinstein
+
+
+6 Stocks That Can Make Money In A Low Growth Environment
+
+Thu, Sep 1
+
+by Atticvs Research
+
+
+
+
+War On Research In Motion Ends: 'Crackberries' Re-Enter The Streets
+
+Today
+
+by Cameron Kaine
+
+
+Will Windows 8 Merge The Desktop With The Smartphone?
+
+Today
+
+by Erick Schonfeld
+
+
+Does Amazon Have An iPad Killer Up Its Sleeve?
+
+Today
+
+by Michael K. Dawson
+
+
+Stock Stress Test: Apple Looks Fairly Valued
+
+Today
+
+by David Nelson
+
+
+
+
+Cramer's 4 Favorite Stock Picks In Recent Weeks
+
+Thu, Sep 1
+
+by Dr. Osman Gulseven
+
+
+Baidu: Limited Upside, Unlimited Downside
+
+Wed, Aug 31
+
+by Dr. Osman Gulseven
+
+
+iTunes Match Getting Ready To Launch - Should Others Worry?
+
+Wed, Aug 31
+
+by Spencer Osborne
+
+
+Positioning Your Portfolio For A Bear Market
+
+Today
+
+by Thomas Lott
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Recommend
+
+  0
+
+
+
+  Share this page
+
+
+  Share
+
+
+
+
+
+
+* Email
+* Print
+
+
+
+
+
+
+
+Comments (2)
+
+
+
+
+Add a comment
+
+
+
+
+
+
+
+
+
+
+
+Register or Login to rate comments &raquo;
+
+* nutless in new orleans Comments (337)
+
+   
+
+
+
+
+
+
+
+  I am going to vote for the Apple-Sirius merger, it sounds like a good
+  mix
+
+* valuestocksonly Comments (260)
+
+   
+
+
+
+
+
+
+
+  My little man tells me NINO that Apple buying SIRIUS would be great for
+  both. Apple gets content and platform all at once. Add a chip to apples
+  products and you get direct Sat. feed. No broadband carriers to worry
+  about.
+
+
+
+
+
+
+Load All Comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About the author: Dr. Osman Gulseven
+
+
+
+
+
+
+
+
+
+
+Assistant Professor of Economics with interests in Finance, Stock
+Markets, Futures, and Options Markets. Marie Curie fellow and scientist
+in charge of EU-funded risk management project AgInsurance. Worked for
+World Bank and FAO projects as well. Earned doctorate degree in Economics
+with a minor... More
+
+
+
+
+
+
+* Blog: EFS Investment Research & Training
+
+
+
+
+
+
+
+
+
+
+Dr. Osman Gulseven
+
+
+
+* on Dividend Quick Picks & Lists
+
+* on Quick Picks & Lists
+
+* on Fund Holdings
+
+
+
+
+
+* (271)
+* 
+* (83)
+* (111)
+* (755)
+* Profile
+
+
+
+
+
+
+
+
+
+
+
+
+Send Message
+
+
+
+
+
+
+
+
+You are currently following Dr. Osman Gulseven
+Stop Following
+
+
+
+
+
+
+You are no longer following Dr. Osman Gulseven
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xx
+
+
+Breaking News Updated at
+
+ broke in the last few minutes - get the latest updates in Market
+Currents. Updated at
+
+
+
+
+
+
+
+
+
+
+
+
+TOP AUTHORS: The Opinion Leaders
+
+TOP USERS: Commenters | StockTalkers | Instabloggers
+
+
+
+
+
+
+&nbsp;&nbsp;&nbsp; Twitter &nbsp;&nbsp;&nbsp;&nbsp;RSS Feeds  |  Contact
+Us  |  About Us  |  Premium Program
+
+Terms of Use | Privacy | Xignite quote data | Copyright © 2011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

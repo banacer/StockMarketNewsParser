@@ -1,0 +1,401 @@
+University of Tennessee at Knoxville launches Apps@UT program
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home
+* Account
+* Research Tools
+* Educate
+* Contribute
+* News
+* Sectors
+* Premium
+* About Us
+
+
+
+* Subscribe
+* Login
+* Manage Account
+
+* Quote and Research
+* Stock Charts
+* Earnings Calendar
+* Technical Scans
+
+* Chart School
+* Tutorials
+* Learning Center
+* Glossary
+
+* Submit Article
+* Join Blog Network
+* Rate Broker
+* Rate Software
+
+* About Us
+* Contact Us
+* Advertise With Us
+* Terms and Conditions
+* Privacy Policy
+
+
+
+
+
+
+
+Top News :  
+
+
+
+* Wall Street To Open Sharply Lower On Global Worries; Hot Stocks: BAC,
+  JPM, C, PAY, SUN
+
+* Standard Life offers more choice to investors by adding seven
+  segregated funds and new investment styles
+
+* Atlanta hotel occupancy, rates show increase
+
+* Swiss franc slumps, European stocks recover poise
+
+* Novartis fights patent rejection in Indian court
+
+* SuperGen to begin operations as Astex Pharmaceuticals
+
+* Oil falls to near $84 on global slowdown fears
+
+* EDITORIAL: All about jobs: Washington must come together on a real
+  plan
+
+* World stocks mixed amid dour economic signals
+
+* EDITORIAL: Obama must come up with something new
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
+
+
+
+
+
+
+University of Tennessee at Knoxville launches Apps@UT program
+
+
+Monday, September 05, 2011 7:45 AM
+
+
+
+
+
+
+
+
+
+* 
+*  
+* 
+*  
+* 
+* 
+*  
+* 
+* Tweet
+* 
+* 
+
+
+
+
+
+
+
+
+
+
+
+(Source: Datamonitor)Citrix Systems, Inc., a provider of virtual
+computing solutions, has announced that the University of Tennessee at
+Knoxville has launched Apps@UT, a program implementing Citrix XenDesktop
+that runs on a Cisco and NetApp infrastructure to deliver full Windows
+desktops and applications as an on-demand service.
+
+Apps@UT will reportedly give University of Tennessee at Knoxville's (UT
+Knoxville) more than 27,000 students and staff anytime access to virtual
+desktops, applications, personal files and network resources.
+
+UT Knoxville has launched its Citrix virtual computing solutions at the
+university's lab, The Commons in Hodges Library, where Apps@UT will serve
+the 16,500 users that use The Commons' computers each semester. Apps@UT
+will be implemented at all the computer labs managed by UT Knoxville's
+Office of Information Technology. Ultimately, the virtual desktops and
+applications will be available to 27,000 students and staff on all
+university-owned and personal devices.
+
+Students are likely to benefit from enhanced productivity as XenDesktop
+transforms any Windows, web or software-as-a-service application into a
+service that can be accessed by any user, anytime and anywhere, with
+unparalleled simplicity and scalability.
+
+Apps@UT is built on integrated solutions from Citrix, NetApp and Cisco,
+providing a flexible infrastructure that is validated and optimized to
+work together. The NetApp Unified Storage Architecture enables UT
+Knoxville students and staff to store and access their virtual desktop
+and user data from all university-owned and personal devices.
+
+Additionally, the high-availability features inherent in the NetApp
+platform deliver 24x7 access to desktops and automatically backup student
+data. This anytime remote access and data protection is a fundamental
+component to any virtual desktop infrastructure and will help students be
+more productive and increase overall utilization of the Apps@UT network.
+Furthermore, the NetApp architecture provides UT Knoxville with storage
+efficiency technologies that will enable the university to more
+effectively manage data growth, lower power and cooling requirements, and
+reduce overall storage costs.
+
+For the Apps@UT service, the university is building its Citrix XenDesktop
+infrastructure on the Cisco Unified Computing System blade server
+platform. Cisco UCS offers a compelling mix of performance, scalability
+and decreased datacenter footprint, which reinforces the energy-saving
+aspect of Apps@UT.
+
+UT Knoxville is also implementing Citrix NetScaler and Branch Repeater
+with XenDesktop to optimize the performance of networks, applications and
+services. The Citrix suite of virtual computing solutions is expected to
+save the university time and resources by enabling easy, centralized
+management of desktops and applications. This implementation will also
+reduce the cost of software refreshes, security patches, and other
+maintenance.
+
+In addition, as older PCs in the university labs are phased out and
+replaced by thin clients under the Apps@UT program, the university will
+generate energy savings and reduce both the frequency and cost of
+hardware refreshes. Citrix Platinum Partner, LPS Integration, is also
+assisting UT Knoxville with the rollout of Citrix virtualization
+solutions.
+
+A service of YellowBrix, Inc.
+
+
+
+
+
+
+
+Related Stories
+
+
+
+
+More Articles on: Technology
+
+
+Subscribe to Email Alerts
+
+
+* University of Tennessee at Knoxville launches Apps@UT program
+* Ampio Rebounds As Study Results Published In Europe
+* E-Commerce: An Elixir For Your Portfolio In An Uncertain Economy
+* AT&amp;T Gets Sued
+* The Intelligence Report On Mantech International
+
+
+
+
+
+===========================================================================
+
+
+
+
+
+
+
+
+
+Rating :
+
+
+* 1
+* 2
+* 3
+* 4
+* 5
+
+
+
+
+
+
+
+
+
+
+
+
+Comments (0)
+
+
+
+
+
+
+
+
+No Comments
+
+
+
+
+
+
+
+
+
+Post Comment -- Login is required to post message
+
+Name:  
+Alert for new comments: 
+Your email: 
+Your Website: 
+Title: 
+Comments: 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+Advertisement
+
+
+
+Related Press Releases
+
+
+* University of Tennessee at Knoxville Launches 'Apps@UT' Desktop
+  Virtualization Program for more than 27,000 Students and Faculty
+* Citrix GoToAssist Debuts Remote Support App for salesforce.com
+* Citrix Opens Up the Cloud for VMware Customers
+* Citrix Executives to Present at Upcoming Investor Conferences
+* World Wide Technology Introduces Self-Contained Mobile Data Center
+  Solution at LandWarNet 2011
+
+
+
+Follow iStockAnalyst
+
+
+
+
+Popular Articles
+
+
+* 7 High Quality, Low Beta Dividend Stocks
+  By: Dividends4Life
+* 10 Stocks Weâre Looking At Seriously Following The August Crash
+  â Pat Mcfadden, M2 Global
+  By: Covestor.com
+* Our Ultimate Stock-Pickers' Top 10 Buys And Sells
+  By: Morningstar
+* Earning Scan: FLWS, DG, DSW, DRYS, PVH
+  By: iStockAnalyst
+* Altria Group (MO): High Dividend Growth Stock
+  By: Dividend Growth Investor
+
+
+Advertisement
+
+
+
+Partner Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{1}
+
+
+
+
+
+
+
+{1}
+
+
+
+##LOC[OK]## ##LOC[Cancel]##
+
+
+
+
+
+{1}
+
+##LOC[OK]## ##LOC[Cancel]##
+
+
+
+
+
+
+Home | Login |Research | Earnings | Scans | Charts | Submit Article |
+Join Blog Network | Advertise |
+
+copryright 2011 all rights reserved
+
+
+
+
+
+Fundamental data is provided by Zacks Investment Research, market data is
+provided by AlphaTrade. , and Commentary and Press Releases provided by
+Quotemedia
+

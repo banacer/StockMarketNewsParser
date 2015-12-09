@@ -1,0 +1,860 @@
+InfoQ: Google App Engine Price Rises Shock Developers
+
+
+
+
+
+
+
+Close
+
+Existing Users:
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forgot password?
+
+
+===========================================================================
+
+
+New Users:
+
+Register now
+
+
+
+
+
+
+
+
+
+InfoQ
+
+
+
+InfoQ
+
+
+
+
+En | ä¸­æ | æ¥æ¬èª | Br
+566,240 Aug unique visitors
+
+
+
+Skip to Content
+
+
+Tracking change and innovation in the enterprise software development
+community
+
+
+
+
+* 
+* Login
+* Register
+* 
+
+
+
+Close
+
+Existing Users:
+
+Email
+
+
+
+Password
+
+
+
+
+
+
+
+
+
+
+
+
+Forgot password?
+
+
+===========================================================================
+
+
+New Users:
+
+Register now
+
+
+
+
+
+
+
+
+
+
+
+* 
+  o Mobile
+  o HTML5
+  o JavaScript
+  o Cloud
+  o DevOps
+  o Agile
+  o SOA
+  o Agile Techniques
+
+
+
+  o New UI!
+
+
+
+* Development
+
+
+
+
+  o Java
+  o .Net
+  o Cloud
+  o Mobile
+  o HTML5
+  o JavaScript
+  o Ruby
+  o DSLs
+  o Python
+  o PHP
+  o PaaS
+
+
+
+
+
+* 
+  & Design
+
+
+
+
+  o Modeling
+  o Scalability/Performance
+  o DDD
+  o BDD
+  o AOP
+  o Patterns
+  o Security
+  o Cloud
+  o SOA
+
+
+
+
+
+* 
+  Practices
+
+
+
+
+  o Agile
+  o Leadership
+  o Collaboration
+  o Agile Techniques
+  o Methodologies
+  o Continuous Integration
+  o Lean/Kanban
+  o Cust. Requirements
+
+
+
+
+
+* 
+  Infrastructure
+
+
+
+
+  o Scalability/Performance
+  o Big Data
+  o DevOps
+  o Cloud
+  o Virtualization
+  o NoSQL
+  o App Servers
+
+
+
+
+
+* 
+  Architecture
+
+
+
+
+  o Enterprise Architecture
+  o BPM
+  o Business/IT Alignment
+  o Integration (EAI)
+  o Architecture Documentation
+  o IT Governance
+  o Web 2.0
+  o SOA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Print
+* Contribute News
+* 
+
+
+
+News
+
+
+
+
+
+
+
+My Bookmarks
+
+
+* 
+* 
+* 
+
+
+
+
+Login or Register to enable bookmarks for unlimited time.
+
+
+
+The content has been bookmarked!
+
+
+
+There was an error bookmarking this content! Please retry.
+
+
+
+
+
+
+Google App Engine Price Rises Shock Developers
+
+
+Posted by Charles Humble on Sep 05, 2011
+
+Sections
+        Development,
+        Architecture & Design,
+        Operations & Infrastructure,
+        Enterprise Architecture
+Topics
+        Java ,
+        Operations
+Tags
+        Google AppEngine ,
+        Google Go ,
+        Python
+
+|
+
+
+
+
+
+
+In May, Google announced that it would alter the price of its cloud
+computing service App Engine, the company's Platform as a Service
+offering, later in the year, presumably in an effort to turn the product
+into another profit centre for the company. Google has now announced that
+the price changes will occur in the second half of September, at the same
+time as the product officially loses its "preview" tag. Google has
+provided a tool that lets existing users calculate how much they'll pay
+under the new service.
+
+Whilst Google said it expects most currently active apps to full under
+the free quota, the majority of paying customers will see their prices
+rise. In return customers should see a better service, with Google
+introducing an SLA for paid customers and an SLA with operational support
+for premium.
+
+The reaction of Google's customer base on the official App Engine group
+has been largely negative. A before-and-after App Engine price comparison
+thread in Google Groups sees developers reporting increases of 50%, 100%,
+or much more. A separate thread has been started for developers who will
+be forced to leave App Engine due to the increased rates.
+
+Elsewhere, Nokia researcher and App Engine user Russell Beattie complains
+that under the new pricing model, the cost of his App Engine app for one
+day will rise from $2.63 to $34.38 - a figure that will double in
+November after a 50% discount expires.
+
+Developer Ugorji Nwoke blogged
+Google has done a major disservice to its cult of developers by changing
+the pricing terms of App Engine ridiculously while giving developers
+short notice to react. In doing so, Google may have done severe damage to
+their brand and the trust that developers put in them.
+
+Head of Groovy Development for VMware's SpringSource division, Guillaume
+Laforge, wrote
+The big problem is the cost of the "frontend instance hours". An app
+running all the time, with low traffic, but enough to keep a frontend
+instance running all day will cost you 30 bucks a month with this new
+pricing policy.
+
+Whilst the majority of developers considering a move to an alternative
+service will look at another cloud service such as Amazon's EC2 or
+VMware's own Cloud Foundry, it is interesting to compare this with a
+conventional Java hosting provider. For an equivalent $29.00/month, for
+example, Kattare will provide you with a dedicated Apache Tomcat JVM on a
+shared server with a heap size of 256MB and up to 50GB of transfer/month,
+fully supported. Of course the Kattare service doesn't include Google's
+unique APIs and infrastructure, but that has always been a cause of some
+concern for developers using the service. As one user writes on the
+official Google mailing list
+
+What has always been the biggest concern about App Engine? Lock-in.
+You're at the mercy of Google. Sure there's TyphoonAE etc... but really
+those are not alternatives.
+
+What does Google go ahead and do? They do exactly what their critics said
+they would do and what us GAE adopters hoped like hell they would never
+do, screw us over.
+
+App Engine is finished not because we're all going to move off to EC2,
+but because people who are considering using App Engine will see exactly
+what has gone on here with the pricing, think about the lock-in argument
+against GAE, and decide not to use GAE. There will be a drop off in new
+apps, and eventually Google is going to see GAE isn't really panning out
+and pull the 3 year plug.
+
+Google hasn't so far responded to the outcry, although on the App Engine
+web site the company does say it is looking into special programs for
+non-profits, educational institutions, and open-source projects.
+
+
+
+
+
+
+
+* This article is part of a featured topic series on Operations
+
+* See more Operations content at: http://www.infoq.com/operations
+
+
+
+* Other recent content items in this topic
+  o Book Review: DTrace: Dynamic Tracing in Oracle Solaris, Mac OS X
+    and FreeBSD
+  o Interview with Rob Linton, author of âAmazon Web Services:
+    Migrating your .NET Enterprise Applicationâ
+
+
+
+
+
+
+
+
+
+RelatedVendorContent
+
+
+Agile Release management: Towards Frequent, Low Risk Production Releases
+
+Scalable Agile: Building a Continuous Integration Pipeline with Go
+
+Anatomy of a Deployment Pipeline â free chapter from the book
+"Continuous Delivery"
+
+Got fires in production? Find root cause in minutes. FREE Java
+performance tool
+
+Agile Cloud Development with IBM Rational and SmartCloud
+
+
+
+
+Related Sponsor
+
+
+
+Go: Agile Release Management Solutions. Go enables predictable,
+defect-free and timely software releases.
+
+
+
+
+
+
+
+
+
+
+3 comments
+
+
+Watch Thread Reply
+
+
+Other options exist by Sacha Labourey Posted
+
+Re: Other options exist by sdfjweoi oisjdf Posted
+
+GAE free service by Rusty Wright Posted
+
+Sort by date descending
+
+SPONSORED TEXT LINKS
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+1. Back to top
+
+
+
+   Other options exist
+
+
+   by Sacha Labourey
+
+
+
+
+   GAE was one of the first PaaS (with salesforce.com) to provide a
+   "SaaS-like" model where developers do not have to worry about
+   operating system, AS, scalability/hardware, IT, DEVOPS, etc.
+   Consequently, comparing GAE to a pure hosting offering is not fair: in
+   a pure hosting solution, you end up managing a lot of those concerns,
+   adding to the overall cost - probably much more so than the recent GAE
+   cost upgrade.
+
+   Now, if your solution isn't compatible anymore with GAE's new pricing
+   scheme, alternatives exist, see <a rel="nofollow"
+   href="http://www.ibm.com/developerworks/java/library/j-paasshootout/?ca=
+   drs-">this PaaS shoutout for example</a>.
+
+   Cheers,
+
+   Sacha
+
+   disclaimer: I work for one of the vendors in the shoutout: <a
+   rel="nofollow" href="http://www.cloudbees.com/">CloudBees</a> - we
+   provide a for-pay and GA offering (as well as free trial accounts as
+   well obviously).
+
+
+   Reply
+
+2. Back to top
+
+
+
+   GAE free service
+
+
+   by Rusty Wright
+
+
+
+
+   The GAE free server was meant for developing and debugging your app,
+   not for running apps for free. What other cloud service provides free
+   servers where you don't pay anything in order to test and deploy your
+   app on their cloud servers?
+
+
+   Reply
+
+3. Back to top
+
+
+
+   Re: Other options exist
+
+
+   by sdfjweoi oisjdf
+
+
+
+
+   ONLINE STORE :
+
+
+   ====( www.fullmalls.com )=====
+   The website wholesale for many kinds of fashion shoes, like the
+   nike,jordan,prada,****, also including the jeans,shirts,bags,hat and
+   the decorations. All the products are free shipping, and the the price
+   is competitive, and also can accept the paypal payment.,after the
+   payment, can ship within short time.
+
+
+   free shipping
+
+   competitive price
+
+   any size available
+
+   accept the paypal
+
+   jordan shoes $32
+
+   nike shox $32
+
+   Christan Audigier bikini $23
+
+   Ed Hardy Bikini $23
+
+   Smful short_t-shirt_woman $15
+
+   ed hardy short_tank_woman $16
+
+   Sandal $32
+
+   christian louboutin $80
+
+   Sunglass $15
+
+   COACH_Necklace $27
+
+   handbag $33
+
+   AF tank woman $17
+
+   puma slipper woman $30
+
+
+
+   ====( www.fullmalls.com )=====
+
+
+   Reply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+
+
+Educational Content
+
+
+* All
+* Articles
+* Presentations
+* Interviews
+* Minibooks
+
+
+
+
+
+
+
+
+
+
+
+
+
+SpringSource CTO Adrian Colyer Discusses the Impact of the Cloud on
+Enterprise IT
+
+
+
+
+SpringSource CTO Adrian Colyer, discusses the impact of mobile devices,
+HTML 5 and cloud-computing on enterprise IT generally, and SpringSource's
+Cloud Foundary product.
+
+* Charles Humble Sep 06, 2011 ,
+* 1
+
+
+
+
+
+
+Why Program by Hand in Five Days what You Can Spend Five Years of Your
+Life Automating?
+
+
+
+
+Terence Parr discusses using automation tools including DSLs to automate
+the software creation process as much as possible in order to increase
+output, effectiveness, correctness and velocity.
+
+* Terence Parr Sep 02, 2011 ,
+* 4
+
+
+
+
+advertisement
+
+
+
+
+
+The Problem with Cloud-Computing Standardization
+
+
+
+
+In this IEEE article, author Sixto Ortiz Jr. discusses the issues and
+challenges in cloud computing standardization. He also compares the
+cloud-computing standards proposed by various organizations.
+
+* Sixto Ortiz Jr Sep 02, 2011 ,
+* 1
+
+
+
+
+
+
+Jonas Bon&#xE9;r on Akka, Actors and Shared State, STM, Typesafe
+
+
+
+
+Jonas BonÃ©r explains the Akka project and the types of actors it
+offers as well as its transactional features. Also: a preview of how Akka
+2.0 changes the management of (remote) actors.
+
+* Jonas Bon&#xE9;r Sep 02, 2011
+
+
+
+
+
+
+Cross-platform Mobility: The Rise of Mono in the Enterprise
+
+
+
+
+Scott Olson presents the current mobile industry landscape, what
+enterprise mobility opportunities are, and how developers can profit with
+cross-platform development with Mono.
+
+* Scott Olson Sep 01, 2011 ,
+* 3
+
+
+
+
+
+
+Interview with Rob Linton, author of âAmazon Web Services: Migrating
+your .NET Enterprise Applicationâ
+
+
+
+
+A new " Amazon Web Services : Migrating your .NET Enterprise Application
+" book by Rob Linton covers a lot of topics around Amazon Web Services
+and migrating applications to Amazon Web Services.
+
+* Boris Lublinsky Sep 01, 2011 ,
+* 1
+
+
+
+
+advertisement
+
+
+
+
+
+Design For Hybrid Agile Adoption
+
+
+
+
+Agile and offshore development are critical success factors for many
+organizations, but have never worked well together. The âDesign for
+Hybrid Agile Adoption (DH2A)â methodology offers a solution.
+
+* Upadrista Venkatesh Sep 01, 2011
+
+
+
+
+
+
+Infinitely Extensible
+
+
+
+
+Alex Papadimoulis discusses avoiding over-engineering a program,
+presenting extensibility types used, extensibility design patterns, when
+to use them, and what happens when they are incorrectly used.
+
+* Alex Papadimoulis Aug 31, 2011 ,
+* 1
+
+
+
+
+* Older &gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Home
+* About us
+* QCon Conferences
+* Create account
+* Login
+* Contribute News
+
+
+
+Choose the default sections
+
+
+* Development
+* Architecture &amp; Design
+* Process &amp; Practices
+* Operations &amp; Infrastructure
+* Enterprise Architecture
+
+
+
+
+Featured Topics
+
+* 
+  Anniversary
+* Agile Techniques
+
+EVENTS
+
+* QCon Hangzhou Oct 21-22, 2011
+* QCon San Francisco November 16-18, 2011
+
+
+
+
+
+General Feedback
+feedback@infoq.com
+
+Bugs
+bugs@infoq.com
+
+Advertising
+sales@infoq.com
+
+Editorial
+editors@infoq.com
+
+Twitter
+http://twitter.com/infoq InfoQ.com and all content copyright � 2006-2011
+C4Media Inc. InfoQ.com hosted at Contegix, the best ISP we've ever worked
+with.
+Privacy policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

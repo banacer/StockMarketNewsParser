@@ -1,0 +1,450 @@
+CA Technologies Helps NEC Offer Comprehensive Systems Management for
+Improved IT Services -- ISLANDIA, N.Y., Sept. 6, 2011 /PRNewswire/ --
+
+
+
+
+
+
+
+
+
+
+See more news releases in: Computer Electronics, Computer Software,
+Networks
+
+
+
+
+
+
+
+
+
+
+
+CA Technologies Helps NEC Offer Comprehensive Systems Management for
+Improved IT Services
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My news for Investors
+
+AtLeast one of the check box should be selected You are following news
+about Follow the latest news about CA
+
+
+
+
+
+
+
+
+
+
+
+
+NEC Incorporates CA Configuration Automation into its WebSAM and
+MasterScope Suite of Products
+
+
+
+
+
+
+
+
+
+Download image
+
+
+
+
+
+ISLANDIA, N.Y., Sept. 6, 2011 /PRNewswire/ -- CA Technologies (NASDAQ:
+CA) today announced that NEC Corp. is licensing CA Configuration
+Automation r12.5 to enhance its systems management product suite, known
+as WebSAM in Japan and MasterScope outside of Japan. The addition of CA
+Configuration Automation to NEC's product suite will help customers to
+expedite their move to a virtualized, dynamic cloud computing
+infrastructure.
+
+NEC selected CA Configuration Automation based on its ability help
+increase business agility, reduce cost, minimize IT compliance risks and
+improve service delivery. CA Configuration Automation will enable these
+benefits by providing application and system discovery and dependency
+mapping, as well as configuration monitoring and remediation, across a
+range of applications and distributed physical and virtual servers.
+
+"The adaptable integration interfaces, extended capabilities and support
+of CA Configuration Automation were key to helping us develop practical,
+cost-effective solutions for customers' cloud management challenges,"
+said Motoyasu Akatsu, vice president and executive general manager, NEC
+Corporation. "Based on our long-term partnership, CA Technologies clearly
+understands NEC's customer needs and delivers the right technology, the
+right licensing terms and services that meet our challenging
+requirements."
+
+Key features of CA Configuration Automation, a key part of the
+fast-growing, next-generation CA Service Automation portfolio, include
+granular configuration tracking and auditing; more than 1000
+out-of-the-box application, service, compliance and system blueprints and
+policies; and the flexibility of using either agent or agent-less
+discovery methods.
+
+NEC plans to first incorporate CA Configuration Automation into its
+"WebSAM DC Operations Package," which enhances cloud and data center
+operations. This addition will provide the foundation for a powerful,
+flexible and valuable management infrastructure that supports IT
+operations with automation, visualization, and change and configuration
+to help deliver a higher level of service quality to customers.
+
+"To survive and thrive in today's global marketplace, companies must
+optimize their ability to deliver flexible IT services, while also
+controlling costs and mitigating risk," said Buster Brown, president and
+representative director, CA Technologies Japan. "We are pleased that NEC
+sees how CA Configuration Automation can help their customers achieve
+these goals."
+
+For additional information about CA Configuration Automation, visit:
+
+* CA Configuration Automation Product Brief
+* CA Configuration Automation Demonstration
+* CA Technologies Virtualization and Service Automation press kit
+* CA Technologies on Virtualization and Automation blog
+* @CAvirtualAuto on Twitter
+
+
+(Logo:  http://photos.prnewswire.com/prnh/20100516/NY05617LOGO )
+
+About CA Technologies
+
+CA Technologies (NASDAQ: CA) is an IT management software and solutions
+company with expertise across all IT environments – from mainframe and
+distributed, to virtual and cloud. CA Technologies manages and secures IT
+environments and enables customers to deliver more flexible IT services.
+CA Technologies innovative products and services provide the insight and
+control essential for IT organizations to power business agility. The
+majority of the Global Fortune 500 relies on CA Technologies to manage
+evolving IT ecosystems. For additional information, visit CA Technologies
+at www.ca.com.
+
+Follow CA Technologies
+
+* Twitter
+* Social Media Page
+* Press Releases
+* Podcasts
+
+
+Legal Notices
+
+Copyright © 2011 CA. All Rights Reserved. One CA Plaza, Islandia, N.Y.
+11749. All trademarks, trade names, service marks, and logos referenced
+herein belong to their respective companies.
+
+Press Contacts
+
+
+David Resnic
+CA Technologies
+(508) 628-8426
+david.resnic@ca.com
+
+
+
+SOURCE CA Technologies
+Back to top
+
+RELATED LINKS
+http://www.ca.com
+
+
+
+
+
+
+
+
+
+
+
+
+Next in Computer Electronics News
+
+
+
+
+
+
+Custom Packages
+
+
+Browse our custom packages or build your own to meet your unique
+communications needs.
+
+Start today.
+
+
+
+
+
+
+PR Newswire Membership
+
+
+Fill out a PR Newswire membership form or contact us at (888) 776-0942.
+
+
+
+
+Learn about PR Newswire services
+
+
+Request more information about PR Newswire products and services or call
+us at (888) 776-0942.
+
+
+
+
+
+
+My News
+
+
+
+
+Featured Video
+
+
+
+
+
+
+
+
+
+
+* Print
+* Email
+* &nbsp;&nbsp;RSS
+* Google
+
+* 
+               WordPress Blog URL:
+
+               
+
+
+* 
+
+
+
+
+More in These Categories
+
+
+
+
+
+Computer Electronics
+
+
+
+* 
+
+  Hotels.com Launches Integrated Marketing Campaign Surrounding its
+  Mobile Booking App
+
+
+* 
+
+  VIZIO's Breakthrough 8" Tablet Delivers Enhanced Performance for Easier
+  and Faster Access to Your Favorite Entertainment
+
+
+* 
+
+  Kabel Deutschland, Germany's Largest MSO, Selects Concurrent for
+  Multi-Screen Video Delivery
+
+
+
+
+
+Most Read
+
+
+
+* Aug 30, 2011, 05:00 ET Apartments.com and CareerRookie.com Release
+  the Fourth Annual Top 10 Best Cities for Recent College Graduates List
+* Aug 29, 2011, 12:12 ET DISH Network Introduces Tailgater - Portable
+  Satellite System Ideal for RV's, Camping and Tailgating
+* Jul 29, 2011, 09:30 ET Red Carpet Manicure, LLC to Launch the First
+  At-Home Professional Salon Gel Nail Polish System at ULTA
+
+
+
+Most Emailed
+
+
+
+* Aug 30, 2011, 05:00 ET Apartments.com and CareerRookie.com Release
+  the Fourth Annual Top 10 Best Cities for Recent College Graduates List
+* Aug 22, 2011, 08:00 ET Pre-Paid Legal Services Announces New
+  Direction for the Company at 2011 Leadership Summit
+* Aug 31, 2011, 13:00 ET PCMA Outlines $100 Billion in Prescription
+  Drug Savings for Deficit Reduction Committee
+
+
+
+
+
+
+
+Journalists and Bloggers
+
+
+
+
+Visit PR Newswire for Journalists for releases, photos, ProfNet experts,
+and customized feeds just for Media.
+
+View and download archived video content distributed by MultiVu on The
+Digital Center.
+
+
+Free Investing Newsletter from Investor Uprising!
+
+
+Learn to navigate the world's financial system and profit from leading
+companies. 
+
+
+Register for Investor Uprising, the people's investment site, for a free
+weekly newsletter, information, education and premium research including
+our latest IU Confidential Report - "All The Glitters:&nbsp;The Ultimate
+Gold Report".
+
+
+
+
+
+
+
+* Site Preview
+*  Close Site Preview
+* View FullScreen
+
+
+
+
+
+
+
+
+
+
+
+
+
+Advanced Search
+Search
+
+
+
+ Products & Services     News Releases
+
+
+
+
+
+
+Close
+
+
+
+
+
+
+ 
+
+
+
+
+1. Send a release
+2. Member sign in
+3. Become a member
+4. For journalists
+5. Global sites
+
+
+
+
+1. Products &amp; Services
+2. Knowledge Center
+3. Browse News Releases
+4. Contact PR Newswire
+
+
+
+1. About PR Newswire
+2. Contact PR Newswire
+3. PR Newswire's Terms of Use Apply
+4. Careers
+5. Privacy
+6. Site Map
+7. RSS Feeds
+8. Blog
+
+Copyright © 2011 PR Newswire Association LLC. All Rights Reserved.
+A UBM plccompany.
+
+
+
+
+1. Become a member
+2. 
+3. 
+4. Request more information
+5. Call us
+6. Send us feedback
+
+
+
+1. Online Member Center
+2. MEDIAtlas
+3. Media Monitoring
+4. ProfNet
+5. My News for Investors
+
+
+
+1. Argentina
+2. Asia
+3. Brazil
+4. Canada
+5. Europe
+6. France
+7. Israel
+8. Mexico
+9. Netherlands
+10. United Kingdom
+
+
